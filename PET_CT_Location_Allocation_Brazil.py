@@ -53,7 +53,7 @@ cidades_candidates_SP=cidades_candidates_SP.drop(filter1.index, axis=0)
 ##cidades_candidates_Sul=cidades_candidates_Sul.drop(filter1.index, axis=0)
 
 #Save csv candidate cities, , uncomment the code denpending on the region to be analized
-cidades_candidates_SP.to_csv(r"C:\Users\Carol\Desktop\TCC Distr. PET CT_100\cidades_candidates_SP.csv", index=False, sep=",",encoding='latin1')
+cidades_candidates_SP.to_csv(r"~\cidades_candidates_SP.csv", index=False, sep=",",encoding='latin1')
 #cidades_candidates_Centro_Norte.to_csv(r"~\cidades_candidates_Centro_Norte.csv", index=False, sep=",",encoding='latin1')
 #cidades_candidates_Sudeste.to_csv(r"~\cidades_candidates_Sudeste.csv", index=False, sep=",",encoding='latin1')
 #cidades_candidates_Nordeste.to_csv(r"~\cidades_candidates_Nordeste.csv", index=False, sep=",",encoding='latin1')
@@ -67,7 +67,7 @@ cidades_demand_SP=cidades_total_SP
 ##cidades_demand_Sul=cidades_total_Sul
 
 #Save csv demand cities
-cidades_demand_SP.to_csv(r"C:\Users\Carol\Desktop\TCC Distr. PET CT_100\cidades_demand_SP.csv", index=False, sep=",",encoding='latin1')
+cidades_demand_SP.to_csv(r"~\cidades_demand_SP.csv", index=False, sep=",",encoding='latin1')
 #cidades_demand_Centro_Norte.to_csv(r"~\cidades_demand_Centro_Norte.csv", index=False, sep=",",encoding='latin1')
 #cidades_demand_Sudeste.to_csv(r"~\cidades_demand_Sudeste.csv", index=False, sep=",",encoding='latin1')
 #cidades_demand_Nordeste.to_csv(r"~\cidades_demand_Nordeste.csv", index=False, sep=",",encoding='latin1')
@@ -91,7 +91,7 @@ cidades_existing_SP.head(11)
 ##cidades_existing_Sul.head(11)
 
 #Save csv demand cities
-cidades_existing_SP.to_csv(r"C:\Users\Carol\Desktop\TCC Distr. PET CT_100\cidades_existing_SP.csv", index=False, sep=",",encoding='latin1')
+cidades_existing_SP.to_csv(r"~\cidades_existing_SP.csv", index=False, sep=",",encoding='latin1')
 ##cidades_existing_Centro_Norte.to_csv(r"~\cidades_existing_Centro_Norte.csv", index=False, sep=",",encoding='latin1')
 ##cidades_existing_Sudeste.to_csv(r"~\cidades_existing_Sudeste.csv", index=False, sep=",",encoding='latin1')
 ##cidades_existing_Nordeste.to_csv(r"~\cidades_existing_Nordeste.csv", index=False, sep=",",encoding='latin1')
@@ -105,7 +105,7 @@ import requests
 import csv
 import os
 
-csv_file = r"C:\Users\Carol\Desktop\TCC Distr. PET CT_100\cidades_candidates_SP.csv" #path to CSV
+csv_file = r"~\cidades_candidates_SP.csv" #path to CSV
 ##csv_file = r"~\cidades_candidates_Centro_Norte.csv" #path to CSV
 ##csv_file = r"~\cidades_candidates_Sudeste.csv" #path to CSV
 ##csv_file = r"~\cidades_candidates_Nordeste.csv" #path to CSV
@@ -116,7 +116,7 @@ display(csv_item) #display it here
 
 #Configure candidate cities layer, necessary publish in ArcGis Portal
 #edit visualization un the portal with yellow points, size 7
-csv_file1 = r"C:\Users\Carol\Desktop\TCC Distr. PET CT_100\cidades_demand_SP.csv" #path to CSV
+csv_file1 = r"~\cidades_demand_SP.csv" #path to CSV
 ##csv_file1 = r"~\cidades_demand_Centro_Norte.csv" #path to CSV
 ##csv_file1 = r"~\cidades_demand_Sudeste.csv" #path to CSV
 ##csv_file1 = r"~\cidades_demand_Nordeste.csv" #path to CSV
@@ -126,7 +126,7 @@ display(csv_item1) #display it here
 
 #Configure existing cities layer, necessary publish in ArcGis Portal
 #edit visualization in the portal the image from url https://static.arcgis.com/images/Symbols/Basic/BlueShinyPin.png
-csv_file2 = r"C:\Users\Carol\Desktop\TCC Distr. PET CT_100\cidades_existing_SP.csv" #path to CSV
+csv_file2 = r"~\cidades_existing_SP.csv" #path to CSV
 ##csv_file2 = r"~\cidades_existing_Centro_Norte.csv" #path to CSV
 ##csv_file2 = r"~\cidades_existing_Sudeste.csv" #path to CSV
 ##csv_file2 = r"~\cidades_existing_Nordeste.csv" #path to CSV

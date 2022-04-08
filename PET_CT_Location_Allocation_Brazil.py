@@ -12,7 +12,7 @@ cidades_total.head()
 
 #choose states involved in the analisys, only uncomment depending on the region to be analized
 #code for Centro_norte
-##cidades_total_Centro_Norte=cidades_total.query('sigla=="AM" or sigla=="AC" or sigla=="AP" or sigla=="DF" or sigla=="GO" or sigla=="MS" or sigla=="PA" or sigla=="MT" or sigla=="RR" or sigla=="TO"') 
+##cidades_total_Centro_Norte=cidades_total.query('sigla=="AM" or sigla=="AC" or sigla=="AP" or sigla=="DF" or sigla=="GO" or sigla=="MS" or sigla=="PA" or sigla=="MT" or sigla=="RR" or sigla=="TO" or sigla=="RO"') 
 ##cidades_total_Centro_Norte.head()
 #code for Sul
 ##cidades_total_Sul=cidades_total.query('sigla=="SC" or sigla=="PR" or sigla=="RS"') 

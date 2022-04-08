@@ -41,7 +41,7 @@ cidades_candidates_SP = cidades_total_SP.drop(filter4.index, axis=0)
 ##cidades_candidates_Nordeste = cidades_total_Nordeste.drop(filter4.index, axis=0)
 ##cidades_candidates_Sul = cidades_total_Sul.drop(filter4.index, axis=0)
 #filter the candidate cities acc. to the population, > 50T or 100T inhabitants
-filter1 = cidades_candidates_SP[cidades_total['populacao'] < 100000 ]
+filter1 = cidades_candidates_SP[cidades_total['populacao'] < 50000 ]
 cidades_candidates_SP=cidades_candidates_SP.drop(filter1.index, axis=0)
 ##filter1 = cidades_candidates_Centro_Norte[cidades_total['populacao'] < 10000 ]
 ##cidades_candidates_Centro_Norte=cidades_candidates_Centro_Norte.drop(filter1.index, axis=0)

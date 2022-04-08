@@ -21,7 +21,7 @@ cidades_total.head()
 ##cidades_total_Sudeste=cidades_total.query('sigla=="RJ" or sigla=="ES" or sigla=="MG"') 
 ##cidades_total_Sudeste.head()
 #code for Nordeste
-##cidades_total_Nordeste=cidades_total.query('sigla=="BA" or sigla=="MA" or sigla=="PI" or sigla=="PB" or sigla=="PB" or sigla=="RN" or sigla=="AL" or sigla=="SE" or sigla=="CE"') 
+##cidades_total_Nordeste=cidades_total.query('sigla=="BA" or sigla=="MA" or sigla=="PI" or sigla=="PB" or sigla=="PE" or sigla=="RN" or sigla=="AL" or sigla=="SE" or sigla=="CE"') 
 ##cidades_total_Nordeste.head()
 #code for SP
 cidades_total_SP=cidades_total.query('sigla=="SP"') 
@@ -43,13 +43,13 @@ cidades_candidates_SP = cidades_total_SP.drop(filter4.index, axis=0)
 #filter the candidate cities acc. to the population, > 50T or 100T inhabitants
 filter1 = cidades_candidates_SP[cidades_total['populacao'] < 50000 ]
 cidades_candidates_SP=cidades_candidates_SP.drop(filter1.index, axis=0)
-##filter1 = cidades_candidates_Centro_Norte[cidades_total['populacao'] < 10000 ]
+##filter1 = cidades_candidates_Centro_Norte[cidades_total['populacao'] < 50000 ]
 ##cidades_candidates_Centro_Norte=cidades_candidates_Centro_Norte.drop(filter1.index, axis=0)
-##filter1 = cidades_candidates_Sudeste[cidades_total['populacao'] < 10000 ]
+##filter1 = cidades_candidates_Sudeste[cidades_total['populacao'] < 50000 ]
 ##cidades_candidates_Sudeste=cidades_candidates_Sudeste.drop(filter1.index, axis=0)
-##filter1 = cidades_candidates_Nordeste[cidades_total['populacao'] < 10000 ]
+##filter1 = cidades_candidates_Nordeste[cidades_total['populacao'] < 50000 ]
 ##cidades_candidates_Nordeste=cidades_candidates_Nordeste.drop(filter1.index, axis=0)
-##filter1 = cidades_candidates_Sul[cidades_total['populacao'] < 10000 ]
+##filter1 = cidades_candidates_Sul[cidades_total['populacao'] < 50000 ]
 ##cidades_candidates_Sul=cidades_candidates_Sul.drop(filter1.index, axis=0)
 
 #Save csv candidate cities, , uncomment the code denpending on the region to be analized

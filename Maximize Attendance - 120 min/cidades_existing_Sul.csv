@@ -1,0 +1,11 @@
+id,cidade,estado,sigla,codigo,gentilico,latitude,longitude,populacao,area,densidade
+3289,Curitiba,Paraná,PR,4106902,curitibano,-25.4289541,-49.267137,1933105,435.04,4443.6
+3387,Londrina,Paraná,PR,4113700,londrinense,-23.3044524,-51.1695824,569733,1652.57,344.8
+4015,Caxias do Sul,Rio Grande do Sul,RS,4305108,caxiense,-29.1634031,-51.1796683,510906,1652.7,309.1
+4224,Passo Fundo,Rio Grande do Sul,RS,4314100,passo-fundense,-28.2587812,-52.4160039,203275,783.6,259.4
+4245,Porto Alegre,Rio Grande do Sul,RS,4314902,porto-alegrense,-30.0346471,-51.2176584,1483771,495.39,2995.2
+4466,Brusque,Santa Catarina,SC,4202909,brusquense,-27.0982053,-48.9111422,134723,284.75,473.1
+4493,Criciúma,Santa Catarina,SC,4204608,criciumense,-28.6727702,-49.3733771,215186,235.06,915.4
+4544,Itajaí,Santa Catarina,SC,4208203,itajaiense,-26.9107052,-48.6709133,219536,288.4,761.2
+4575,Maravilha,Santa Catarina,SC,4210506,maravilhense,-26.7650048,-53.1745281,25762,170.34,151.2
+4694,Tubarão,Santa Catarina,SC,4218707,tubaronense,-28.471976,-49.0147244,105686,301.48,350.6

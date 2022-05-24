@@ -1,0 +1,6 @@
+id,cidade,estado,sigla,codigo,gentilico,latitude,longitude,populacao,area,densidade
+1411,Belo Horizonte,Minas Gerais,MG,3106200,belo-horizontino,-19.9245018,-43.9352376,2512070,331.4,7580.2
+1846,Montes Claros,Minas Gerais,MG,3143302,montes-clarense,-16.7286406,-43.8582139,409341,3568.94,114.7
+1901,Passa Quatro,Minas Gerais,MG,3147600,passa-quatrense,-22.3988138,-44.9813452,16344,277.22,59.0
+1960,Pouso Alegre,Minas Gerais,MG,3152501,pouso-alegrense,-22.2480373,-45.9420118,150737,542.8,277.7
+3661,Rio de Janeiro,Rio de Janeiro,RJ,3304557,carioca,-22.9068467,-43.1728965,6718903,1200.26,5597.9

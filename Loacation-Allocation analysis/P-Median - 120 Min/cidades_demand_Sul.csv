@@ -1,0 +1,1192 @@
+id,cidade,estado,sigla,codigo,gentilico,latitude,longitude,populacao,area,densidade
+3195,Abatiá,Paraná,PR,4100103,abatiense,-23.3108561,-50.2862819,7457,228.72,32.6
+3196,Adrianópolis,Paraná,PR,4100202,adrianopolitano,-24.7593123,-48.8397403,5919,1349.31,4.4
+3197,Agudos do Sul,Paraná,PR,4100301,agudense-do-sul,-26.0286752,-49.3044253,9371,192.26,48.7
+3198,Almirante Tamandaré,Paraná,PR,4100400,tamandareense,-25.2985567,-49.3450112,118623,194.74,609.1
+3199,Altamira do Paraná,Paraná,PR,4100459,altamirense,-24.8218692,-52.6814062,1942,386.95,5.0
+3200,Alto Paraíso,Paraná,PR,4128625,altoparaisense,-23.5435415,-53.8671868,2741,967.77,2.8
+3201,Alto Paraná,Paraná,PR,4100608,alto-paranaense,-23.13172,-52.3193827,14770,407.72,36.2
+3202,Alto Piquiri,Paraná,PR,4100707,alto-piquirense,-24.0943485,-53.4122052,9836,447.67,22.0
+3203,Altônia,Paraná,PR,4100509,altoniano,-23.8729539,-53.8933423,22056,661.56,33.3
+3204,Alvorada do Sul,Paraná,PR,4100806,alvoradense-do-sul,-22.7960186,-51.2422395,11406,424.25,26.9
+3205,Amaporã,Paraná,PR,4100905,amaporense,-23.1263504,-52.8527002,6257,384.74,16.3
+3206,Ampére,Paraná,PR,4101002,amperense,-25.9179074,-53.4715171,19152,298.35,64.2
+3207,Anahy,Paraná,PR,4101051,anaiense,-24.6399084,-53.1426814,2801,102.65,27.3
+3208,Andirá,Paraná,PR,4101101,andiraense,-23.047934,-50.2306675,20031,236.08,84.9
+3209,Ângulo,Paraná,PR,4101150,angulense,-23.1887099,-51.9156992,2928,106.02,27.6
+3210,Antonina,Paraná,PR,4101200,antoninense,-25.4328356,-48.7162067,18980,882.32,21.5
+3211,Antônio Olinto,Paraná,PR,4101309,antoniolintense,-25.9745743,-50.1420882,7434,469.62,15.8
+3212,Apucarana,Paraná,PR,4101408,apucaranense,-23.5504385,-51.4639716,134996,558.39,241.8
+3213,Arapongas,Paraná,PR,4101507,araponguense,-23.4157731,-51.4264048,123027,382.22,321.9
+3214,Arapoti,Paraná,PR,4101606,arapotiense,-24.1507449,-49.826658,28115,1360.49,20.7
+3215,Arapuã,Paraná,PR,4101655,arapuãense,-24.3136599,-51.7861276,3068,217.37,14.1
+3216,Araruna,Paraná,PR,4101705,ararunense,-23.9313748,-52.4990389,13970,493.19,28.3
+3217,Araucária,Paraná,PR,4101804,araucariano,-25.586431,-49.4052251,143843,469.24,306.5
+3218,Ariranha do Ivaí,Paraná,PR,4101853,ariranhense do ivaí,-24.3636974,-51.5360368,2108,239.56,8.8
+3219,Assaí,Paraná,PR,4101903,assaiense,-23.4049892,-50.8664451,15119,440.35,34.3
+3220,Assis Chateaubriand,Paraná,PR,4102000,assis-chateaubriense,-24.4066881,-53.5142422,33362,969.59,34.4
+3221,Astorga,Paraná,PR,4102109,astorgano,-23.2400211,-51.6639768,26111,434.79,60.1
+3222,Atalaia,Paraná,PR,4102208,atalaiense,-23.1157079,-52.0851258,3892,137.66,28.3
+3223,Balsa Nova,Paraná,PR,4102307,balsa-novense,-25.5808612,-49.6295579,12941,348.93,37.1
+3224,Bandeirantes,Paraná,PR,4102406,bandeirantense,-23.1087262,-50.3675124,31367,445.19,70.5
+3225,Barbosa Ferraz,Paraná,PR,4102505,barbosense,-24.0287339,-52.0137547,11568,538.64,21.5
+3226,Barra do Jacaré,Paraná,PR,4102703,barrense,-23.1027892,-50.1215169,2781,115.72,24.0
+3227,Barracão,Paraná,PR,4102604,barraconense,-26.2499424,-53.5419225,10275,171.4,59.9
+3228,Bela Vista da Caroba,Paraná,PR,4102752,boaesperencense,-25.8681271,-53.6285244,3511,148.11,23.7
+3229,Bela Vista do Paraíso,Paraná,PR,4102802,bela-vistense,-22.9941291,-51.1931385,15397,242.69,63.4
+3230,Bituruna,Paraná,PR,4102901,biturenense,-26.1585307,-51.5548851,16389,1228.28,13.3
+3231,Boa Esperança,Paraná,PR,4103008,boa-esperansense,-24.2386946,-52.7670021,4105,302.74,13.6
+3232,Boa Esperança do Iguaçu,Paraná,PR,4103024,boaesperencense,-25.6331944,-53.2395973,2503,151.8,16.5
+3233,Boa Ventura de São Roque,Paraná,PR,4103040,boa venturense,-24.9365279,-51.6412826,6387,620.45,10.3
+3234,Boa Vista da Aparecida,Paraná,PR,4103057,boa-vistense,-25.4338657,-53.4074927,7591,256.3,29.6
+3235,Bocaiúva do Sul,Paraná,PR,4103107,bocaiuvense,-25.2071511,-49.1140998,12944,826.34,15.7
+3236,Bom Jesus do Sul,Paraná,PR,4103156,bonjesuense,-26.1686024,-53.5419225,3541,173.82,20.4
+3237,Bom Sucesso,Paraná,PR,4103206,bom-sucessense,-23.7277649,-51.8311441,7032,322.76,21.8
+3238,Bom Sucesso do Sul,Paraná,PR,4103222,bomsucessense do sul,-26.0932926,-52.8419824,3264,195.93,16.7
+3239,Borrazópolis,Paraná,PR,4103305,borrazopolitano,-23.9376618,-51.5874678,6592,334.38,19.7
+3240,Braganey,Paraná,PR,4103354,braganense,-24.7831741,-53.1104044,5427,343.32,15.8
+3241,Brasilândia do Sul,Paraná,PR,4103370,brasilandiense,-24.1710055,-53.5419225,2651,291.04,9.1
+3242,Cafeara,Paraná,PR,4103404,cafearense,-22.7895237,-51.7146798,2934,185.8,15.8
+3243,Cafelândia,Paraná,PR,4103453,cafelandense,-24.6938177,-53.3690158,18120,271.72,66.7
+3244,Cafezal do Sul,Paraná,PR,4103479,cafezalense,-23.925967,-53.5419225,4044,335.39,12.1
+3245,Califórnia,Paraná,PR,4103503,californiano,-23.6605742,-51.3260472,8570,141.82,60.4
+3246,Cambará,Paraná,PR,4103602,cambaraense,-23.0465199,-50.0720282,25360,366.15,69.3
+3247,Cambé,Paraná,PR,4103701,cambeense,-23.277052,-51.2803152,106533,495.38,215.1
+3248,Cambira,Paraná,PR,4103800,cambirense,-23.654251,-51.5781151,7865,163.39,48.1
+3249,Campina da Lagoa,Paraná,PR,4103909,campinense-da-lagoa,-24.5933227,-52.8040728,14202,796.61,17.8
+3250,Campina do Simão,Paraná,PR,4103958,campineiro do simão,-25.1480527,-51.8100218,3887,448.42,8.7
+3251,Campina Grande do Sul,Paraná,PR,4104006,campinense-do-sul,-25.304882,-49.0555691,43288,539.25,80.3
+3252,Campo Bonito,Paraná,PR,4104055,campo-bonitense,-24.9210217,-53.0244018,3833,433.83,8.8
+3253,Campo do Tenente,Paraná,PR,4104105,tenentiano,-25.9688744,-49.6503106,7971,304.49,26.2
+3254,Campo Largo,Paraná,PR,4104204,campo-larguense,-25.4596855,-49.5273149,132002,1243.55,106.1
+3255,Campo Magro,Paraná,PR,4104253,campomagrense,-25.3694999,-49.4506456,29318,275.35,106.5
+3256,Campo Mourão,Paraná,PR,4104303,campo-mourense,-24.0436553,-52.3781098,94859,749.64,126.5
+3257,Cândido de Abreu,Paraná,PR,4104402,cândido-abreuense,-24.5653769,-51.3376784,15018,1510.16,9.9
+3258,Candói,Paraná,PR,4104428,candoianos,-25.4675864,-51.9368545,15979,1512.79,10.6
+3259,Cantagalo,Paraná,PR,4104451,cantagalense,-25.3754593,-52.1217384,13317,583.54,22.8
+3260,Capanema,Paraná,PR,4104501,capanemense,-25.6200963,-53.758612,19124,419.04,45.6
+3261,Capitão Leônidas Marques,Paraná,PR,4104600,leônidas-marquesiense,-25.4889021,-53.5852111,15780,275.75,57.2
+3262,Carambeí,Paraná,PR,4104659,carambiense,-24.9525298,-50.1155075,23415,649.68,36.0
+3263,Carlópolis,Paraná,PR,4104709,carlopolitano,-23.477269,-49.7319925,14320,451.42,31.7
+3264,Cascavel,Paraná,PR,4104808,cascavelense,-24.9578832,-53.459544,328454,2101.07,156.3
+3265,Castro,Paraná,PR,4104907,castrense,-24.7902746,-49.7728757,71484,2531.5,28.2
+3266,Catanduvas,Paraná,PR,4105003,catanduvense,-25.204834,-53.1553309,10189,581.76,17.5
+3267,Centenário do Sul,Paraná,PR,4105102,centenariense,-22.8192739,-51.5967377,10827,371.83,29.1
+3268,Cerro Azul,Paraná,PR,4105201,cerro-azulense,-24.8928967,-49.2435998,17779,1341.19,13.3
+3269,Céu Azul,Paraná,PR,4105300,céu-azulense,-25.2383553,-53.7803147,11765,1179.45,10.0
+3270,Chopinzinho,Paraná,PR,4105409,chopinzinhense,-25.8359374,-52.4891909,19254,959.69,20.1
+3271,Cianorte,Paraná,PR,4105508,cianortense,-23.6602731,-52.6068646,82620,811.67,101.8
+3272,Cidade Gaúcha,Paraná,PR,4105607,cidade-gauchense,-23.3824479,-52.9445236,12652,403.05,31.4
+3273,Clevelândia,Paraná,PR,4105706,clevelandense,-26.4078459,-52.3606562,16559,703.64,23.5
+3274,Colombo,Paraná,PR,4105805,colombense,-25.2929388,-49.2266301,243726,197.79,1232.2
+3275,Colorado,Paraná,PR,4105904,colorados,-22.8382929,-51.9580164,24012,403.26,59.5
+3276,Congonhinhas,Paraná,PR,4106001,congonhinhense,-23.5704567,-50.5549719,8818,535.96,16.5
+3277,Conselheiro Mairinck,Paraná,PR,4106100,mairinquense,-23.6170247,-50.1215169,3860,204.71,18.9
+3278,Contenda,Paraná,PR,4106209,contendense,-25.6793029,-49.5355225,18584,299.04,62.1
+3279,Corbélia,Paraná,PR,4106308,corbeliano,-24.7650935,-53.2611514,17071,529.38,32.2
+3280,Cornélio Procópio,Paraná,PR,4106407,procopense,-23.197833,-50.6378804,47845,635.1,75.3
+3281,Coronel Domingos Soares,Paraná,PR,4106456,dominguense,-26.2168483,-51.8945505,7497,1562.85,4.8
+3282,Coronel Vivida,Paraná,PR,4106506,coronel-vividense,-25.979821,-52.5678016,20734,684.42,30.3
+3283,Corumbataí do Sul,Paraná,PR,4106555,corumbataiense,-24.101433,-52.1181539,3219,164.34,19.6
+3284,Cruz Machado,Paraná,PR,4106803,cruz-machadense,-25.9259497,-51.2213044,18708,1478.35,12.7
+3285,Cruzeiro do Iguaçu,Paraná,PR,4106571,cruzeirense,-25.6360632,-53.1104044,4252,161.86,26.3
+3286,Cruzeiro do Oeste,Paraná,PR,4106605,cruzeirense,-23.7834562,-53.0762805,20932,775.98,27.0
+3287,Cruzeiro do Sul,Paraná,PR,4106704,cruzeirense-do-sul,-23.0066333,-52.1275481,4469,259.1,17.2
+3288,Cruzmaltina,Paraná,PR,4106852,cruzmaltinense,-23.9919144,-51.4445712,2950,312.3,9.4
+3289,Curitiba,Paraná,PR,4106902,curitibano,-25.4289541,-49.267137,1933105,435.04,4443.6
+3290,Curiúva,Paraná,PR,4107009,curiuvense,-24.037324,-50.456568,15101,576.26,26.2
+3291,Diamante d'Oeste,Paraná,PR,4107157,sul-diamantino,-24.9408107,-54.1065864,5253,309.11,17.0
+3292,Diamante do Norte,Paraná,PR,4107108,diamantense,-22.657229,-52.8611436,5087,242.89,20.9
+3293,Diamante do Sul,Paraná,PR,4107124,diamantense,-24.9962725,-52.7241914,3439,347.23,9.9
+3294,Dois Vizinhos,Paraná,PR,4107207,dois-vizinhense,-25.7464549,-53.0615734,40641,418.65,97.1
+3295,Douradina,Paraná,PR,4107256,douradinense,-23.3851548,-53.2943203,8747,419.85,20.8
+3296,Doutor Camargo,Paraná,PR,4107306,camarguense,-23.5551034,-52.2124713,5979,118.28,50.5
+3297,Doutor Ulysses,Paraná,PR,4128633,ulyssense,-24.6323235,-49.4059435,5580,777.48,7.2
+3298,Enéas Marques,Paraná,PR,4107405,enéas-marquense,-25.9326971,-53.1534436,5961,192.2,31.0
+3299,Engenheiro Beltrão,Paraná,PR,4107504,engenheiro-beltrense,-23.7427949,-52.2337184,14000,467.47,29.9
+3300,Entre Rios do Oeste,Paraná,PR,4107538,entreriense,-24.7065631,-54.2433113,4539,122.07,37.2
+3301,Esperança Nova,Paraná,PR,4107520,esperançanovense,-23.7103646,-53.8020236,1698,138.56,12.3
+3302,Espigão Alto do Iguaçu,Paraná,PR,4107546,espigãoense,-25.4221149,-52.8353014,4117,326.44,12.6
+3303,Farol,Paraná,PR,4107553,farolense,-24.1211056,-52.6386467,3089,289.23,10.7
+3304,Faxinal,Paraná,PR,4107603,faxinalense,-24.0021722,-51.3256188,17251,715.94,24.1
+3305,Fazenda Rio Grande,Paraná,PR,4107652,fazendense,-25.6628343,-49.3077648,100209,116.68,858.9
+3306,Fênix,Paraná,PR,4107702,fenexense,-23.8974827,-52.0003599,4762,234.1,20.3
+3307,Fernandes Pinheiro,Paraná,PR,4107736,fernandespinheirense,-25.5153377,-50.4928628,5646,406.5,13.9
+3308,Figueira,Paraná,PR,4107751,figueirense,-23.8487044,-50.4060289,7770,129.77,59.9
+3309,Flor da Serra do Sul,Paraná,PR,4107850,sulflorense,-26.2420807,-53.2395973,4624,238.91,19.4
+3310,Floraí,Paraná,PR,4107801,floraiense,-23.3488107,-52.3400517,4929,191.13,25.8
+3311,Floresta,Paraná,PR,4107900,florestense,-23.5995002,-52.0851258,6774,158.23,42.8
+3312,Florestópolis,Paraná,PR,4108007,florestopolitano,-22.8664464,-51.3906526,10548,246.33,42.8
+3313,Flórida,Paraná,PR,4108106,floridense,-23.1071118,-51.9474346,2689,83.05,32.4
+3314,Formosa do Oeste,Paraná,PR,4108205,formosense-do-oeste,-24.2742123,-53.3258513,6578,275.71,23.9
+3315,Foz do Iguaçu,Paraná,PR,4108304,iguaçuense,-25.5163356,-54.5853764,258532,618.35,418.1
+3316,Foz do Jordão,Paraná,PR,4108452,foz jordanense,-25.7377615,-52.118815,4650,235.38,19.8
+3317,Francisco Alves,Paraná,PR,4108320,alvense,-24.1024751,-53.88892,6046,321.9,18.8
+3318,Francisco Beltrão,Paraná,PR,4108403,beltronense,-26.0404504,-53.1749726,91093,735.11,123.9
+3319,General Carneiro,Paraná,PR,4108502,carneirense,-26.4574061,-51.3889736,13710,1071.18,12.8
+3320,Godoy Moreira,Paraná,PR,4108551,godoense,-24.1615986,-51.9051241,2946,131.01,22.5
+3321,Goioerê,Paraná,PR,4108601,goio-erense,-24.1468613,-53.0888943,28884,564.16,51.2
+3322,Goioxim,Paraná,PR,4108650,goioxinhense,-25.118718,-51.9791849,7111,702.47,10.1
+3323,Grandes Rios,Paraná,PR,4108700,grande-riense,-24.1783477,-51.4519605,5618,314.2,17.9
+3324,Guaíra,Paraná,PR,4108809,guairense,-24.0840184,-54.256534,33119,560.49,59.1
+3325,Guairaçá,Paraná,PR,4108908,guairaçaense,-22.9144581,-52.7455935,6581,493.94,13.3
+3326,Guamiranga,Paraná,PR,4108957,guamiranguense,-25.1840429,-50.8248263,8739,244.8,35.7
+3327,Guapirama,Paraná,PR,4109005,guapiramense,-23.4462466,-50.0803953,3802,189.1,20.1
+3328,Guaporema,Paraná,PR,4109104,guaporemense,-23.3175579,-52.8098384,2243,201.15,11.2
+3329,Guaraci,Paraná,PR,4109203,guaraciense,-22.9712988,-51.6487558,5502,211.68,26.0
+3330,Guaraniaçu,Paraná,PR,4109302,guaraniaçuano,-25.1287471,-52.8312661,12472,1238.32,10.1
+3331,Guarapuava,Paraná,PR,4109401,guarapuavano,-25.3907214,-51.4628097,181504,3168.09,57.3
+3332,Guaraqueçaba,Paraná,PR,4109500,guaraqueçabano,-25.2445091,-48.3190276,7636,2017.03,3.8
+3333,Guaratuba,Paraná,PR,4109609,guaratubense,-25.8804742,-48.5737662,37067,1326.67,27.9
+3334,Honório Serpa,Paraná,PR,4109658,honório serpense,-26.1870421,-52.318772,5211,502.24,10.4
+3335,Ibaiti,Paraná,PR,4109708,ibaitiense,-23.8401119,-50.1924435,31364,897.74,34.9
+3336,Ibema,Paraná,PR,4109757,ibemense,-25.1646004,-53.0244018,6352,145.45,43.7
+3337,Ibiporã,Paraná,PR,4109807,ibiporanense,-23.2664186,-51.0527244,54558,297.74,183.2
+3338,Icaraíma,Paraná,PR,4109906,icaraimense,-23.3919306,-53.6068646,7904,675.24,11.7
+3339,Iguaraçu,Paraná,PR,4110003,iguaraçuense,-23.2049201,-51.8311441,4404,164.98,26.7
+3340,Iguatu,Paraná,PR,4110052,iguatuense,-24.6825203,-53.0781416,2256,106.94,21.1
+3341,Imbaú,Paraná,PR,4110078,imbauense,-24.4422962,-50.7416707,13111,330.7,39.6
+3342,Imbituva,Paraná,PR,4110102,imbituvense,-25.2293043,-50.6054136,32564,756.54,43.0
+3343,Inácio Martins,Paraná,PR,4110201,inácio-martinense,-25.5734557,-51.0770721,11125,936.21,11.9
+3344,Inajá,Paraná,PR,4110300,inajaense,-22.7074597,-52.2124713,3109,194.7,16.0
+3345,Indianópolis,Paraná,PR,4110409,indianopolitano,-23.4847715,-52.6814062,4457,122.62,36.3
+3346,Ipiranga,Paraná,PR,4110508,ipiranguense,-25.0253304,-50.5835338,15172,927.09,16.4
+3347,Iporã,Paraná,PR,4110607,iporãnense,-24.0022671,-53.7086807,13926,647.89,21.5
+3348,Iracema do Oeste,Paraná,PR,4110656,iracemense,-24.436091,-53.3582223,2288,81.54,28.1
+3349,Irati,Paraná,PR,4110706,iratiense,-25.4700302,-50.6509459,60727,999.52,60.8
+3350,Iretama,Paraná,PR,4110805,iretamense,-24.3389217,-52.0639245,10169,570.46,17.8
+3351,Itaguajé,Paraná,PR,4110904,itaguajeense,-22.5967051,-51.9580164,4466,190.37,23.5
+3352,Itaipulândia,Paraná,PR,4110953,itaipulandiense,-25.1362597,-54.3685809,11176,331.29,33.7
+3353,Itambaracá,Paraná,PR,4111001,itambaracaense,-22.9911548,-50.4101474,6582,207.34,31.7
+3354,Itambé,Paraná,PR,4111100,itambenense,-23.6960943,-52.0003599,6108,243.82,25.1
+3355,Itapejara d'Oeste,Paraná,PR,4111209,itapejarense,-25.9660986,-52.8146778,11964,254.01,47.1
+3356,Itaperuçu,Paraná,PR,4111258,itaperuçuense,-25.1169056,-49.5076392,28634,320.58,89.3
+3357,Itaúna do Sul,Paraná,PR,4111308,itaunense,-22.7318805,-52.8955875,2865,128.87,22.2
+3358,Ivaí,Paraná,PR,4111407,ivaiense,-24.9449414,-50.8872648,13879,607.85,22.8
+3359,Ivaiporã,Paraná,PR,4111506,ivaiporãnense,-24.2444396,-51.6741201,31984,431.5,74.1
+3360,Ivaté,Paraná,PR,4111555,ivateense,-23.4090724,-53.3721383,8185,410.91,19.9
+3361,Ivatuba,Paraná,PR,4111605,ivatubense,-23.6191974,-52.2207636,3259,96.66,33.7
+3362,Jaboti,Paraná,PR,4111704,jabotiense,-23.7230231,-50.0803953,5274,139.28,37.9
+3363,Jacarezinho,Paraná,PR,4111803,jacarezinhense,-23.1580947,-49.9777136,39378,602.53,65.4
+3364,Jaguapitã,Paraná,PR,4111902,jaguapitãense,-23.1093238,-51.533873,13620,475.0,28.7
+3365,Jaguariaíva,Paraná,PR,4112009,jaguariaivense,-24.3439722,-49.7319925,34857,1453.07,24.0
+3366,Jandaia do Sul,Paraná,PR,4112108,jandaiense-do-sul,-23.6386271,-51.6623517,21176,187.6,112.9
+3367,Janiópolis,Paraná,PR,4112207,janiopolitano,-24.1291732,-52.8098384,5245,335.65,15.6
+3368,Japira,Paraná,PR,4112306,japirense,-23.7483506,-50.1626664,4994,188.29,26.5
+3369,Japurá,Paraná,PR,4112405,japuraense,-23.4489899,-52.5532048,9425,165.19,57.1
+3370,Jardim Alegre,Paraná,PR,4112504,jardim-alegrense,-24.1816083,-51.6906654,11328,410.48,27.6
+3371,Jardim Olinda,Paraná,PR,4112603,jardinolindense,-22.5527243,-52.050779,1331,128.52,10.4
+3372,Jataizinho,Paraná,PR,4112702,jatainhense,-23.2509757,-50.9185071,12588,159.18,79.1
+3373,Jesuítas,Paraná,PR,4112751,jesuitense,-24.3803669,-53.3865498,8412,247.5,34.0
+3374,Joaquim Távora,Paraná,PR,4112801,tavorense,-23.4749389,-49.9161886,11908,289.17,41.2
+3375,Jundiaí do Sul,Paraná,PR,4112900,jundiaiense-do-sul,-23.4703637,-50.2244429,3292,320.82,10.3
+3376,Juranda,Paraná,PR,4112959,jurandense,-24.4131163,-52.8098384,7340,354.36,20.7
+3377,Jussara,Paraná,PR,4113007,jussarense,-23.6201232,-52.4717897,7013,210.87,33.3
+3378,Kaloré,Paraná,PR,4113106,kaloreense,-23.8517,-51.70451,4100,193.3,21.2
+3379,Lapa,Paraná,PR,4113205,lapeano,-25.7675893,-49.717299,48163,2093.86,23.0
+3380,Laranjal,Paraná,PR,4113254,laranjaense,-24.8878617,-52.4713181,5852,559.44,10.5
+3381,Laranjeiras do Sul,Paraná,PR,4113304,laranjeirense-do-sul,-25.4079504,-52.4134746,32073,673.6,47.6
+3382,Leópolis,Paraná,PR,4113403,leopolense,-23.0632943,-50.7208989,3954,344.92,11.5
+3383,Lidianópolis,Paraná,PR,4113429,lidianopolitano,-24.0802548,-51.6623517,3310,154.36,21.4
+3384,Lindoeste,Paraná,PR,4113452,lindo-estense,-25.2727088,-53.5419225,4676,361.37,12.9
+3385,Loanda,Paraná,PR,4113502,loandense,-22.9309562,-53.1346109,23086,722.5,32.0
+3386,Lobato,Paraná,PR,4113601,lobatense,-22.9709884,-52.0003599,4787,240.9,19.9
+3387,Londrina,Paraná,PR,4113700,londrinense,-23.3044524,-51.1695824,569733,1652.57,344.8
+3388,Luiziana,Paraná,PR,4113734,luizianense,-24.3325053,-52.318772,7262,916.84,7.9
+3389,Lunardelli,Paraná,PR,4113759,lunardelliense,-24.0772839,-51.7889062,4794,199.21,24.1
+3390,Lupionópolis,Paraná,PR,4113809,lupionopolense,-22.7554607,-51.6605692,4920,121.07,40.6
+3391,Mallet,Paraná,PR,4113908,malletense,-25.8728975,-50.8664451,13630,753.71,18.1
+3392,Mamborê,Paraná,PR,4114005,mamborense,-24.3170965,-52.5275452,13132,788.06,16.7
+3393,Mandaguaçu,Paraná,PR,4114104,mandaguaçuense,-23.3462407,-52.0948587,22819,294.02,77.6
+3394,Mandaguari,Paraná,PR,4114203,mandaguariense,-23.5169863,-51.687206,34400,335.81,102.4
+3395,Mandirituba,Paraná,PR,4114302,mandiritubano,-25.7775289,-49.3287022,26869,379.18,70.9
+3396,Manfrinópolis,Paraná,PR,4114351,manfrinopolitano,-26.1052199,-53.3258513,2571,216.42,11.9
+3397,Mangueirinha,Paraná,PR,4114401,mangueirinhense,-26.0001463,-52.2337184,16714,1055.46,15.8
+3398,Manoel Ribas,Paraná,PR,4114500,manoel-ribense,-24.4815979,-51.6623517,13502,571.14,23.6
+3399,Marechal Cândido Rondon,Paraná,PR,4114609,rondonense,-24.5568725,-54.056788,52944,748.0,70.8
+3400,Maria Helena,Paraná,PR,4114708,maria-helenense,-23.6010093,-53.1749726,5677,486.22,11.7
+3401,Marialva,Paraná,PR,4114807,marialvense,-23.4846227,-51.7930941,35496,475.56,74.6
+3402,Marilândia do Sul,Paraná,PR,4114906,marilandense,-23.7944567,-51.3050851,8836,384.42,23.0
+3403,Marilena,Paraná,PR,4115002,marilenense,-22.7374071,-53.0673905,7076,232.36,30.5
+3404,Mariluz,Paraná,PR,4115101,mariluzense,-24.0074176,-53.1479115,10345,433.17,23.9
+3405,Maringá,Paraná,PR,4115200,maringaense,-23.4209995,-51.9330558,423666,487.01,869.9
+3406,Mariópolis,Paraná,PR,4115309,mariopolitano,-26.3569068,-52.5541694,6610,230.37,28.7
+3407,Maripá,Paraná,PR,4115358,maripaense,-24.420451,-53.8291478,5603,283.79,19.7
+3408,Marmeleiro,Paraná,PR,4115408,marmeleirense,-26.2442498,-53.1104044,14367,387.38,37.1
+3409,Marquinho,Paraná,PR,4115457,marquinhense,-25.1005188,-52.254972,4405,509.63,8.6
+3410,Marumbi,Paraná,PR,4115507,marumbiense,-23.7590822,-51.6623517,4679,208.47,22.4
+3411,Matelândia,Paraná,PR,4115606,matelandiense,-25.2426589,-53.9785591,17943,639.75,28.0
+3412,Matinhos,Paraná,PR,4115705,matinhense,-25.8322614,-48.5380454,34720,117.9,294.5
+3413,Mato Rico,Paraná,PR,4115739,mato-riquense,-24.7111986,-52.2337184,3272,394.53,8.3
+3414,Mauá da Serra,Paraná,PR,4115754,mauaense da serra,-23.8992407,-51.2282168,10601,108.32,97.9
+3415,Medianeira,Paraná,PR,4115804,medianeirense,-25.2952784,-54.0932225,46198,328.73,140.5
+3416,Mercedes,Paraná,PR,4115853,mercedense,-24.4314063,-54.1938221,5536,200.86,27.6
+3417,Mirador,Paraná,PR,4115903,miradorense,-23.2245912,-52.7670021,2213,221.71,10.0
+3418,Miraselva,Paraná,PR,4116000,miraselvano,-22.9675844,-51.4848278,1806,90.29,20.0
+3419,Missal,Paraná,PR,4116059,missalense,-25.0914713,-54.2474972,10702,324.4,33.0
+3420,Moreira Sales,Paraná,PR,4116109,moreira-salense,-24.0271374,-53.0244018,12121,353.77,34.3
+3421,Morretes,Paraná,PR,4116208,morretense,-25.4827475,-48.8290713,16406,684.58,24.0
+3422,Munhoz de Melo,Paraná,PR,4116307,munhozense,-23.1406653,-51.7466948,3984,137.02,29.1
+3423,Nossa Senhora das Graças,Paraná,PR,4116406,gracense,-22.9114615,-51.7889062,4008,185.77,21.6
+3424,Nova Aliança do Ivaí,Paraná,PR,4116505,ivaiense,-23.1773655,-52.5959129,1543,131.27,11.8
+3425,Nova América da Colina,Paraná,PR,4116604,nova-americanense,-23.3555531,-50.700134,3445,129.48,26.6
+3426,Nova Aurora,Paraná,PR,4116703,nova-aurorense,-24.5208392,-53.2611514,10472,474.01,22.1
+3427,Nova Cantu,Paraná,PR,4116802,nova-cantuense,-24.6492017,-52.5745556,5302,555.49,9.5
+3428,Nova Esperança,Paraná,PR,4116901,nova-esperancense,-23.1891863,-52.2004893,27904,401.59,69.5
+3429,Nova Esperança do Sudoeste,Paraná,PR,4116950,novaesperancense,-25.9034897,-53.2611514,5046,208.47,24.2
+3430,Nova Fátima,Paraná,PR,4117008,fatimense,-23.4332183,-50.5634408,8153,283.42,28.8
+3431,Nova Laranjeiras,Paraná,PR,4117057,nova laranjeirense,-25.215352,-52.5745556,11554,1210.21,9.5
+3432,Nova Londrina,Paraná,PR,4117107,nova-londrinense,-22.7643989,-52.9872654,13213,269.39,49.0
+3433,Nova Olímpia,Paraná,PR,4117206,olimpiense,-23.4290277,-53.0673905,5806,136.35,42.6
+3434,Nova Prata do Iguaçu,Paraná,PR,4117255,pratense,-25.6035708,-53.3474304,10548,352.57,29.9
+3435,Nova Santa Bárbara,Paraná,PR,4117214,bárbaraense,-23.593655,-50.7312839,4249,71.76,59.2
+3436,Nova Santa Rosa,Paraná,PR,4117222,nova-santa-rosense,-24.4130078,-53.9759139,8219,204.67,40.2
+3437,Nova Tebas,Paraná,PR,4117271,nova-tebense,-24.4487243,-51.9580164,5649,545.69,10.4
+3438,Novo Itacolomi,Paraná,PR,4117297,itacolomiense,-23.8023903,-51.5360368,2844,161.41,17.6
+3439,Ortigueira,Paraná,PR,4117305,ortigueirense,-24.2099688,-50.9263297,22141,2429.56,9.1
+3440,Ourizona,Paraná,PR,4117404,ourizonense,-23.4340143,-52.2124713,3428,176.46,19.4
+3441,Ouro Verde do Oeste,Paraná,PR,4117453,ouro-verdense,-24.7985475,-53.88892,5996,293.04,20.5
+3442,Paiçandu,Paraná,PR,4117503,paiçanduense,-23.4554707,-52.0423373,41281,171.38,240.9
+3443,Palmas,Paraná,PR,4117602,palmense,-26.4307273,-51.8100218,50986,1557.9,32.7
+3444,Palmeira,Paraná,PR,4117701,palmeirense,-25.4239714,-50.0044697,33877,1470.07,23.0
+3445,Palmital,Paraná,PR,4117800,palmitalense,-24.8724898,-52.2337184,13172,817.65,16.1
+3446,Palotina,Paraná,PR,4117909,palotinense,-24.2808439,-53.8671868,31846,651.24,48.9
+3447,Paraíso do Norte,Paraná,PR,4118006,paraisense-do-norte,-23.2702315,-52.6386467,13830,204.56,67.6
+3448,Paranacity,Paraná,PR,4118105,paranacitense,-22.8453057,-52.1275481,11472,348.63,32.9
+3449,Paranaguá,Paraná,PR,4118204,parnanguara,-25.5165725,-48.5229975,154936,826.43,187.5
+3450,Paranapoema,Paraná,PR,4118303,paranapoemense,-22.6722404,-52.0851258,3203,175.88,18.2
+3451,Paranavaí,Paraná,PR,4118402,paranavaiense,-23.0821226,-52.4622155,88374,1202.27,73.5
+3452,Pato Bragado,Paraná,PR,4118451,pato bragadense,-24.6283084,-54.2264013,5610,135.29,41.5
+3453,Pato Branco,Paraná,PR,4118501,pato-branquense,-26.2297202,-52.6711356,82881,539.09,153.7
+3454,Paula Freitas,Paraná,PR,4118600,paula-freitense,-26.1902592,-50.8040271,5873,421.41,13.9
+3455,Paulo Frontin,Paraná,PR,4118709,frontinense,-26.0709768,-50.7416707,7354,369.86,19.9
+3456,Peabiru,Paraná,PR,4118808,peabiruense,-23.9145273,-52.3400517,13996,468.6,29.9
+3457,Perobal,Paraná,PR,4118857,perobalense,-23.9192779,-53.3690158,6127,409.05,15.0
+3458,Pérola,Paraná,PR,4118907,perolense,-23.8026835,-53.6799909,11234,240.64,46.7
+3459,Pérola d'Oeste,Paraná,PR,4119004,pérola-oestense,-25.8223397,-53.7439324,6347,205.28,30.9
+3460,Piên,Paraná,PR,4119103,pienense,-26.0836686,-49.4669396,12746,254.79,50.0
+3461,Pinhais,Paraná,PR,4119152,pinhaense,-25.4434411,-49.1931448,132157,60.87,2171.2
+3462,Pinhal de São Bento,Paraná,PR,4119251,pinhalense,-26.020615,-53.4878465,2731,97.46,28.0
+3463,Pinhalão,Paraná,PR,4119202,pinhalense ou pinhalãoense,-23.9207049,-50.0803953,6326,220.63,28.7
+3464,Pinhão,Paraná,PR,4119301,pinhãoense,-25.6948725,-51.6540907,32391,2001.59,16.2
+3465,Piraí do Sul,Paraná,PR,4119400,piraiense,-24.4748345,-49.8956943,25463,1403.07,18.1
+3466,Piraquara,Paraná,PR,4119509,piraquarense,-25.4426635,-49.0628847,113036,227.04,497.9
+3467,Pitanga,Paraná,PR,4119608,pitanguense,-24.7592533,-51.7601166,30310,1663.75,18.2
+3468,Pitangueiras,Paraná,PR,4119657,pitangueirense,-23.2128994,-51.5781151,3224,123.23,26.2
+3469,Planaltina do Paraná,Paraná,PR,4119707,planaltinense,-23.1208644,-52.9814383,4263,356.19,12.0
+3470,Planalto,Paraná,PR,4119806,planaltense,-25.7300606,-53.7152249,13479,346.24,38.9
+3471,Ponta Grossa,Paraná,PR,4119905,ponta-grossense,-25.0993621,-50.1584514,351736,2054.73,171.2
+3472,Pontal do Paraná,Paraná,PR,4119954,pontalense,-25.6972404,-48.4759771,27284,200.41,136.1
+3473,Porecatu,Paraná,PR,4120002,porecatuense,-22.7238417,-51.4099625,12914,291.66,44.3
+3474,Porto Amazonas,Paraná,PR,4120101,porto-amazonense,-25.526059,-49.9161886,4848,186.58,26.0
+3475,Porto Barreiro,Paraná,PR,4120150,porto barreirense,-25.5821173,-52.3826305,3237,361.02,9.0
+3476,Porto Rico,Paraná,PR,4120200,porto-riquense,-22.7713328,-53.266603,2559,217.68,11.8
+3477,Porto Vitória,Paraná,PR,4120309,porto-vitoriense,-26.2180589,-51.2003761,4065,213.01,19.1
+3478,Prado Ferreira,Paraná,PR,4120333,prado ferreirense,-23.0420693,-51.4437408,3753,153.4,24.5
+3479,Pranchita,Paraná,PR,4120358,pranchitano,-26.0224467,-53.7416248,5157,226.14,22.8
+3480,Presidente Castelo Branco,Paraná,PR,4120408,castelo-branquense,-23.248631,-52.1275481,5306,155.73,34.1
+3481,Primeiro de Maio,Paraná,PR,4120507,primaiense,-22.8521887,-51.0297304,11123,414.44,26.8
+3482,Prudentópolis,Paraná,PR,4120606,prudentopolitano,-25.2115687,-50.9758851,52241,2247.14,23.2
+3483,Quarto Centenário,Paraná,PR,4120655,quarto centenariense,-24.3073617,-53.1534436,4512,321.88,14.0
+3484,Quatiguá,Paraná,PR,4120705,quatiguaense,-23.567759,-49.9105563,7449,112.69,66.1
+3485,Quatro Barras,Paraná,PR,4120804,quatro-barrense,-25.3678092,-49.0767795,23559,180.47,130.5
+3486,Quatro Pontes,Paraná,PR,4120853,quatro pontense,-24.5769069,-53.9759139,4015,114.39,35.1
+3487,Quedas do Iguaçu,Paraná,PR,4120903,quedas-iguaçuense-,-25.4500267,-52.9103961,34103,821.5,41.5
+3488,Querência do Norte,Paraná,PR,4121000,querenciano,-23.0840659,-53.4843358,12206,914.76,13.3
+3489,Quinta do Sol,Paraná,PR,4121109,quinta-solense,-23.8132525,-52.1275481,4573,326.18,14.0
+3490,Quitandinha,Paraná,PR,4121208,quitandinhense,-25.8739307,-49.497806,19049,447.02,42.6
+3491,Ramilândia,Paraná,PR,4121257,ramilandiense,-25.09263,-54.0630048,4451,237.2,18.8
+3492,Rancho Alegre,Paraná,PR,4121307,alegrense,-23.0984121,-50.9080913,3808,167.65,22.7
+3493,Rancho Alegre d'Oeste,Paraná,PR,4121356,rancho alegrense,-24.2873685,-52.9385002,2655,241.39,11.0
+3494,Realeza,Paraná,PR,4121406,realezense,-25.6801783,-53.5419225,16922,353.42,47.9
+3495,Rebouças,Paraná,PR,4121505,reboucense,-25.6740632,-50.6171429,14899,481.84,30.9
+3496,Renascença,Paraná,PR,4121604,renascenseano,-26.1582129,-52.9713377,6802,425.27,16.0
+3497,Reserva,Paraná,PR,4121703,reservense,-24.6496667,-50.8489375,26715,1635.52,16.3
+3498,Reserva do Iguaçu,Paraná,PR,4121752,reservense do iguçú,-25.8418958,-51.9791849,8010,834.23,9.6
+3499,Ribeirão Claro,Paraná,PR,4121802,ribeirão-clarense,-23.1983758,-49.7550274,10668,629.22,17.0
+3500,Ribeirão do Pinhal,Paraná,PR,4121901,ribeiro-pinhalense,-23.4078025,-50.3562829,13029,374.73,34.8
+3501,Rio Azul,Paraná,PR,4122008,rio-azulense,-25.7139624,-50.8040271,15236,599.06,25.4
+3502,Rio Bom,Paraná,PR,4122107,rio-bonense,-23.8053997,-51.4099625,3203,177.84,18.0
+3503,Rio Bonito do Iguaçu,Paraná,PR,4122156,rio bonitense,-25.4897589,-52.527346,13269,681.41,19.5
+3504,Rio Branco do Ivaí,Paraná,PR,4122172,riobranquense,-24.3545342,-51.3050851,4096,382.33,10.7
+3505,Rio Branco do Sul,Paraná,PR,4122206,rio-branquense,-25.12785,-49.2435998,32397,812.29,39.9
+3506,Rio Negro,Paraná,PR,4122305,rio-negrense,-26.1130593,-49.6707205,34170,604.14,56.6
+3507,Rolândia,Paraná,PR,4122404,rolandense,-23.3105968,-51.366412,66580,459.02,145.0
+3508,Roncador,Paraná,PR,4122503,roncadorense,-24.5747439,-52.318772,9849,742.12,13.3
+3509,Rondon,Paraná,PR,4122602,rondonense,-23.4138708,-52.7660602,9579,555.13,17.3
+3510,Rosário do Ivaí,Paraná,PR,4122651,rosariense,-24.3030021,-51.2003761,4786,371.25,12.9
+3511,Sabáudia,Paraná,PR,4122701,sabaudiense,-23.3332714,-51.5781151,6827,190.33,35.9
+3512,Salgado Filho,Paraná,PR,4122800,salgadense,-26.1439269,-53.4230064,3580,189.32,18.9
+3513,Salto do Itararé,Paraná,PR,4122909,saltense-do-itararé,-23.6048202,-49.6272332,4935,200.52,24.6
+3514,Salto do Lontra,Paraná,PR,4123006,salto-lontrense,-25.7676457,-53.2827118,14785,312.72,47.3
+3515,Santa Amélia,Paraná,PR,4123105,ameliense,-23.2620277,-50.4204808,3324,78.05,42.6
+3516,Santa Cecília do Pavão,Paraná,PR,4123204,pavonense,-23.5519676,-50.8248263,3334,110.2,30.3
+3517,Santa Cruz de Monte Castelo,Paraná,PR,4123303,monte-castelense,-23.1034659,-53.3690158,7800,442.01,17.6
+3518,Santa Fé,Paraná,PR,4123402,santa-feense,-23.0440379,-51.8311441,12037,276.24,43.6
+3519,Santa Helena,Paraná,PR,4123501,santa-helenense,-24.8584188,-54.3364348,26490,758.23,34.9
+3520,Santa Inês,Paraná,PR,4123600,santa-ineense,-22.6380673,-51.9027525,1596,138.48,11.5
+3521,Santa Isabel do Ivaí,Paraná,PR,4123709,santa-isabelense,-23.1356115,-53.2611514,8562,349.5,24.5
+3522,Santa Izabel do Oeste,Paraná,PR,4123808,santa-izabelense,-25.764717,-53.4122052,14659,321.18,45.6
+3523,Santa Lúcia,Paraná,PR,4123824,santaluciense,-25.3949885,-53.5419225,3813,116.86,32.6
+3524,Santa Maria do Oeste,Paraná,PR,4123857,santa-mariense,-24.9385219,-51.870536,9615,837.47,11.5
+3525,Santa Mariana,Paraná,PR,4123907,santa-marianense,-23.0677201,-50.534262,11724,427.19,27.4
+3526,Santa Mônica,Paraná,PR,4123956,moniquense,-23.1559224,-53.1104044,3981,259.96,15.3
+3527,Santa Tereza do Oeste,Paraná,PR,4124020,santa-terezense,-25.0547899,-53.6279262,10139,326.19,31.1
+3528,Santa Terezinha de Itaipu,Paraná,PR,4124053,itaipuense,-25.4768675,-54.4123303,23465,259.39,90.5
+3529,Santana do Itararé,Paraná,PR,4124004,santanense,-23.7408323,-49.6299077,4992,251.27,19.9
+3530,Santo Antônio da Platina,Paraná,PR,4124103,platinense,-23.2980974,-50.0726882,45993,721.47,63.7
+3531,Santo Antônio do Caiuá,Paraná,PR,4124202,santo-antoniense,-22.7022152,-52.3400517,2641,219.07,12.1
+3532,Santo Antônio do Paraíso,Paraná,PR,4124301,santo-antoniense,-23.5420203,-50.6586247,2106,165.9,12.7
+3533,Santo Antônio do Sudoeste,Paraná,PR,4124400,santo-antoniense,-26.074187,-53.7256129,20166,325.65,61.9
+3534,Santo Inácio,Paraná,PR,4124509,santo-inaciense,-22.6963331,-51.796017,5438,306.87,17.7
+3535,São Carlos do Ivaí,Paraná,PR,4124608,são-carlense,-23.3441825,-52.4678659,6878,225.08,30.6
+3536,São Jerônimo da Serra,Paraná,PR,4124707,jeronimense,-23.7165223,-50.7389734,11170,823.77,13.6
+3537,São João,Paraná,PR,4124806,são-joanense,-25.8276559,-52.7247748,10241,388.06,26.4
+3538,São João do Caiuá,Paraná,PR,4124905,caiuense,-22.823446,-52.3400517,5855,304.41,19.2
+3539,São João do Ivaí,Paraná,PR,4125001,são-joanense,-23.9916252,-51.8193871,10219,353.33,28.9
+3540,São João do Triunfo,Paraná,PR,4125100,triunfense,-25.686939,-50.3005169,15120,720.41,21.0
+3541,São Jorge d'Oeste,Paraná,PR,4125209,são-jorgense ou jorgense,-25.6666474,-52.9385002,9050,379.55,23.8
+3542,São Jorge do Ivaí,Paraná,PR,4125308,são-jorgense,-23.4296349,-52.3400517,5551,315.09,17.6
+3543,São Jorge do Patrocínio,Paraná,PR,4125357,patrocinense,-23.7649394,-53.8783653,5641,404.69,13.9
+3544,São José da Boa Vista,Paraná,PR,4125407,boa-vistense,-23.9243684,-49.6503106,6206,399.67,15.5
+3545,São José das Palmeiras,Paraná,PR,4125456,são-joseliense,-24.8178205,-54.1065864,3654,182.42,20.0
+3546,São José dos Pinhais,Paraná,PR,4125506,são-joseense,-25.5318354,-49.2035722,323340,946.44,341.6
+3547,São Manoel do Paraná,Paraná,PR,4125555,são manoelense,-23.3727552,-52.6065939,2160,95.38,22.6
+3548,São Mateus do Sul,Paraná,PR,4125605,são-mateuense,-25.8681839,-50.3842316,46261,1341.71,34.5
+3549,São Miguel do Iguaçu,Paraná,PR,4125704,são-miguelense,-25.3496407,-54.2410045,27452,851.92,32.2
+3550,São Pedro do Iguaçu,Paraná,PR,4125753,São pedrense,-24.9379413,-53.8020236,5897,308.32,19.1
+3551,São Pedro do Ivaí,Paraná,PR,4125803,ivaiense,-23.8606851,-51.8734084,10981,322.69,34.0
+3552,São Pedro do Paraná,Paraná,PR,4125902,são-pedrense,-22.7865542,-53.1749726,2313,250.65,9.2
+3553,São Sebastião da Amoreira,Paraná,PR,4126009,amoreirense,-23.4612179,-50.7208989,8853,227.98,38.8
+3554,São Tomé,Paraná,PR,4126108,são-tomeense,-23.5299714,-52.5532048,5722,218.62,26.2
+3555,Sapopema,Paraná,PR,4126207,sapopemense,-23.9093991,-50.5795738,6736,677.61,9.9
+3556,Sarandi,Paraná,PR,4126256,sarandiense,-23.4445928,-51.8765044,96688,103.5,934.2
+3557,Saudade do Iguaçu,Paraná,PR,4126272,saudadense,-25.7267108,-52.5959129,5500,152.09,36.2
+3558,Sengés,Paraná,PR,4126306,sengeano,-24.2398097,-49.4059435,19327,1441.33,13.4
+3559,Serranópolis do Iguaçu,Paraná,PR,4126355,serranopolitano,-25.4755113,-54.041223,4495,482.39,9.3
+3560,Sertaneja,Paraná,PR,4126405,sertanejano,-22.9268039,-50.8664451,5284,444.49,11.9
+3561,Sertanópolis,Paraná,PR,4126504,sertanopolense,-23.0573768,-51.0449341,16369,505.53,32.4
+3562,Siqueira Campos,Paraná,PR,4126603,siqueirense,-23.6736555,-49.7933279,21016,278.04,75.6
+3563,Sulina,Paraná,PR,4126652,sulinense,-25.7118326,-52.6814062,2981,170.76,17.5
+3564,Tamarana,Paraná,PR,4126678,tamaraense,-23.7256055,-51.0957577,14797,472.16,31.3
+3565,Tamboara,Paraná,PR,4126702,tamboarense,-23.1980339,-52.4980881,5120,193.35,26.5
+3566,Tapejara,Paraná,PR,4126801,tapejarense,-23.7335535,-52.8710205,16205,591.4,27.4
+3567,Tapira,Paraná,PR,4126900,tapirense,-23.3234285,-53.0712622,5539,434.37,12.8
+3568,Teixeira Soares,Paraná,PR,4127007,teixeira-soarense,-25.3172464,-50.4308159,12367,902.79,13.7
+3569,Telêmaco Borba,Paraná,PR,4127106,telêmaco-borbense,-24.3250032,-50.6180669,78974,1382.86,57.1
+3570,Terra Boa,Paraná,PR,4127205,terra-bonense,-23.7681902,-52.4476813,17094,320.85,53.3
+3571,Terra Rica,Paraná,PR,4127304,terra-riquense,-22.7265933,-52.6202075,16789,700.6,24.0
+3572,Terra Roxa,Paraná,PR,4127403,terra-roxense,-24.1617173,-54.0981416,17481,800.81,21.8
+3573,Tibagi,Paraná,PR,4127502,tibagiense,-24.5156508,-50.4119229,20522,2951.57,7.0
+3574,Tijucas do Sul,Paraná,PR,4127601,tijucano-do-sul,-25.9256672,-49.178752,16868,671.89,25.1
+3575,Toledo,Paraná,PR,4127700,toledano,-24.7251855,-53.7418514,140635,1196.76,117.5
+3576,Tomazina,Paraná,PR,4127809,tomazinense,-23.7786372,-49.9542729,7918,591.44,13.4
+3577,Três Barras do Paraná,Paraná,PR,4127858,tribarrense,-25.4217883,-53.1843089,12040,504.17,23.9
+3578,Tunas do Paraná,Paraná,PR,4127882,tunense,-24.9422144,-48.9202828,8769,668.48,13.1
+3579,Tuneiras do Oeste,Paraná,PR,4127908,tuneirense,-23.9120419,-52.8312661,8566,698.87,12.3
+3580,Tupãssi,Paraná,PR,4127957,tupãciense,-24.6487533,-53.4986586,8124,310.91,26.1
+3581,Turvo,Paraná,PR,4127965,turvense,-25.0462085,-51.5394632,13215,938.17,14.1
+3582,Ubiratã,Paraná,PR,4128005,ubiratãense,-24.5403709,-52.9946728,21013,652.58,32.2
+3583,Umuarama,Paraná,PR,4128104,umuaramense,-23.7661064,-53.3206105,111557,1234.54,90.4
+3584,União da Vitória,Paraná,PR,4128203,união-vitoriense,-26.2219963,-51.0850684,57517,720.0,79.9
+3585,Uniflor,Paraná,PR,4128302,uniflorense,-23.0742402,-52.1169401,2605,94.82,27.5
+3586,Uraí,Paraná,PR,4128401,uraiense,-23.2006468,-50.7942283,11314,237.81,47.6
+3587,Ventania,Paraná,PR,4128534,ventaniense,-24.103854,-50.2244429,11892,759.37,15.7
+3588,Vera Cruz do Oeste,Paraná,PR,4128559,vera-cruzense,-25.0152808,-53.9324048,8521,327.09,26.1
+3589,Verê,Paraná,PR,4128609,vereense,-25.8778571,-52.9059269,7257,311.8,23.3
+3590,Virmond,Paraná,PR,4128658,virmondense,-25.4101345,-52.2124713,4023,243.17,16.5
+3591,Vitorino,Paraná,PR,4128708,vitorinense,-26.2756189,-52.8098384,6838,308.22,22.2
+3592,Wenceslau Braz,Paraná,PR,4128500,brazense,-23.8714093,-49.8024588,19414,397.92,48.8
+3593,Xambrê,Paraná,PR,4128807,xambrense,-23.7337968,-53.4906267,5679,359.71,15.8
+3920,Aceguá,Rio Grande do Sul,RS,4300034,aceguaense,-31.8691048,-54.164366,4901,1551.34,3.2
+3921,Água Santa,Rio Grande do Sul,RS,4300059,água-santense,-28.2021854,-52.0427297,3748,291.5,12.9
+3922,Agudo,Rio Grande do Sul,RS,4300109,agudense,-29.6444852,-53.2525825,16461,534.62,30.8
+3923,Ajuricaba,Rio Grande do Sul,RS,4300208,ajuricabense,-28.2392869,-53.7705587,7024,322.67,21.8
+3924,Alecrim,Rio Grande do Sul,RS,4300307,alecrinense,-27.658336,-54.7653769,5950,316.51,18.8
+3925,Alegrete,Rio Grande do Sul,RS,4300406,alegretense,-29.7445673,-55.9358581,73589,7800.16,9.4
+3926,Alegria,Rio Grande do Sul,RS,4300455,alegriense,-27.8269241,-54.0630048,3464,172.4,20.1
+3927,Almirante Tamandaré do Sul,Rio Grande do Sul,RS,4300471,tamandarense,-28.1148683,-52.8955875,1964,265.33,7.4
+3928,Alpestre,Rio Grande do Sul,RS,4300505,alpestrense,-27.2018775,-53.0673905,6258,325.98,19.2
+3929,Alto Alegre,Rio Grande do Sul,RS,4300554,alto-alegrense,-28.7758849,-52.9922057,1638,115.34,14.2
+3930,Alto Feliz,Rio Grande do Sul,RS,4300570,alto-felizense,-29.3674897,-51.2946066,3028,78.85,38.4
+3931,Alvorada,Rio Grande do Sul,RS,4300604,alvoradense,-29.991901,-51.0813677,210305,71.6,2937.1
+3932,Amaral Ferrador,Rio Grande do Sul,RS,4300638,amaralense,-30.8207901,-52.2974988,7031,505.98,13.9
+3933,Ametista do Sul,Rio Grande do Sul,RS,4300646,ametistense,-27.3692613,-53.1857395,7409,93.7,79.1
+3934,André da Rocha,Rio Grande do Sul,RS,4300661,andré-rochense,-28.577083,-51.4939853,1333,329.4,4.0
+3935,Anta Gorda,Rio Grande do Sul,RS,4300703,anta-gordense,-28.9702668,-52.0107074,5981,242.26,24.7
+3936,Antônio Prado,Rio Grande do Sul,RS,4300802,pradense,-28.88871,-51.3050851,13050,348.15,37.5
+3937,Arambaré,Rio Grande do Sul,RS,4300851,arambarense,-31.010078,-51.4309582,3581,518.19,6.9
+3938,Araricá,Rio Grande do Sul,RS,4300877,arariquense,-29.6173325,-50.9296355,5698,35.17,162.0
+3939,Aratiba,Rio Grande do Sul,RS,4300901,aratibense,-27.3916798,-52.318772,6235,342.28,18.2
+3940,Arroio do Meio,Rio Grande do Sul,RS,4301008,arroio-meense,-29.3652193,-51.9580164,20805,157.51,132.1
+3941,Arroio do Padre,Rio Grande do Sul,RS,4301073,arroio padrense,-31.4384476,-52.3826305,2937,124.69,23.6
+3942,Arroio do Sal,Rio Grande do Sul,RS,4301057,arroio-salense,-29.5160264,-49.8854497,10065,119.16,84.5
+3943,Arroio do Tigre,Rio Grande do Sul,RS,4301206,tigrense,-29.3351358,-53.0905084,13373,315.13,42.4
+3944,Arroio dos Ratos,Rio Grande do Sul,RS,4301107,ratense,-30.0880438,-51.7279954,14151,425.21,33.3
+3945,Arroio Grande,Rio Grande do Sul,RS,4301305,arroio-grandense,-32.2331548,-53.0866941,18293,2514.76,7.3
+3946,Arvorezinha,Rio Grande do Sul,RS,4301404,arvorezinhense,-28.8741325,-52.1787435,10424,270.24,38.6
+3947,Augusto Pestana,Rio Grande do Sul,RS,4301503,augusto-pestanense,-28.5159341,-53.9925304,6661,347.06,19.2
+3948,Áurea,Rio Grande do Sul,RS,4301552,aurense,-27.7373215,-52.0851258,3554,156.73,22.7
+3949,Bagé,Rio Grande do Sul,RS,4301602,bageense,-31.3301746,-54.1004709,121143,4090.36,29.6
+3950,Balneário Pinhal,Rio Grande do Sul,RS,4301636,pinhalense,-30.1997963,-50.2759711,14068,102.39,137.4
+3951,Barão,Rio Grande do Sul,RS,4301651,baronense,-29.3809414,-51.5360368,6171,124.56,49.5
+3952,Barão de Cotegipe,Rio Grande do Sul,RS,4301701,cotegipense,-27.5655348,-52.4252353,6623,260.51,25.4
+3953,Barão do Triunfo,Rio Grande do Sul,RS,4301750,baronense,-30.3988571,-51.8100218,7487,436.48,17.2
+3954,Barra do Guarita,Rio Grande do Sul,RS,4301859,barra-guaritense,-27.2149907,-53.7477629,3248,62.87,51.7
+3955,Barra do Quaraí,Rio Grande do Sul,RS,4301875,barrense,-30.2090091,-57.553097,4215,1055.94,4.0
+3956,Barra do Ribeiro,Rio Grande do Sul,RS,4301909,barrense,-30.3002786,-51.3047706,13491,729.38,18.5
+3957,Barra do Rio Azul,Rio Grande do Sul,RS,4301925,barra-azulense,-27.4118422,-52.4145816,1690,147.0,11.5
+3958,Barra Funda,Rio Grande do Sul,RS,4301958,barra-fundense,-27.9207387,-53.0136585,2539,60.44,42.0
+3959,Barracão,Rio Grande do Sul,RS,4301800,barraconense,-27.7309155,-51.4519605,5275,515.47,10.2
+3960,Barros Cassal,Rio Grande do Sul,RS,4302006,barros-cassalense,-29.1518805,-52.5745556,11199,648.9,17.3
+3961,Benjamin Constant do Sul,Rio Grande do Sul,RS,4302055,benjaminense,-27.5122272,-52.6386467,1994,132.35,15.1
+3962,Bento Gonçalves,Rio Grande do Sul,RS,4302105,bento-gonçalvense,-29.1667089,-51.5169861,120454,273.96,439.7
+3963,Boa Vista das Missões,Rio Grande do Sul,RS,4302154,boa-vistense,-27.7250779,-53.3258513,2098,194.82,10.8
+3964,Boa Vista do Buricá,Rio Grande do Sul,RS,4302204,boa-vistense,-27.668615,-54.1114563,6712,109.56,61.3
+3965,Boa Vista do Cadeado,Rio Grande do Sul,RS,4302220,cadeadense,-28.678667,-53.8671868,2470,701.31,3.5
+3966,Boa Vista do Incra,Rio Grande do Sul,RS,4302238,boa vistense do incra,-28.8530424,-53.4554195,2603,503.47,5.2
+3967,Boa Vista do Sul,Rio Grande do Sul,RS,4302253,boavistense,-29.3582867,-51.6728888,2783,92.93,29.9
+3968,Bom Jesus,Rio Grande do Sul,RS,4302303,bom-jesuense,-28.6722585,-50.4350558,11349,2623.12,4.3
+3969,Bom Princípio,Rio Grande do Sul,RS,4302352,bom-principiense,-29.5069885,-51.3575028,14055,88.78,158.3
+3970,Bom Progresso,Rio Grande do Sul,RS,4302378,bom-progressense,-27.5587954,-53.8454596,1942,88.74,21.9
+3971,Bom Retiro do Sul,Rio Grande do Sul,RS,4302402,bom-retirense,-29.6009883,-51.9332234,12328,102.33,120.5
+3972,Boqueirão do Leão,Rio Grande do Sul,RS,4302451,léo-boqueirense,-29.3049992,-52.4321702,7714,265.58,29.0
+3973,Bossoroca,Rio Grande do Sul,RS,4302501,bossoroquense,-28.731271,-54.9026865,6279,1610.06,3.9
+3974,Bozano,Rio Grande do Sul,RS,4302584,bozanense,-28.3424093,-53.758612,2123,200.55,10.6
+3975,Braga,Rio Grande do Sul,RS,4302600,braguense,-27.5732869,-53.758612,3353,128.99,26.0
+3976,Brochier,Rio Grande do Sul,RS,4302659,brochiense,-29.5277447,-51.6202201,5074,105.35,48.2
+3977,Butiá,Rio Grande do Sul,RS,4302709,butiaense,-30.1180899,-51.9615457,20941,752.19,27.8
+3978,Caçapava do Sul,Rio Grande do Sul,RS,4302808,caçapavano,-30.5148445,-53.4832383,33624,3047.11,11.0
+3979,Cacequi,Rio Grande do Sul,RS,4302907,cacequiense,-29.8801552,-54.8265622,12561,2373.17,5.3
+3980,Cachoeira do Sul,Rio Grande do Sul,RS,4303004,cachoeirense,-30.0336816,-52.893221,82201,3735.03,22.0
+3981,Cachoeirinha,Rio Grande do Sul,RS,4303103,cachoeirinhense,-29.9477228,-51.1021166,130293,43.9,2967.9
+3982,Cacique Doble,Rio Grande do Sul,RS,4303202,caciquense,-27.7997597,-51.6623517,5065,203.8,24.9
+3983,Caibaté,Rio Grande do Sul,RS,4303301,caibateense,-28.3215197,-54.6314321,4846,260.56,18.6
+3984,Caiçara,Rio Grande do Sul,RS,4303400,caiçarense,-27.2662645,-53.4122052,4743,188.98,25.1
+3985,Camaquã,Rio Grande do Sul,RS,4303509,camaquense,-30.8493976,-51.8048311,66261,1680.17,39.4
+3986,Camargo,Rio Grande do Sul,RS,4303558,camarguense,-28.6158151,-52.2124713,2733,138.07,19.8
+3987,Cambará do Sul,Rio Grande do Sul,RS,4303608,cambaraense,-28.9809591,-50.1009527,6431,1207.92,5.3
+3988,Campestre da Serra,Rio Grande do Sul,RS,4303673,campestrense,-28.7530656,-51.1376317,3388,537.99,6.3
+3989,Campina das Missões,Rio Grande do Sul,RS,4303707,campinense,-27.9893165,-54.8421781,5474,224.8,24.4
+3990,Campinas do Sul,Rio Grande do Sul,RS,4303806,campinense,-27.7530924,-52.6386467,5454,276.16,19.7
+3991,Campo Bom,Rio Grande do Sul,RS,4303905,campo-bonense,-29.6732855,-51.0436295,66712,60.81,1097.0
+3992,Campo Novo,Rio Grande do Sul,RS,4304002,campo-novense,-27.6796837,-53.8057298,4484,222.07,20.2
+3993,Campos Borges,Rio Grande do Sul,RS,4304101,campos-borgense,-28.8910796,-53.0673905,3320,226.2,14.7
+3994,Candelária,Rio Grande do Sul,RS,4304200,candelariense,-29.7132471,-52.8312661,31365,944.06,33.2
+3995,Cândido Godói,Rio Grande do Sul,RS,4304309,godoiense,-27.9397796,-54.7192376,6198,247.05,25.1
+3996,Candiota,Rio Grande do Sul,RS,4304358,candiotense,-31.5036813,-53.6935405,9584,933.63,10.3
+3997,Canela,Rio Grande do Sul,RS,4304408,canelense,-29.357495,-50.7832348,44998,253.73,177.3
+3998,Canguçu,Rio Grande do Sul,RS,4304507,canguçuense,-31.3964785,-52.6787852,56045,3526.25,15.9
+3999,Canoas,Rio Grande do Sul,RS,4304606,canoense,-29.9132584,-51.1861921,346616,130.79,2650.2
+4000,Canudos do Vale,Rio Grande do Sul,RS,4304614,canudense do vale,-29.324664,-52.223094,1716,82.29,20.9
+4001,Capão Bonito do Sul,Rio Grande do Sul,RS,4304622,capão bonitense,-28.1264736,-51.3889736,1654,527.12,3.1
+4002,Capão da Canoa,Rio Grande do Sul,RS,4304630,caponense,-29.7649764,-50.0289451,53049,98.29,539.7
+4003,Capão do Cipó,Rio Grande do Sul,RS,4304655,cipoense,-28.9722479,-54.5656396,3651,1007.8,3.6
+4004,Capão do Leão,Rio Grande do Sul,RS,4304663,leonense,-31.8369181,-52.5745556,25354,785.37,32.3
+4005,Capela de Santana,Rio Grande do Sul,RS,4304689,capelense,-29.7168644,-51.3679914,11940,183.07,65.2
+4006,Capitão,Rio Grande do Sul,RS,4304697,capitanense,-29.2867805,-51.9897716,2757,73.97,37.3
+4007,Capivari do Sul,Rio Grande do Sul,RS,4304671,capivariense,-30.1156267,-50.5549719,4660,412.89,11.3
+4008,Caraá,Rio Grande do Sul,RS,4304713,caraense,-29.8,-50.3,8270,294.46,28.1
+4009,Carazinho,Rio Grande do Sul,RS,4304705,carazinhense,-28.2963334,-52.793776,62110,665.52,93.3
+4010,Carlos Barbosa,Rio Grande do Sul,RS,4304804,barbosense,-29.2950409,-51.5008921,29833,229.99,129.7
+4011,Carlos Gomes,Rio Grande do Sul,RS,4304853,carlos-gomense,-27.6828295,-51.9156992,1377,83.16,16.6
+4012,Casca,Rio Grande do Sul,RS,4304903,casquense,-28.5687359,-51.9769852,9031,272.02,33.2
+4013,Caseiros,Rio Grande do Sul,RS,4304952,caseirense,-28.2506245,-51.70451,3202,235.86,13.6
+4014,Catuípe,Rio Grande do Sul,RS,4305009,catuipano,-28.1652644,-54.041223,8774,583.2,15.0
+4015,Caxias do Sul,Rio Grande do Sul,RS,4305108,caxiense,-29.1634031,-51.1796683,510906,1652.7,309.1
+4016,Centenário,Rio Grande do Sul,RS,4305116,centenariense,-27.7898807,-52.0003599,2891,134.23,21.5
+4017,Cerrito,Rio Grande do Sul,RS,4305124,cerritense,-31.6893982,-52.8312661,6091,451.7,13.5
+4018,Cerro Branco,Rio Grande do Sul,RS,4305132,cerro-branquense,-29.6625588,-52.9814383,4691,158.03,29.7
+4019,Cerro Grande,Rio Grande do Sul,RS,4305157,cerro-grandense,-30.5927535,-51.7466948,2311,73.44,31.5
+4020,Cerro Grande do Sul,Rio Grande do Sul,RS,4305173,sul-cerro-grandense,-30.5927535,-51.7466948,12239,324.79,37.7
+4021,Cerro Largo,Rio Grande do Sul,RS,4305207,cerro-larguense,-28.1437464,-54.7192376,14133,176.63,80.0
+4022,Chapada,Rio Grande do Sul,RS,4305306,chapadense,-28.0576777,-53.0684395,9269,684.25,13.5
+4023,Charqueadas,Rio Grande do Sul,RS,4305355,charqueadense,-29.9629768,-51.629387,40789,216.51,188.4
+4024,Charrua,Rio Grande do Sul,RS,4305371,charruense,-27.9493778,-52.0003599,3279,198.56,16.5
+4025,Chiapetta,Rio Grande do Sul,RS,4305405,chiapetense,-27.9768277,-53.9541563,3756,397.39,9.5
+4026,Chuí,Rio Grande do Sul,RS,4305439,chuiense,-33.6895531,-53.447315,6704,202.39,33.1
+4027,Chuvisca,Rio Grande do Sul,RS,4305447,chuvisquense,-30.79774,-52.0003599,5441,220.47,24.7
+4028,Cidreira,Rio Grande do Sul,RS,4305454,cidreirense,-30.1760123,-50.2098593,16254,243.42,66.8
+4029,Ciríaco,Rio Grande do Sul,RS,4305504,ciriaquense,-28.3597057,-51.9156992,4747,274.35,17.3
+4030,Colinas,Rio Grande do Sul,RS,4305587,colinense,-29.4025182,-51.8628399,2438,58.37,41.8
+4031,Colorado,Rio Grande do Sul,RS,4305603,coloradense,-28.4629851,-52.9814383,3175,286.27,11.1
+4032,Condor,Rio Grande do Sul,RS,4305702,condorense,-28.1818047,-53.4986586,6753,465.18,14.5
+4033,Constantina,Rio Grande do Sul,RS,4305801,constantinense,-27.6725055,-53.0244018,9911,203.61,48.7
+4034,Coqueiro Baixo,Rio Grande do Sul,RS,4305835,coqueirense,-29.1788374,-52.0932195,1501,112.28,13.4
+4035,Coqueiros do Sul,Rio Grande do Sul,RS,4305850,coqueirense,-28.1678507,-52.7455935,2306,277.64,8.3
+4036,Coronel Barros,Rio Grande do Sul,RS,4305871,coronel-barrense,-28.3947184,-54.0630048,2519,163.75,15.4
+4037,Coronel Bicaco,Rio Grande do Sul,RS,4305900,bicaquense,-27.7163207,-53.7060107,7325,492.12,14.9
+4038,Coronel Pilar,Rio Grande do Sul,RS,4305934,coronel pilarense,-29.2406433,-51.70451,1628,105.45,15.4
+4039,Cotiporã,Rio Grande do Sul,RS,4305959,cotiporanense,-29.0035044,-51.70451,3853,172.38,22.4
+4040,Coxilha,Rio Grande do Sul,RS,4305975,coxilhense,-28.1386399,-52.3400517,2756,421.49,6.5
+4041,Crissiumal,Rio Grande do Sul,RS,4306007,crissiumalense,-27.5004287,-54.1003326,13448,363.6,37.0
+4042,Cristal,Rio Grande do Sul,RS,4306056,cristalense,-31.0351683,-52.0639245,8009,682.14,11.7
+4043,Cristal do Sul,Rio Grande do Sul,RS,4306072,cristalense,-27.4293919,-53.2503736,2847,97.08,29.3
+4044,Cruz Alta,Rio Grande do Sul,RS,4306106,cruzaltense,-28.6454883,-53.605355,60299,1360.32,44.3
+4045,Cruzaltense,Rio Grande do Sul,RS,4306130,cruzaltino,-27.6682749,-52.6495906,1833,166.88,11.0
+4046,Cruzeiro do Sul,Rio Grande do Sul,RS,4306205,cruzeirense,-29.5137043,-51.99249,12348,154.69,79.8
+4047,David Canabarro,Rio Grande do Sul,RS,4306304,canabarrense,-28.4114183,-51.8311441,4740,174.94,27.1
+4048,Derrubadas,Rio Grande do Sul,RS,4306320,derrubadense,-27.2468398,-53.88892,2805,360.85,7.8
+4049,Dezesseis de Novembro,Rio Grande do Sul,RS,4306353,dezesseis-novembrense,-28.2059508,-55.0713904,2427,217.8,11.1
+4050,Dilermando de Aguiar,Rio Grande do Sul,RS,4306379,dilermandense,-29.834395,-54.215646,3014,601.17,5.0
+4051,Dois Irmãos,Rio Grande do Sul,RS,4306403,dois-irmãosense,-29.5898407,-51.0853913,32671,65.15,501.5
+4052,Dois Irmãos das Missões,Rio Grande do Sul,RS,4306429,dois-irmãozense,-27.6834412,-53.5202874,2026,225.68,9.0
+4053,Dois Lajeados,Rio Grande do Sul,RS,4306452,dois-lajeense,-28.9666433,-51.8311441,3400,133.54,25.5
+4054,Dom Feliciano,Rio Grande do Sul,RS,4306502,felicianense,-30.7010498,-52.1068801,15414,1355.2,11.4
+4055,Dom Pedrito,Rio Grande do Sul,RS,4306601,pedritense,-30.9884169,-54.6972774,38461,5191.92,7.4
+4056,Dom Pedro de Alcântara,Rio Grande do Sul,RS,4306551,dom-pedro-alcantarense,-29.3655169,-49.8444891,2534,78.22,32.4
+4057,Dona Francisca,Rio Grande do Sul,RS,4306700,francisquense,-29.5541879,-53.3582223,3041,114.15,26.6
+4058,Doutor Maurício Cardoso,Rio Grande do Sul,RS,4306734,mauriciense,-27.5106069,-54.3685809,4549,255.73,17.8
+4059,Doutor Ricardo,Rio Grande do Sul,RS,4306759,ricardense,-29.1015058,-51.9685998,1983,108.73,18.2
+4060,Eldorado do Sul,Rio Grande do Sul,RS,4306767,eldoradense,-29.9973202,-51.3081324,41285,508.8,81.1
+4061,Encantado,Rio Grande do Sul,RS,4306809,encantadense,-29.2360837,-51.869606,22706,139.16,163.2
+4062,Encruzilhada do Sul,Rio Grande do Sul,RS,4306908,encruzilhadense,-30.5454936,-52.5257016,25877,3348.45,7.7
+4063,Engenho Velho,Rio Grande do Sul,RS,4306924,engenho-velhense,-27.6861696,-52.9063133,1034,71.19,14.5
+4064,Entre Rios do Sul,Rio Grande do Sul,RS,4306957,entre-rio-sulense,-27.5121441,-52.7348916,2792,119.91,23.3
+4065,Entre-Ijuís,Rio Grande do Sul,RS,4306932,entre-ijuiense,-28.4869576,-54.3685809,8475,552.66,15.3
+4066,Erebango,Rio Grande do Sul,RS,4306973,erebanguense,-27.8188212,-52.3400517,2991,153.12,19.5
+4067,Erechim,Rio Grande do Sul,RS,4307005,erechinense,-27.6347754,-52.2740707,105862,429.3,246.6
+4068,Ernestina,Rio Grande do Sul,RS,4307054,ernestinense,-28.4068079,-52.5532048,3168,238.56,13.3
+4069,Erval Grande,Rio Grande do Sul,RS,4307203,erval-grandense,-27.3381959,-52.5959129,4859,285.68,17.0
+4070,Erval Seco,Rio Grande do Sul,RS,4307302,erval-sequense,-27.5079094,-53.5419225,6912,363.91,19.0
+4071,Esmeralda,Rio Grande do Sul,RS,4307401,esmeraldense,-28.0427291,-51.1376317,3282,829.77,4.0
+4072,Esperança do Sul,Rio Grande do Sul,RS,4307450,esperançulense,-27.3262068,-54.0194472,2926,148.91,19.6
+4073,Espumoso,Rio Grande do Sul,RS,4307500,espumosense,-28.7245183,-52.8444231,15588,783.64,19.9
+4074,Estação,Rio Grande do Sul,RS,4307559,estacionense,-27.9252048,-52.2974988,5958,100.27,59.4
+4075,Estância Velha,Rio Grande do Sul,RS,4307609,estanciense,-29.6540396,-51.1848488,50022,52.13,959.7
+4076,Esteio,Rio Grande do Sul,RS,4307708,esteiense,-29.8524975,-51.1845782,83202,27.68,3006.3
+4077,Estrela,Rio Grande do Sul,RS,4307807,estrelense,-29.501873,-51.9640632,34116,183.96,185.5
+4078,Estrela Velha,Rio Grande do Sul,RS,4307815,estrelavelhense,-29.2124829,-53.1965079,3655,281.61,13.0
+4079,Eugênio de Castro,Rio Grande do Sul,RS,4307831,eugenio-castrense,-28.5422342,-54.215646,2396,417.26,5.7
+4080,Fagundes Varela,Rio Grande do Sul,RS,4307864,fagundense,-28.8848208,-51.70451,2731,134.3,20.3
+4081,Farroupilha,Rio Grande do Sul,RS,4307906,farroupilhense,-29.2231867,-51.3423619,72331,361.73,200.0
+4082,Faxinal do Soturno,Rio Grande do Sul,RS,4308003,soturnense,-29.5613969,-53.4122052,6677,169.51,39.4
+4083,Faxinalzinho,Rio Grande do Sul,RS,4308052,faxinalzinhense,-27.3648329,-52.6814062,2315,143.32,16.2
+4084,Fazenda Vilanova,Rio Grande do Sul,RS,4308078,vilanovense,-29.5991663,-51.8311441,4533,84.79,53.5
+4085,Feliz,Rio Grande do Sul,RS,4308102,felizense,-29.4548208,-51.3062852,13547,94.94,142.7
+4086,Flores da Cunha,Rio Grande do Sul,RS,4308201,florense,-29.0303854,-51.2003761,30745,273.64,112.4
+4087,Floriano Peixoto,Rio Grande do Sul,RS,4308250,florianense,-27.8570738,-52.0851258,1766,168.54,10.5
+4088,Fontoura Xavier,Rio Grande do Sul,RS,4308300,fontourense,-29.0166199,-52.4039296,10304,583.47,17.7
+4089,Formigueiro,Rio Grande do Sul,RS,4308409,formigueirense,-29.9880317,-53.4338092,6664,581.62,11.5
+4090,Forquetinha,Rio Grande do Sul,RS,4308433,forquetinhense,-29.3885357,-52.1169401,2412,93.48,25.8
+4091,Fortaleza dos Valos,Rio Grande do Sul,RS,4308458,fortalezense,-28.7962695,-53.226275,4320,649.79,6.6
+4092,Frederico Westphalen,Rio Grande do Sul,RS,4308508,westphalense,-27.3607338,-53.3963199,31313,265.18,118.1
+4093,Garibaldi,Rio Grande do Sul,RS,4308607,garibaldense,-29.2594074,-51.5253511,35070,168.14,208.6
+4094,Garruchos,Rio Grande do Sul,RS,4308656,garruchense,-28.1711403,-55.4471613,2924,803.74,3.6
+4095,Gaurama,Rio Grande do Sul,RS,4308706,gauramense,-27.5911085,-52.1275481,5534,204.43,27.1
+4096,General Câmara,Rio Grande do Sul,RS,4308805,camaraense,-29.8769648,-51.8945505,8385,510.01,16.4
+4097,Gentil,Rio Grande do Sul,RS,4308854,gentilense,-28.4012415,-52.0427297,1634,184.72,8.8
+4098,Getúlio Vargas,Rio Grande do Sul,RS,4308904,getuliense,-27.8915838,-52.2298672,16212,287.12,56.5
+4099,Giruá,Rio Grande do Sul,RS,4309001,giruaense,-28.0283749,-54.3508179,16004,856.54,18.7
+4100,Glorinha,Rio Grande do Sul,RS,4309050,glorinhense,-29.8853523,-50.7910311,8098,323.64,25.0
+4101,Gramado,Rio Grande do Sul,RS,4309100,gramadense,-29.3745686,-50.876435,36232,237.59,152.5
+4102,Gramado dos Loureiros,Rio Grande do Sul,RS,4309126,loureirense,-27.4445443,-52.9385002,2082,131.4,15.8
+4103,Gramado Xavier,Rio Grande do Sul,RS,4309159,gramado-xavierense,-29.2981888,-52.5959129,4325,217.53,19.9
+4104,Gravataí,Rio Grande do Sul,RS,4309209,gravataiense,-29.942289,-50.9907877,281519,463.17,607.8
+4105,Guabiju,Rio Grande do Sul,RS,4309258,guabijuense,-28.5936048,-51.6623517,1503,146.53,10.3
+4106,Guaíba,Rio Grande do Sul,RS,4309308,guaibense,-30.1090924,-51.3238273,98143,376.17,260.9
+4107,Guaporé,Rio Grande do Sul,RS,4309407,guaporense,-28.8479263,-51.8901313,25727,297.55,86.5
+4108,Guarani das Missões,Rio Grande do Sul,RS,4309506,guaraniense,-28.1460198,-54.5564921,7537,290.78,25.9
+4109,Harmonia,Rio Grande do Sul,RS,4309555,harmoniense,-29.535726,-51.4414585,4866,48.55,100.2
+4110,Herval,Rio Grande do Sul,RS,4307104,hervalense,-32.0288506,-53.3936083,6821,1759.72,3.9
+4111,Herveiras,Rio Grande do Sul,RS,4309571,herveirense,-29.4713026,-52.6386467,3018,118.25,25.5
+4112,Horizontina,Rio Grande do Sul,RS,4309605,horizontinense,-27.6289678,-54.3110027,19329,229.74,84.1
+4113,Hulha Negra,Rio Grande do Sul,RS,4309654,hulha-negrense,-31.4017751,-53.8671868,6776,822.61,8.2
+4114,Humaitá,Rio Grande do Sul,RS,4309704,humaitaense,-27.5571934,-53.9759139,4762,134.46,35.4
+4115,Ibarama,Rio Grande do Sul,RS,4309753,ibaramense,-29.4386896,-53.1534436,4406,195.43,22.5
+4116,Ibiaçá,Rio Grande do Sul,RS,4309803,ibiaçaense,-28.0564616,-51.8555378,4709,348.78,13.5
+4117,Ibiraiaras,Rio Grande do Sul,RS,4309902,ibiraiarense,-28.3686222,-51.6412826,7262,300.65,24.2
+4118,Ibirapuitã,Rio Grande do Sul,RS,4309951,ibirapuitanense,-28.6189759,-52.4678659,4013,307.16,13.1
+4119,Ibirubá,Rio Grande do Sul,RS,4310009,ibirubense,-28.6243553,-53.1749726,20350,607.39,33.5
+4120,Igrejinha,Rio Grande do Sul,RS,4310108,igrejinhense,-29.5700426,-50.7927755,36899,136.78,269.8
+4121,Ijuí,Rio Grande do Sul,RS,4310207,ijuiense,-28.3885333,-53.9204851,83475,689.09,121.1
+4122,Ilópolis,Rio Grande do Sul,RS,4310306,ilopolitano,-28.9394101,-52.1381578,4078,118.14,34.5
+4123,Imbé,Rio Grande do Sul,RS,4310330,Imbeense,-29.9759381,-50.1275202,22800,39.77,573.4
+4124,Imigrante,Rio Grande do Sul,RS,4310363,imigrantense,-29.3543632,-51.7783509,3120,73.69,42.3
+4125,Independência,Rio Grande do Sul,RS,4310405,independenciense,-27.9066381,-54.1938221,6167,358.28,17.2
+4126,Inhacorá,Rio Grande do Sul,RS,4310413,inhacorense,-27.8950614,-54.0194472,2226,113.75,19.6
+4127,Ipê,Rio Grande do Sul,RS,4310439,ipeense,-28.8183443,-51.280118,6640,599.25,11.1
+4128,Ipiranga do Sul,Rio Grande do Sul,RS,4310462,ipiranguense,-27.9259718,-52.4252353,1889,157.88,12.0
+4129,Iraí,Rio Grande do Sul,RS,4310504,iraiense,-27.1919394,-53.2621178,7241,181.58,39.9
+4130,Itaara,Rio Grande do Sul,RS,4310538,itaarense,-29.5909323,-53.758612,5499,172.8,31.8
+4131,Itacurubi,Rio Grande do Sul,RS,4310553,itacurubiense,-28.7745974,-55.2701235,3465,1120.87,3.1
+4132,Itapuca,Rio Grande do Sul,RS,4310579,itapuquense,-28.7809254,-52.1721337,2094,184.67,11.3
+4133,Itaqui,Rio Grande do Sul,RS,4310603,itaquiense,-29.1294007,-56.5481122,37620,3406.61,11.0
+4134,Itati,Rio Grande do Sul,RS,4310652,itatiense,-29.5136056,-50.1215169,2419,206.91,11.7
+4135,Itatiba do Sul,Rio Grande do Sul,RS,4310702,itatibense,-27.338313,-52.4678659,3324,212.67,15.6
+4136,Ivorá,Rio Grande do Sul,RS,4310751,ivorense,-29.5095665,-53.5960371,1910,122.93,15.5
+4137,Ivoti,Rio Grande do Sul,RS,4310801,ivotiense,-29.5795648,-51.1689963,24293,63.09,385.0
+4138,Jaboticaba,Rio Grande do Sul,RS,4310850,jaboticabense,-27.6378958,-53.2719308,3810,128.05,29.8
+4139,Jacuizinho,Rio Grande do Sul,RS,4310876,jacuizinhense,-29.0343692,-53.0599854,2692,339.4,7.9
+4140,Jacutinga,Rio Grande do Sul,RS,4310900,jacutinguense,-27.7929655,-52.5425318,3561,179.24,19.9
+4141,Jaguarão,Rio Grande do Sul,RS,4311007,jaguarense,-32.3385963,-53.4770359,26680,2052.41,13.0
+4142,Jaguari,Rio Grande do Sul,RS,4311106,jaguariense,-29.4848659,-54.6533747,10848,672.74,16.1
+4143,Jaquirana,Rio Grande do Sul,RS,4311122,jaquiranense,-28.9656101,-50.3894858,3716,908.84,4.1
+4144,Jari,Rio Grande do Sul,RS,4311130,jariense,-29.2970681,-54.3030016,3503,856.48,4.1
+4145,Jóia,Rio Grande do Sul,RS,4311155,joiense,-28.7586442,-54.1283863,8560,1238.94,6.9
+4146,Júlio de Castilhos,Rio Grande do Sul,RS,4311205,castilhense,-29.2293516,-53.6827015,19293,1929.4,10.0
+4147,Lagoa Bonita do Sul,Rio Grande do Sul,RS,4311239,lagobonitense,-29.4909122,-53.0673905,2903,109.28,26.6
+4148,Lagoa dos Três Cantos,Rio Grande do Sul,RS,4311270,três-cantense,-28.5683702,-52.85874,1609,138.6,11.6
+4149,Lagoa Vermelha,Rio Grande do Sul,RS,4311304,lagoense,-28.1821542,-51.5570726,27807,1262.56,22.0
+4150,Lagoão,Rio Grande do Sul,RS,4311254,lagoense,-29.2352881,-52.8002187,6452,386.41,16.7
+4151,Lajeado,Rio Grande do Sul,RS,4311403,lajeadense,-29.459582,-51.9649421,84014,91.59,917.3
+4152,Lajeado do Bugre,Rio Grande do Sul,RS,4311429,lajeado-bugrense,-27.6987362,-53.2072779,2564,67.93,37.7
+4153,Lavras do Sul,Rio Grande do Sul,RS,4311502,lavrense,-30.8107713,-53.8995772,7480,2600.6,2.9
+4154,Liberato Salzano,Rio Grande do Sul,RS,4311601,salzanense,-27.6052201,-53.0673905,5219,245.63,21.2
+4155,Lindolfo Collor,Rio Grande do Sul,RS,4311627,lindolfo-collorense,-29.5743939,-51.2108394,6054,33.41,181.2
+4156,Linha Nova,Rio Grande do Sul,RS,4311643,linha-novense,-29.4566208,-51.2108394,1714,63.5,27.0
+4157,Maçambara,Rio Grande do Sul,RS,4311718,maçambarense,-29.0365092,-55.8913207,4587,1682.82,2.7
+4158,Machadinho,Rio Grande do Sul,RS,4311700,machadinhense,-27.6008599,-51.6623517,5445,335.23,16.2
+4159,Mampituba,Rio Grande do Sul,RS,4311734,mampitubense,-29.2751535,-49.998236,2981,157.85,18.9
+4160,Manoel Viana,Rio Grande do Sul,RS,4311759,vianense,-29.5864169,-55.4846563,7299,1390.7,5.2
+4161,Maquiné,Rio Grande do Sul,RS,4311775,maquinense,-29.6087417,-50.2244429,6714,621.56,10.8
+4162,Maratá,Rio Grande do Sul,RS,4311791,marataense,-29.5462129,-51.5578323,2691,82.06,32.8
+4163,Marau,Rio Grande do Sul,RS,4311809,marauense,-28.4500374,-52.1991426,44161,649.77,68.0
+4164,Marcelino Ramos,Rio Grande do Sul,RS,4311908,marcelinense,-27.4767861,-51.926276,4402,229.76,19.2
+4165,Mariana Pimentel,Rio Grande do Sul,RS,4311981,marianense,-30.3535481,-51.5808236,3885,338.45,11.5
+4166,Mariano Moro,Rio Grande do Sul,RS,4312005,marianense,-27.3379985,-52.1806128,2031,98.73,20.6
+4167,Marques de Souza,Rio Grande do Sul,RS,4312054,marquesouzense,-29.2837359,-52.159382,4009,125.43,32.0
+4168,Mata,Rio Grande do Sul,RS,4312104,matense,-29.5257272,-54.4561033,4823,311.88,15.5
+4169,Mato Castelhano,Rio Grande do Sul,RS,4312138,mato-castelhanense,-28.2970766,-52.2124713,2540,238.27,10.7
+4170,Mato Leitão,Rio Grande do Sul,RS,4312153,mato-leitoense,-29.5341962,-52.1381578,4515,46.8,96.5
+4171,Mato Queimado,Rio Grande do Sul,RS,4312179,matoqueimadense,-28.2396361,-54.6643482,1648,115.1,14.3
+4172,Maximiliano de Almeida,Rio Grande do Sul,RS,4312203,almeidense,-27.631245,-51.8021354,4377,208.44,21.0
+4173,Minas do Leão,Rio Grande do Sul,RS,4312252,leonense,-30.0919729,-52.0639245,8075,424.34,19.0
+4174,Miraguaí,Rio Grande do Sul,RS,4312302,miraguaiense,-27.4990578,-53.7477629,4925,130.5,37.7
+4175,Montauri,Rio Grande do Sul,RS,4312351,montauriense,-28.6795967,-52.0427297,1453,82.08,17.7
+4176,Monte Alegre dos Campos,Rio Grande do Sul,RS,4312377,montealegrense,-28.7177372,-50.8040271,3226,549.64,5.9
+4177,Monte Belo do Sul,Rio Grande do Sul,RS,4312385,monte-belense,-29.134038,-51.6518163,2548,69.6,36.6
+4178,Montenegro,Rio Grande do Sul,RS,4312401,montenegrino,-29.6829126,-51.4684153,65264,424.85,153.6
+4179,Mormaço,Rio Grande do Sul,RS,4312427,mormacense,-28.6877384,-52.6814062,3085,146.19,21.1
+4180,Morrinhos do Sul,Rio Grande do Sul,RS,4312443,morrinhense,-29.3381448,-49.9571983,2949,165.51,17.8
+4181,Morro Redondo,Rio Grande do Sul,RS,4312450,morro-redondense,-31.6435239,-52.6386467,6568,244.65,26.8
+4182,Morro Reuter,Rio Grande do Sul,RS,4312476,morroreutense,-29.5238048,-51.064507,6407,87.83,73.0
+4183,Mostardas,Rio Grande do Sul,RS,4312500,mostardense,-30.927439,-50.7624493,12804,1977.44,6.5
+4184,Muçum,Rio Grande do Sul,RS,4312609,muçuense,-29.1511247,-51.8205821,4954,111.23,44.5
+4185,Muitos Capões,Rio Grande do Sul,RS,4312617,caponense,-28.3136783,-51.1840961,3162,1193.05,2.7
+4186,Muliterno,Rio Grande do Sul,RS,4312625,muliternense,-28.3439126,-51.7466948,1893,111.13,17.0
+4187,Não-Me-Toque,Rio Grande do Sul,RS,4312658,não-me-toquense,-28.4354702,-52.8312661,17624,361.69,48.7
+4188,Nicolau Vergueiro,Rio Grande do Sul,RS,4312674,nicolau-vergueirense,-28.5254038,-52.4252353,1682,155.0,10.9
+4189,Nonoai,Rio Grande do Sul,RS,4312708,nonoaiense,-27.3663872,-52.7749937,11695,468.96,24.9
+4190,Nova Alvorada,Rio Grande do Sul,RS,4312757,nova-alvoradense,-28.6790161,-52.16643,3625,148.94,24.3
+4191,Nova Araçá,Rio Grande do Sul,RS,4312807,araçaense,-28.660742,-51.7444138,4759,74.7,63.7
+4192,Nova Bassano,Rio Grande do Sul,RS,4312906,bassanense,-28.7295727,-51.7077058,9916,211.61,46.9
+4193,Nova Boa Vista,Rio Grande do Sul,RS,4312955,boa-vistense,-27.9944702,-52.9921768,1775,93.73,18.9
+4194,Nova Bréscia,Rio Grande do Sul,RS,4313003,bresciense,-29.2148328,-52.0265488,3330,102.82,32.4
+4195,Nova Candelária,Rio Grande do Sul,RS,4313011,nova-candelariense,-27.5891623,-54.1174856,2698,97.59,27.6
+4196,Nova Esperança do Sul,Rio Grande do Sul,RS,4313037,nova-esperancense,-29.3896761,-54.8071366,5352,191.0,28.0
+4197,Nova Hartz,Rio Grande do Sul,RS,4313060,nova-hartense,-29.5822977,-50.905136,21615,62.11,348.0
+4198,Nova Pádua,Rio Grande do Sul,RS,4313086,paduense,-28.9943704,-51.3260472,2553,102.73,24.9
+4199,Nova Palma,Rio Grande do Sul,RS,4313102,nova-palmense,-29.4281204,-53.4338092,6512,314.61,20.7
+4200,Nova Petrópolis,Rio Grande do Sul,RS,4313201,nova-petropolitano,-29.3756342,-51.1112869,21353,291.3,73.3
+4201,Nova Prata,Rio Grande do Sul,RS,4313300,nova-pratense,-28.7840394,-51.6077771,27257,258.91,105.3
+4202,Nova Ramada,Rio Grande do Sul,RS,4313334,morador de nova rama,-28.0865991,-53.7152249,2242,254.79,8.8
+4203,Nova Roma do Sul,Rio Grande do Sul,RS,4313359,nova-romense,-28.9833707,-51.4099625,3689,149.14,24.7
+4204,Nova Santa Rita,Rio Grande do Sul,RS,4313375,nova-santaritense,-29.8507825,-51.2741212,29300,217.87,134.5
+4205,Novo Barreiro,Rio Grande do Sul,RS,4313490,novo-barreirense,-27.89379,-53.1211619,4164,123.34,33.8
+4206,Novo Cabrais,Rio Grande do Sul,RS,4313391,cabraisense,-29.742239,-52.9814383,4196,193.0,21.7
+4207,Novo Hamburgo,Rio Grande do Sul,RS,4313409,novo-hamburguense,-29.6918991,-51.1255697,246748,223.86,1102.2
+4208,Novo Machado,Rio Grande do Sul,RS,4313425,novo-machadense,-27.5619018,-54.5437205,3323,218.84,15.2
+4209,Novo Tiradentes,Rio Grande do Sul,RS,4313441,tiradentense,-27.5644743,-53.1642073,2211,75.43,29.3
+4210,Novo Xingu,Rio Grande do Sul,RS,4313466,xinguense,-27.7529711,-53.0566409,1719,79.85,21.5
+4211,Osório,Rio Grande do Sul,RS,4313508,osoriense,-29.8885619,-50.2698884,45994,663.56,69.3
+4212,Paim Filho,Rio Grande do Sul,RS,4313607,paim-filhense,-27.7215377,-51.7889062,3828,182.29,21.0
+4213,Palmares do Sul,Rio Grande do Sul,RS,4313656,palmarense,-30.2596595,-50.5110784,11318,949.2,11.9
+4214,Palmeira das Missões,Rio Grande do Sul,RS,4313706,palmeirense,-27.9001784,-53.3140353,33303,1419.43,23.5
+4215,Palmitinho,Rio Grande do Sul,RS,4313805,palmitense,-27.3184325,-53.5852111,7057,144.19,48.9
+4216,Panambi,Rio Grande do Sul,RS,4313904,panambiense,-28.2893353,-53.5013057,43667,490.82,89.0
+4217,Pântano Grande,Rio Grande do Sul,RS,4313953,pantanense,-30.2853828,-52.4039296,9174,841.23,10.9
+4218,Paraí,Rio Grande do Sul,RS,4314001,paraiense,-28.5959271,-51.7889062,7657,122.43,62.5
+4219,Paraíso do Sul,Rio Grande do Sul,RS,4314027,paraisense,-29.7298449,-53.1785407,7611,337.53,22.5
+4220,Pareci Novo,Rio Grande do Sul,RS,4314035,pareciense,-29.6071874,-51.4204595,3837,57.64,66.6
+4221,Parobé,Rio Grande do Sul,RS,4314050,parobeense,-29.6247579,-50.8316868,58272,108.67,536.2
+4222,Passa Sete,Rio Grande do Sul,RS,4314068,passasetense,-29.451362,-52.9637236,5702,304.83,18.7
+4223,Passo do Sobrado,Rio Grande do Sul,RS,4314076,passo-sobradense,-29.7413681,-52.254972,6535,265.11,24.7
+4224,Passo Fundo,Rio Grande do Sul,RS,4314100,passo-fundense,-28.2587812,-52.4160039,203275,783.6,259.4
+4225,Paulo Bento,Rio Grande do Sul,RS,4314134,paulobentense,-27.7122894,-52.3826305,2293,149.72,15.3
+4226,Paverama,Rio Grande do Sul,RS,4314159,paveramense,-29.5518416,-51.7346204,8487,171.86,49.4
+4227,Pedras Altas,Rio Grande do Sul,RS,4314175,pedras altense,-31.766207,-53.6501903,1982,1373.99,1.4
+4228,Pedro Osório,Rio Grande do Sul,RS,4314209,pedro-osoriense,-31.8647422,-52.818924,7730,609.47,12.7
+4229,Pejuçara,Rio Grande do Sul,RS,4314308,pejuçarense,-28.4230236,-53.656481,3874,414.87,9.3
+4230,Pelotas,Rio Grande do Sul,RS,4314407,pelotense,-31.7653989,-52.3375886,342405,1609.71,212.7
+4231,Picada Café,Rio Grande do Sul,RS,4314423,picadense,-29.4541701,-51.137068,5742,85.14,67.4
+4232,Pinhal,Rio Grande do Sul,RS,4314456,pinhalense,-27.5371536,-53.2395973,2579,68.22,37.8
+4233,Pinhal da Serra,Rio Grande do Sul,RS,4314464,pinhalense,-27.8743397,-51.1706598,1941,438.11,4.4
+4234,Pinhal Grande,Rio Grande do Sul,RS,4314472,pinhal-grandense,-29.2936875,-53.3258513,4350,478.11,9.1
+4235,Pinheirinho do Vale,Rio Grande do Sul,RS,4314498,pinheirinhense,-27.2369659,-53.6176937,4871,105.54,46.2
+4236,Pinheiro Machado,Rio Grande do Sul,RS,4314506,pinheirense,-31.4183175,-53.4338092,12271,2248.22,5.5
+4237,Pinto Bandeira,Rio Grande do Sul,RS,4314548,pinto bandeirense,-29.0974897,-51.4503228,3003,104.86,28.6
+4238,Pirapó,Rio Grande do Sul,RS,4314555,pirapoense,-28.0806675,-55.2038278,2304,293.72,7.8
+4239,Piratini,Rio Grande do Sul,RS,4314605,piratinense,-31.4477879,-53.0978309,20663,3537.8,5.8
+4240,Planalto,Rio Grande do Sul,RS,4314704,planaltense,-27.3301804,-53.0580435,10084,228.55,44.1
+4241,Poço das Antas,Rio Grande do Sul,RS,4314753,poçandense,-29.4623476,-51.6307505,2098,67.57,31.0
+4242,Pontão,Rio Grande do Sul,RS,4314779,pontanense,-28.0337873,-52.6386467,3904,503.54,7.8
+4243,Ponte Preta,Rio Grande do Sul,RS,4314787,ponte-pretense,-27.6592306,-52.4998559,1547,99.5,15.5
+4244,Portão,Rio Grande do Sul,RS,4314803,portanense,-29.7020333,-51.2434253,37079,160.27,231.4
+4245,Porto Alegre,Rio Grande do Sul,RS,4314902,porto-alegrense,-30.0346471,-51.2176584,1483771,495.39,2995.2
+4246,Porto Lucena,Rio Grande do Sul,RS,4315008,porto-lucenense,-27.8573596,-55.0105587,4678,250.8,18.7
+4247,Porto Mauá,Rio Grande do Sul,RS,4315057,porto-mauense,-27.5868616,-54.6643482,2374,105.81,22.4
+4248,Porto Vera Cruz,Rio Grande do Sul,RS,4315073,porto-vera-cruzense,-27.7349187,-54.900047,1360,114.42,11.9
+4249,Porto Xavier,Rio Grande do Sul,RS,4315107,porto-xavierense,-27.9086613,-55.1384419,10246,281.93,36.3
+4250,Pouso Novo,Rio Grande do Sul,RS,4315131,pouso-novense,-29.1704372,-52.209018,1639,105.57,15.5
+4251,Presidente Lucena,Rio Grande do Sul,RS,4315149,lucinense,-29.5207128,-51.1689963,2901,49.63,58.5
+4252,Progresso,Rio Grande do Sul,RS,4315156,progressense,-29.2424799,-52.310549,6244,256.04,24.4
+4253,Protásio Alves,Rio Grande do Sul,RS,4315172,protásio-alvense,-28.735259,-51.4939853,1947,173.03,11.3
+4254,Putinga,Rio Grande do Sul,RS,4315206,putinguense,-29.0252531,-52.1275481,3919,205.22,19.1
+4255,Quaraí,Rio Grande do Sul,RS,4315305,quaraiense,-30.3845133,-56.4488086,22687,3147.11,7.2
+4256,Quatro Irmãos,Rio Grande do Sul,RS,4315313,quatroirmanense,-27.8594614,-52.4678659,1849,268.58,6.9
+4257,Quevedos,Rio Grande do Sul,RS,4315321,quevedense,-29.2971002,-54.041223,2788,543.36,5.1
+4258,Quinze de Novembro,Rio Grande do Sul,RS,4315354,quinze-novembrense,-28.7708754,-53.0673905,3796,223.07,17.0
+4259,Redentora,Rio Grande do Sul,RS,4315404,redentorense,-27.6613095,-53.6416,11549,302.7,38.2
+4260,Relvado,Rio Grande do Sul,RS,4315453,relvadense,-29.1168332,-52.0745243,2090,123.44,16.9
+4261,Restinga Seca,Rio Grande do Sul,RS,4315503,restinguense,-29.8005709,-53.3474304,15789,968.62,16.3
+4262,Rio dos Índios,Rio Grande do Sul,RS,4315552,riodinhense,-27.2701526,-52.8955875,2752,235.85,11.7
+4263,Rio Grande,Rio Grande do Sul,RS,4315602,rio-grandino,-32.2998858,-52.4465474,211005,2708.38,77.9
+4264,Rio Pardo,Rio Grande do Sul,RS,4315701,rio-pardense,-29.984393,-52.3760103,38275,2050.65,18.7
+4265,Riozinho,Rio Grande do Sul,RS,4315750,riozinhense,-29.6165703,-50.4101474,4653,239.56,19.4
+4266,Roca Sales,Rio Grande do Sul,RS,4315800,roca-salense,-29.2831866,-51.8311441,11393,208.63,54.6
+4267,Rodeio Bonito,Rio Grande do Sul,RS,4315909,rodeiense,-27.4635975,-53.1642073,5867,83.28,70.5
+4268,Rolador,Rio Grande do Sul,RS,4315958,roladorense,-28.2511592,-54.8071366,2323,295.31,7.9
+4269,Rolante,Rio Grande do Sul,RS,4316006,rolantense,-29.6484273,-50.5549719,21349,295.64,72.2
+4270,Ronda Alta,Rio Grande do Sul,RS,4316105,ronda-altense,-27.7934026,-52.7670021,10601,419.34,25.3
+4271,Rondinha,Rio Grande do Sul,RS,4316204,rondinhense,-27.8336362,-52.8955875,5130,252.45,20.3
+4272,Roque Gonzales,Rio Grande do Sul,RS,4316303,roque-gonzalense,-28.083276,-55.0713904,6847,348.06,19.7
+4273,Rosário do Sul,Rio Grande do Sul,RS,4316402,rosariense,-30.2488032,-54.9226452,39422,4343.68,9.1
+4274,Sagrada Família,Rio Grande do Sul,RS,4316428,sagradense,-27.7191467,-53.1426814,2609,77.89,33.5
+4275,Saldanha Marinho,Rio Grande do Sul,RS,4316436,saldanhense,-28.383166,-53.1104044,2650,221.1,12.0
+4276,Salto do Jacuí,Rio Grande do Sul,RS,4316451,salto-jacuiense,-29.0892958,-53.2114428,12449,507.7,24.5
+4277,Salvador das Missões,Rio Grande do Sul,RS,4316477,salvadorense,-28.1078298,-54.8401227,2733,94.31,29.0
+4278,Salvador do Sul,Rio Grande do Sul,RS,4316501,salvadorense,-29.4597347,-51.5360368,7799,98.35,79.3
+4279,Sananduva,Rio Grande do Sul,RS,4316600,sananduvense,-27.950568,-51.8148609,16270,504.48,32.3
+4280,Santa Bárbara do Sul,Rio Grande do Sul,RS,4316709,santa-barbarense,-28.4102701,-53.2611514,7994,975.51,8.2
+4281,Santa Cecília do Sul,Rio Grande do Sul,RS,4316733,ceciliense,-28.1608396,-51.9156992,1639,200.06,8.2
+4282,Santa Clara do Sul,Rio Grande do Sul,RS,4316758,santa-clarense,-29.4550073,-52.1381578,6603,86.75,76.1
+4283,Santa Cruz do Sul,Rio Grande do Sul,RS,4316808,santa-cruzense,-29.722516,-52.4348382,130416,733.41,177.8
+4284,Santa Margarida do Sul,Rio Grande do Sul,RS,4316972,margaridense,-30.3690642,-54.1283863,2562,955.3,2.7
+4285,Santa Maria,Rio Grande do Sul,RS,4316907,santa-mariense,-29.68725,-53.8154499,282123,1781.57,158.4
+4286,Santa Maria do Herval,Rio Grande do Sul,RS,4316956,hervalense,-29.4906619,-50.9924255,6331,139.7,45.3
+4287,Santa Rosa,Rio Grande do Sul,RS,4317202,santa-rosense,-27.8706817,-54.4801558,73254,489.71,149.6
+4288,Santa Tereza,Rio Grande do Sul,RS,4317251,santa-teresense,-29.1552937,-51.7150537,1729,73.98,23.4
+4289,Santa Vitória do Palmar,Rio Grande do Sul,RS,4317301,vitoriense,-33.5215632,-53.3664818,29676,5195.67,5.7
+4290,Santana da Boa Vista,Rio Grande do Sul,RS,4317004,santanense-da-boa-vista,-30.858165,-53.1749726,8098,1420.62,5.7
+4291,Sant'Ana do Livramento,Rio Grande do Sul,RS,4317103,santanense,-30.8772854,-55.5392304,77027,6941.4,11.1
+4292,Santiago,Rio Grande do Sul,RS,4317400,santiaguense,-29.1051592,-54.8731219,49425,2414.2,20.5
+4293,Santo Ângelo,Rio Grande do Sul,RS,4317509,santo-angelense ou angelopolitano,-28.3006117,-54.2673083,77593,680.93,114.0
+4294,Santo Antônio da Patrulha,Rio Grande do Sul,RS,4317608,patrulhense,-29.8272335,-50.5181108,42894,1049.81,40.9
+4295,Santo Antônio das Missões,Rio Grande do Sul,RS,4317707,santo-antoniense,-28.445228,-55.402868,10175,1710.87,5.9
+4296,Santo Antônio do Palma,Rio Grande do Sul,RS,4317558,palmense,-28.4960469,-52.0272119,2128,126.09,16.9
+4297,Santo Antônio do Planalto,Rio Grande do Sul,RS,4317756,santo-antoniense,-28.3677789,-52.6814062,2019,203.44,9.9
+4298,Santo Augusto,Rio Grande do Sul,RS,4317806,santo-augustense,-27.843667,-53.7762598,13885,467.46,29.7
+4299,Santo Cristo,Rio Grande do Sul,RS,4317905,santo-cristense,-27.8263074,-54.6630812,14257,367.03,38.8
+4300,Santo Expedito do Sul,Rio Grande do Sul,RS,4317954,expeditense,-27.9190192,-51.6623517,2324,125.59,18.5
+4301,São Borja,Rio Grande do Sul,RS,4318002,são borjense,-28.6583059,-56.0041451,60282,3616.69,16.7
+4302,São Domingos do Sul,Rio Grande do Sul,RS,4318051,são-dominguense,-28.5310506,-51.8628399,3074,78.67,39.1
+4303,São Francisco de Assis,Rio Grande do Sul,RS,4318101,assisense,-29.5549057,-55.1257125,18335,2508.45,7.3
+4304,São Francisco de Paula,Rio Grande do Sul,RS,4318200,serrano,-29.442271,-50.5797679,21710,3265.72,6.6
+4305,São Gabriel,Rio Grande do Sul,RS,4318309,gabrielense,-30.2915042,-54.5218074,62105,5051.85,12.3
+4306,São Jerônimo,Rio Grande do Sul,RS,4318408,jeronimense,-29.962127,-51.7250108,24248,936.38,25.9
+4307,São João da Urtiga,Rio Grande do Sul,RS,4318424,urtiguense,-27.8148799,-51.8311441,4657,171.18,27.2
+4308,São João do Polêsine,Rio Grande do Sul,RS,4318432,polesinense,-29.6555255,-53.4878465,2552,78.32,32.6
+4309,São Jorge,Rio Grande do Sul,RS,4318440,são-jorgense,-28.5026375,-51.7466948,2824,117.38,24.1
+4310,São José das Missões,Rio Grande do Sul,RS,4318457,são-josezense,-27.793003,-53.1534436,2537,98.13,25.9
+4311,São José do Herval,Rio Grande do Sul,RS,4318465,hervalense,-29.0672191,-52.254972,1971,103.09,19.1
+4312,São José do Hortêncio,Rio Grande do Sul,RS,4318481,hortenciense,-29.529936,-51.2527095,4804,63.69,75.4
+4313,São José do Inhacorá,Rio Grande do Sul,RS,4318499,inhacoraense,-27.7314657,-54.1174856,2073,78.04,26.6
+4314,São José do Norte,Rio Grande do Sul,RS,4318507,nortense,-31.7545295,-51.6035591,27568,1110.01,24.8
+4315,São José do Ouro,Rio Grande do Sul,RS,4318606,ourense,-27.7722445,-51.5781151,6933,335.15,20.7
+4316,São José do Sul,Rio Grande do Sul,RS,4318614,são josense do sul,-29.5500826,-51.4834766,2408,55.21,43.6
+4317,São José dos Ausentes,Rio Grande do Sul,RS,4318622,ausentino,-28.748089,-50.0682162,3527,1173.91,3.0
+4318,São Leopoldo,Rio Grande do Sul,RS,4318705,leopoldense,-29.7549941,-51.150283,236835,102.74,2305.2
+4319,São Lourenço do Sul,Rio Grande do Sul,RS,4318804,lourenciano,-31.3628498,-51.9818,43582,2036.13,21.4
+4320,São Luiz Gonzaga,Rio Grande do Sul,RS,4318903,são-luizense,-28.4262462,-54.9171412,33468,1295.84,25.8
+4321,São Marcos,Rio Grande do Sul,RS,4319000,são-marquense,-28.9481925,-51.0749483,21556,256.36,84.1
+4322,São Martinho,Rio Grande do Sul,RS,4319109,são-martinhense,-27.7196459,-53.9759139,5426,171.2,31.7
+4323,São Martinho da Serra,Rio Grande do Sul,RS,4319125,martinhense,-29.4844248,-53.8671868,3234,669.55,4.8
+4324,São Miguel das Missões,Rio Grande do Sul,RS,4319158,miguelino,-28.5481679,-54.5503406,7673,1227.93,6.2
+4325,São Nicolau,Rio Grande do Sul,RS,4319208,são-nicolauense,-28.2162577,-55.2480193,5265,485.59,10.8
+4326,São Paulo das Missões,Rio Grande do Sul,RS,4319307,paulista-das-missões,-27.9758926,-54.9832134,5790,224.14,25.8
+4327,São Pedro da Serra,Rio Grande do Sul,RS,4319356,são-pedrense,-29.4163283,-51.5097515,3801,35.39,107.4
+4328,São Pedro das Missões,Rio Grande do Sul,RS,4319364,são pedrense,-27.7792715,-53.2395973,2009,79.97,25.1
+4329,São Pedro do Butiá,Rio Grande do Sul,RS,4319372,são-butiaiense,-28.1137081,-54.8951287,2947,107.35,27.5
+4330,São Pedro do Sul,Rio Grande do Sul,RS,4319406,são-pedrense,-29.6267316,-54.1831,16198,873.73,18.5
+4331,São Sebastião do Caí,Rio Grande do Sul,RS,4319505,caiense,-29.5904737,-51.3738524,25685,112.33,228.6
+4332,São Sepé,Rio Grande do Sul,RS,4319604,sepense,-30.1639889,-53.5718212,23621,2203.15,10.7
+4333,São Valentim,Rio Grande do Sul,RS,4319703,valentinense,-27.5657311,-52.5532048,3299,154.45,21.4
+4334,São Valentim do Sul,Rio Grande do Sul,RS,4319711,são-valentinense,-29.0508197,-51.7572452,2242,91.9,24.4
+4335,São Valério do Sul,Rio Grande do Sul,RS,4319737,são-valerense,-27.8286628,-53.8997889,2727,107.4,25.4
+4336,São Vendelino,Rio Grande do Sul,RS,4319752,são-vendelinense,-29.3765062,-51.3784817,2243,32.09,69.9
+4337,São Vicente do Sul,Rio Grande do Sul,RS,4319802,vicentino,-29.7004262,-54.6972774,8721,1172.64,7.4
+4338,Sapiranga,Rio Grande do Sul,RS,4319901,sapiranguense,-29.6353852,-51.0069543,81734,137.69,593.6
+4339,Sapucaia do Sul,Rio Grande do Sul,RS,4320008,sapucaiense,-29.8287957,-51.14418,141075,58.31,2419.4
+4340,Sarandi,Rio Grande do Sul,RS,4320107,sarandiense,-27.946449,-52.9164069,24489,352.97,69.4
+4341,Seberi,Rio Grande do Sul,RS,4320206,seberiense,-27.4833232,-53.4030667,10750,301.22,35.7
+4342,Sede Nova,Rio Grande do Sul,RS,4320230,sede-novense,-27.6254231,-53.9324048,2907,119.3,24.4
+4343,Segredo,Rio Grande do Sul,RS,4320263,segredense,-29.3296182,-52.9385002,7421,245.97,30.2
+4344,Selbach,Rio Grande do Sul,RS,4320305,selbaquense,-28.6634525,-52.9814383,5100,176.47,28.9
+4345,Senador Salgado Filho,Rio Grande do Sul,RS,4320321,salgadofilhense,-28.0275707,-54.544468,2779,147.18,18.9
+4346,Sentinela do Sul,Rio Grande do Sul,RS,4320354,sentinelense,-30.6272649,-51.6202201,5581,281.9,19.8
+4347,Serafina Corrêa,Rio Grande do Sul,RS,4320404,serafinense,-28.7171828,-51.9156992,17502,163.28,107.2
+4348,Sério,Rio Grande do Sul,RS,4320453,seriense,-29.3847921,-52.254972,1962,99.74,19.7
+4349,Sertão,Rio Grande do Sul,RS,4320503,sertanense,-27.9859058,-52.2574827,5415,439.47,12.3
+4350,Sertão Santana,Rio Grande do Sul,RS,4320552,sertanense,-30.4706687,-51.6202201,6486,251.93,25.7
+4351,Sete de Setembro,Rio Grande do Sul,RS,4320578,setembrense,-28.1473891,-54.4561033,1970,129.28,15.2
+4352,Severiano de Almeida,Rio Grande do Sul,RS,4320602,severianense,-27.4310337,-52.1164514,3657,167.6,21.8
+4353,Silveira Martins,Rio Grande do Sul,RS,4320651,sillveirense,-29.6448834,-53.5861202,2384,119.29,20.0
+4354,Sinimbu,Rio Grande do Sul,RS,4320677,sinimbuense,-29.4035691,-52.5532048,10172,510.05,19.9
+4355,Sobradinho,Rio Grande do Sul,RS,4320701,sobradinhense,-29.4130611,-53.024918,14967,128.38,116.6
+4356,Soledade,Rio Grande do Sul,RS,4320800,soledadense,-28.832995,-52.5745556,31002,1215.22,25.5
+4357,Tabaí,Rio Grande do Sul,RS,4320859,tabaiense,-29.6439529,-51.6833339,4719,94.75,49.8
+4358,Tapejara,Rio Grande do Sul,RS,4320909,tapejarense,-28.0648514,-52.0061729,24111,238.08,101.3
+4359,Tapera,Rio Grande do Sul,RS,4321006,taperense,-28.6229959,-52.8711249,10584,179.94,58.8
+4360,Tapes,Rio Grande do Sul,RS,4321105,tapense,-30.6732959,-51.4052742,17300,805.45,21.5
+4361,Taquara,Rio Grande do Sul,RS,4321204,taquarense,-29.6509722,-50.7757844,57466,457.79,125.5
+4362,Taquari,Rio Grande do Sul,RS,4321303,taquariense,-29.7948227,-51.8658729,26862,349.97,76.8
+4363,Taquaruçu do Sul,Rio Grande do Sul,RS,4321329,taquaraçusense,-27.4004591,-53.4878465,3072,76.92,39.9
+4364,Tavares,Rio Grande do Sul,RS,4321352,tavarense,-31.3034421,-51.0540674,5481,610.11,9.0
+4365,Tenente Portela,Rio Grande do Sul,RS,4321402,portelense,-27.3709183,-53.7577448,13485,337.52,40.0
+4366,Terra de Areia,Rio Grande do Sul,RS,4321436,terrareense,-29.6153691,-50.0803953,11204,142.28,78.7
+4367,Teutônia,Rio Grande do Sul,RS,4321451,teutoniense,-29.4728182,-51.7783509,33232,178.46,186.2
+4368,Tio Hugo,Rio Grande do Sul,RS,4321469,tio-huguense,-28.5738081,-52.6065939,3030,113.94,26.6
+4369,Tiradentes do Sul,Rio Grande do Sul,RS,4321477,tiradentense,-27.3648452,-54.1501922,5704,236.2,24.1
+4370,Toropi,Rio Grande do Sul,RS,4321493,toropiense,-29.4719855,-54.2811537,2806,203.0,13.8
+4371,Torres,Rio Grande do Sul,RS,4321501,torrense,-29.3344108,-49.723909,38732,161.18,240.3
+4372,Tramandaí,Rio Grande do Sul,RS,4321600,tramandaiense,-29.9846105,-50.1326727,51715,142.88,362.0
+4373,Travesseiro,Rio Grande do Sul,RS,4321626,travesseirense,-29.2952003,-52.0745243,2336,80.53,29.0
+4374,Três Arroios,Rio Grande do Sul,RS,4321634,três-arroiense,-27.5007589,-52.1452598,2668,148.6,18.0
+4375,Três Cachoeiras,Rio Grande do Sul,RS,4321667,três cachoeirense,-29.4529017,-49.9212318,11053,251.48,44.0
+4376,Três Coroas,Rio Grande do Sul,RS,4321709,três-coroense,-29.4748683,-50.7832348,28220,185.72,152.0
+4377,Três de Maio,Rio Grande do Sul,RS,4321808,três-maiense,-27.780531,-54.2362302,23906,421.39,56.7
+4378,Três Forquilhas,Rio Grande do Sul,RS,4321832,forquilhense,-29.4211577,-50.0803953,2697,217.26,12.4
+4379,Três Palmeiras,Rio Grande do Sul,RS,4321857,três-palmeirense,-27.6192049,-52.8527002,4271,180.6,23.6
+4380,Três Passos,Rio Grande do Sul,RS,4321907,três-passense,-27.4559822,-53.9301803,23906,268.99,88.9
+4381,Trindade do Sul,Rio Grande do Sul,RS,4321956,trindadense,-27.5243826,-52.8961061,5802,268.42,21.6
+4382,Triunfo,Rio Grande do Sul,RS,4322004,triunfense,-29.9332492,-51.7129471,29538,819.09,36.1
+4383,Tucunduva,Rio Grande do Sul,RS,4322103,tucunduvense,-27.6457622,-54.4123303,5678,181.2,31.3
+4384,Tunas,Rio Grande do Sul,RS,4322152,tunense,-29.1161493,-52.8955875,4569,217.67,21.0
+4385,Tupanci do Sul,Rio Grande do Sul,RS,4322186,tupancisense,-27.917318,-51.5360368,1472,135.24,10.9
+4386,Tupanciretã,Rio Grande do Sul,RS,4322202,tupanciretanense,-29.001375,-53.9976775,23948,2253.25,10.6
+4387,Tupandi,Rio Grande do Sul,RS,4322251,tupandiense,-29.4762577,-51.4214975,4855,59.26,81.9
+4388,Tuparendi,Rio Grande do Sul,RS,4322301,tuparendiense,-27.7251292,-54.5437205,7893,307.71,25.7
+4389,Turuçu,Rio Grande do Sul,RS,4322327,turuçuense,-31.4183297,-52.172905,3438,253.64,13.6
+4390,Ubiretama,Rio Grande do Sul,RS,4322343,ubiretamense,-28.0293971,-54.6424026,2015,125.96,16.0
+4391,União da Serra,Rio Grande do Sul,RS,4322350,união-serrense,-28.754719,-52.0152241,1154,130.99,8.8
+4392,Unistalda,Rio Grande do Sul,RS,4322376,unistaldense,-29.0748484,-55.1817407,2338,602.39,3.9
+4393,Uruguaiana,Rio Grande do Sul,RS,4322400,uruguaianense,-29.7619121,-57.0858428,126970,5702.1,22.3
+4394,Vacaria,Rio Grande do Sul,RS,4322509,vacariense,-28.5083259,-50.942302,66218,2124.42,31.2
+4395,Vale do Sol,Rio Grande do Sul,RS,4322533,vale-solense,-29.6045299,-52.6867343,11781,328.27,35.9
+4396,Vale Real,Rio Grande do Sul,RS,4322541,vale-realense,-29.3981527,-51.2536102,5913,45.09,131.2
+4397,Vale Verde,Rio Grande do Sul,RS,4322525,valeverdense,-29.7830238,-52.1860314,3497,329.73,10.6
+4398,Vanini,Rio Grande do Sul,RS,4322558,vaninense,-28.4843862,-51.8417077,2113,64.99,32.5
+4399,Venâncio Aires,Rio Grande do Sul,RS,4322608,venâncio-airense,-29.6148016,-52.1936768,71554,772.83,92.6
+4400,Vera Cruz,Rio Grande do Sul,RS,4322707,vera-cruzense,-29.7213651,-52.5532048,26863,309.62,86.8
+4401,Veranópolis,Rio Grande do Sul,RS,4322806,veranense,-28.9427186,-51.5507365,26241,290.1,90.5
+4402,Vespasiano Correa,Rio Grande do Sul,RS,4322855,vespasianense,-29.0599228,-51.8734084,1815,113.82,15.9
+4403,Viadutos,Rio Grande do Sul,RS,4322905,viadutense,-27.5720519,-52.0216389,4756,268.07,17.7
+4404,Viamão,Rio Grande do Sul,RS,4323002,viamense,-30.0722165,-51.0969571,255224,1495.94,170.6
+4405,Vicente Dutra,Rio Grande do Sul,RS,4323101,dutrense,-27.1722579,-53.3690158,4670,193.03,24.2
+4406,Victor Graeff,Rio Grande do Sul,RS,4323200,victorense,-28.5678136,-52.6814062,2882,238.13,12.1
+4407,Vila Flores,Rio Grande do Sul,RS,4323309,vila-florense,-28.8615917,-51.5465539,3385,107.5,31.5
+4408,Vila Lângaro,Rio Grande do Sul,RS,4323358,vila-langarense,-28.1101096,-52.1275481,2091,151.7,13.8
+4409,Vila Maria,Rio Grande do Sul,RS,4323408,vila-mariense,-28.5483085,-52.1275481,4358,181.33,24.0
+4410,Vila Nova do Sul,Rio Grande do Sul,RS,4323457,vila-novense,-30.3663105,-53.8671868,4280,507.94,8.4
+4411,Vista Alegre,Rio Grande do Sul,RS,4323507,vista-alegrense,-27.3260055,-53.5094722,2752,77.58,35.5
+4412,Vista Alegre do Prata,Rio Grande do Sul,RS,4323606,vista-alegrense,-28.8337603,-51.7889062,1561,119.33,13.1
+4413,Vista Gaúcha,Rio Grande do Sul,RS,4323705,vista-gauchense,-27.2629238,-53.7043819,2851,90.02,31.7
+4414,Vitória das Missões,Rio Grande do Sul,RS,4323754,vitoriano,-28.3513194,-54.4997557,3133,259.61,12.1
+4415,Westfália,Rio Grande do Sul,RS,4323770,westfaliano,-29.3993729,-51.7361461,3014,63.67,47.3
+4416,Xangri-lá,Rio Grande do Sul,RS,4323804,xangri-laense,-29.8028079,-50.0412311,16408,60.8,269.9
+4417,Abdon Batista,Santa Catarina,SC,4200051,abdonense,-27.5926789,-51.0331933,2563,237.16,10.8
+4418,Abelardo Luz,Santa Catarina,SC,4200101,abelardo-lusense-,-26.5663539,-52.327602,17904,953.99,18.8
+4419,Agrolândia,Santa Catarina,SC,4200200,agrolandense,-27.4229369,-49.8342534,10864,206.91,52.5
+4420,Agronômica,Santa Catarina,SC,4200309,agronomense,-27.264728,-49.7112246,5448,129.77,42.0
+4421,Água Doce,Santa Catarina,SC,4200408,água-docense,-26.9989361,-51.553311,7145,1313.97,5.4
+4422,Águas de Chapecó,Santa Catarina,SC,4200507,chapecoense-das-águas,-27.0759093,-52.9811131,6486,139.51,46.5
+4423,Águas Frias,Santa Catarina,SC,4200556,águasfriense,-26.8470038,-52.8634197,2366,76.74,30.8
+4424,Águas Mornas,Santa Catarina,SC,4200606,águas-mornense,-27.743632,-48.9202828,6469,326.66,19.8
+4425,Alfredo Wagner,Santa Catarina,SC,4200705,alfredense,-27.7325711,-49.3247147,10036,735.37,13.6
+4426,Alto Bela Vista,Santa Catarina,SC,4200754,bela-vistense,-27.4300922,-51.9051241,1937,103.96,18.6
+4427,Anchieta,Santa Catarina,SC,4200804,anchietense,-26.5386967,-53.3324209,5638,231.7,24.3
+4428,Angelina,Santa Catarina,SC,4200903,angelinense,-27.5733389,-48.9843647,4801,499.78,9.6
+4429,Anita Garibaldi,Santa Catarina,SC,4201000,anita-garibaldense,-27.6901204,-51.1274492,7133,587.99,12.1
+4430,Anitápolis,Santa Catarina,SC,4201109,anitapolitano,-27.9016844,-49.1321175,3232,540.64,6.0
+4431,Antônio Carlos,Santa Catarina,SC,4201208,antônio-carlense,-27.4944749,-48.8196226,8513,233.04,36.5
+4432,Apiúna,Santa Catarina,SC,4201257,apiunense,-27.0381457,-49.3889167,10743,492.64,21.8
+4433,Arabutã,Santa Catarina,SC,4201273,arabutanense,-27.1644807,-52.1699966,4267,133.01,32.1
+4434,Araquari,Santa Catarina,SC,4201307,araquariense,-26.3766458,-48.7188929,38129,384.17,99.2
+4435,Araranguá,Santa Catarina,SC,4201406,araranguaense,-28.9361187,-49.4923013,68228,303.16,225.1
+4436,Armazém,Santa Catarina,SC,4201505,armazenense,-28.2612032,-49.0197596,8674,173.73,49.9
+4437,Arroio Trinta,Santa Catarina,SC,4201604,arroio-trintense,-26.9283452,-51.3365307,3550,94.42,37.6
+4438,Arvoredo,Santa Catarina,SC,4201653,arvoredense,-27.08413,-52.4252353,2240,90.5,24.8
+4439,Ascurra,Santa Catarina,SC,4201703,ascurrense,-26.957609,-49.3748348,7934,112.88,70.3
+4440,Atalanta,Santa Catarina,SC,4201802,atalantense,-27.433782,-49.7524306,3210,93.87,34.2
+4441,Aurora,Santa Catarina,SC,4201901,aurorense,-27.3380763,-49.5891233,5679,207.21,27.4
+4442,Balneário Piçarras,Santa Catarina,SC,4212809,piçarrense,-26.7697853,-48.676757,23147,99.14,233.5
+4443,Balneário Arroio do Silva,Santa Catarina,SC,4201950,arroio-silvense,-29.0195187,-49.4771118,13071,94.33,138.6
+4444,Balneário Barra do Sul,Santa Catarina,SC,4202057,barrassulense,-26.4600177,-48.6109443,10795,111.04,97.2
+4445,Balneário Camboriú,Santa Catarina,SC,4202008,praiano,-26.9930938,-48.6356285,142295,45.21,3147.1
+4446,Balneário Gaivota,Santa Catarina,SC,4202073,gaivotense,-29.1546867,-49.5809106,10979,147.59,74.4
+4447,Balneário Rincão,Santa Catarina,SC,4220000,balneo-rinconense,-28.8314284,-49.2351954,12760,63.43,201.2
+4448,Bandeirante,Santa Catarina,SC,4202081,bandeirantense,-26.7632305,-53.6285244,2678,147.99,18.1
+4449,Barra Bonita,Santa Catarina,SC,4202099,barrabonitense,-26.6717666,-53.4230064,1677,93.14,18.0
+4450,Barra Velha,Santa Catarina,SC,4202107,barra-velhense,-26.6331694,-48.684636,29168,139.15,209.6
+4451,Bela Vista do Toldo,Santa Catarina,SC,4202131,bela vistense,-26.3988859,-50.4721736,6337,533.42,11.9
+4452,Belmonte,Santa Catarina,SC,4202156,belmontense,-26.8514159,-53.6176937,2706,93.85,28.8
+4453,Benedito Novo,Santa Catarina,SC,4202206,benedito-novense,-26.7825761,-49.3643889,11652,387.94,30.0
+4454,Biguaçu,Santa Catarina,SC,4202305,biguaçuense,-27.4955748,-48.6553685,68481,367.87,186.2
+4455,Blumenau,Santa Catarina,SC,4202404,blumenauense,-26.9165792,-49.0717331,357199,518.62,688.8
+4456,Bocaina do Sul,Santa Catarina,SC,4202438,bocainense,-27.7767569,-49.8956943,3474,511.1,6.8
+4457,Bom Jardim da Serra,Santa Catarina,SC,4202503,bom-jardinense,-28.3403994,-49.6262464,4743,937.12,5.1
+4458,Bom Jesus,Santa Catarina,SC,4202537,bonjesuense,-26.7351446,-52.3908378,3010,63.42,47.5
+4459,Bom Jesus do Oeste,Santa Catarina,SC,4202578,bonjesuense,-26.6762242,-53.0996486,2142,67.78,31.6
+4460,Bom Retiro,Santa Catarina,SC,4202602,bom-retirense,-27.8186676,-49.5687416,9966,1056.04,9.4
+4461,Bombinhas,Santa Catarina,SC,4202453,bombinense,-27.1466465,-48.5054577,19769,35.14,562.5
+4462,Botuverá,Santa Catarina,SC,4202701,botuveraense,-27.2208816,-49.1423666,5246,296.27,17.7
+4463,Braço do Norte,Santa Catarina,SC,4202800,braço-nortense,-28.2728323,-49.1676018,33450,212.3,157.6
+4464,Braço do Trombudo,Santa Catarina,SC,4202859,braço trombudense,-27.3595175,-49.9059405,3743,89.41,41.9
+4465,Brunópolis,Santa Catarina,SC,4202875,brunopolitense,-27.33955,-50.8664451,2420,336.29,7.2
+4466,Brusque,Santa Catarina,SC,4202909,brusquense,-27.0982053,-48.9111422,134723,284.75,473.1
+4467,Caçador,Santa Catarina,SC,4203006,caçadorense,-26.7761609,-51.0124989,78595,987.02,79.6
+4468,Caibi,Santa Catarina,SC,4203105,caibiense,-27.0757377,-53.2492692,6148,173.08,35.5
+4469,Calmon,Santa Catarina,SC,4203154,calmonense,-26.6026232,-51.0985075,3346,634.57,5.3
+4470,Camboriú,Santa Catarina,SC,4203204,camboriuense,-27.0245798,-48.6508188,82989,211.71,392.0
+4471,Campo Alegre,Santa Catarina,SC,4203303,campo-alegrense,-26.1447959,-49.2435998,11978,499.22,24.0
+4472,Campo Belo do Sul,Santa Catarina,SC,4203402,campo-belense,-27.8518037,-50.8040271,7016,1028.1,6.8
+4473,Campo Erê,Santa Catarina,SC,4203501,campo-erense,-26.4458002,-53.1749726,8526,479.39,17.8
+4474,Campos Novos,Santa Catarina,SC,4203600,campos-novense,-27.4369394,-51.2213044,36244,1717.7,21.1
+4475,Canelinha,Santa Catarina,SC,4203709,canelense,-27.2293054,-48.8095665,12240,151.01,81.1
+4476,Canoinhas,Santa Catarina,SC,4203808,canoinhense,-26.1770819,-50.3954885,54401,1148.04,47.4
+4477,Capão Alto,Santa Catarina,SC,4203253,capão altense,-28.0571108,-50.5964124,2525,1332.36,1.9
+4478,Capinzal,Santa Catarina,SC,4203907,capinzalense,-27.3482312,-51.6044276,22848,243.97,93.7
+4479,Capivari de Baixo,Santa Catarina,SC,4203956,capivariense,-28.4398646,-48.957459,24871,53.22,467.3
+4480,Catanduvas,Santa Catarina,SC,4204004,catanduvense,-27.0565963,-51.70451,10861,198.24,54.8
+4481,Caxambu do Sul,Santa Catarina,SC,4204103,caxambuense,-27.1492411,-52.8955875,3642,140.91,25.8
+4482,Celso Ramos,Santa Catarina,SC,4204152,celso-ramense,-27.6618869,-51.2422395,2728,208.7,13.1
+4483,Cerro Negro,Santa Catarina,SC,4204178,cerronegrense,-27.7881092,-50.9080913,3124,417.56,7.5
+4484,Chapadão do Lageado,Santa Catarina,SC,4204194,lageadense,-27.5580709,-49.5483671,2988,124.41,24.0
+4485,Chapecó,Santa Catarina,SC,4204202,chapecoense,-27.1009343,-52.615699,220367,624.85,352.7
+4486,Cocal do Sul,Santa Catarina,SC,4204251,cocalense,-28.6000515,-49.3348621,16684,70.77,235.7
+4487,Concórdia,Santa Catarina,SC,4204301,concordense,-27.2339498,-52.026467,74641,799.19,93.4
+4488,Cordilheira Alta,Santa Catarina,SC,4204350,cordilheiraltense,-26.9761994,-52.6279608,4453,83.54,53.3
+4489,Coronel Freitas,Santa Catarina,SC,4204400,freitense ou freitano,-26.8950996,-52.7241914,9981,233.7,42.7
+4490,Coronel Martins,Santa Catarina,SC,4204459,coronel martiense,-26.5192547,-52.6814062,2549,107.37,23.7
+4491,Correia Pinto,Santa Catarina,SC,4204558,correia-pintense,-27.5885615,-50.3621241,12795,647.39,19.8
+4492,Corupá,Santa Catarina,SC,4204509,corupaense,-26.4355066,-49.2452364,15909,407.53,39.0
+4493,Criciúma,Santa Catarina,SC,4204608,criciumense,-28.6727702,-49.3733771,215186,235.06,915.4
+4494,Cunha Porã,Santa Catarina,SC,4204707,cunha-porense,-26.8944518,-53.1712749,11086,220.1,50.4
+4495,Cunhataí,Santa Catarina,SC,4204756,cunhataiense,-26.9794678,-53.0996486,1962,54.81,35.8
+4496,Curitibanos,Santa Catarina,SC,4204806,curitibanense,-27.282855,-50.5821037,39745,949.13,41.9
+4497,Descanso,Santa Catarina,SC,4204905,descansense,-26.8464426,-53.4986586,8250,287.61,28.7
+4498,Dionísio Cerqueira,Santa Catarina,SC,4205001,cerqueirense,-26.2649782,-53.636269,15498,378.84,40.9
+4499,Dona Emma,Santa Catarina,SC,4205100,donemense,-26.9814694,-49.7266254,4146,178.16,23.3
+4500,Doutor Pedrinho,Santa Catarina,SC,4205159,pedrinhense,-26.716578,-49.4855671,4064,374.21,10.9
+4501,Entre Rios,Santa Catarina,SC,4205175,entrerriense,-26.7416528,-52.5852334,3203,104.55,30.6
+4502,Ermo,Santa Catarina,SC,4205191,ermense,-28.984951,-49.6423481,2063,63.74,32.4
+4503,Erval Velho,Santa Catarina,SC,4205209,ervalense,-27.2802083,-51.4099625,4412,208.84,21.1
+4504,Faxinal dos Guedes,Santa Catarina,SC,4205308,faxinalense,-26.830328,-52.254972,10667,339.68,31.4
+4505,Flor do Sertão,Santa Catarina,SC,4205357,flor-sertanense,-26.7676291,-53.3366401,1582,57.87,27.3
+4506,Florianópolis,Santa Catarina,SC,4205407,florianopolitano,-27.5953778,-48.5480499,500973,674.84,742.4
+4507,Formosa do Sul,Santa Catarina,SC,4205431,formoense do sul,-26.6390186,-52.8098384,2510,100.07,25.1
+4508,Forquilhinha,Santa Catarina,SC,4205456,forquilhense,-28.7477963,-49.4745059,26793,183.35,146.1
+4509,Fraiburgo,Santa Catarina,SC,4205506,fraiburgense,-27.0235945,-50.9223466,36443,549.12,66.4
+4510,Frei Rogério,Santa Catarina,SC,4205555,frei rogeriense,-27.1933255,-50.7832348,2023,159.44,12.7
+4511,Galvão,Santa Catarina,SC,4205605,galvãoense,-26.4454294,-52.6707139,2873,139.34,20.6
+4512,Garopaba,Santa Catarina,SC,4205704,garopabense,-28.0272534,-48.6189508,23078,114.77,201.1
+4513,Garuva,Santa Catarina,SC,4205803,garuvense,-26.0296737,-48.8555034,18145,503.6,36.0
+4514,Gaspar,Santa Catarina,SC,4205902,gasparense,-26.9340955,-48.9539069,69639,386.2,180.3
+4515,Governador Celso Ramos,Santa Catarina,SC,4206009,gancheiro,-27.3159368,-48.5571297,14471,127.36,113.6
+4516,Grão Pará,Santa Catarina,SC,4206108,grão-paraense,-28.1855061,-49.2163655,6569,334.36,19.6
+4517,Gravatal,Santa Catarina,SC,4206207,gravatalense,-28.3262566,-49.0446853,11501,165.72,69.4
+4518,Guabiruba,Santa Catarina,SC,4206306,guabirubense,-27.1004283,-49.0211225,23832,173.27,137.5
+4519,Guaraciaba,Santa Catarina,SC,4206405,guaraciabense,-26.5878901,-53.5852111,10090,331.77,30.4
+4520,Guaramirim,Santa Catarina,SC,4206504,guaramirense,-26.4743278,-49.0023,44819,267.58,167.5
+4521,Guarujá do Sul,Santa Catarina,SC,4206603,guarujaense,-26.3862937,-53.5300878,5160,100.71,51.2
+4522,Guatambú,Santa Catarina,SC,4206652,guatumbuense,-27.1096761,-52.7670021,4704,206.16,22.8
+4523,Herval d'Oeste,Santa Catarina,SC,4206702,hervalense,-27.2006894,-51.4099625,22606,216.43,104.4
+4524,Ibiam,Santa Catarina,SC,4206751,ibianense,-27.2053765,-51.2108394,1957,146.97,13.3
+4525,Ibicaré,Santa Catarina,SC,4206801,ibicareense,-27.1075494,-51.3679914,3202,155.88,20.5
+4526,Ibirama,Santa Catarina,SC,4206900,ibiramense,-27.01139,-49.5483671,18950,247.1,76.7
+4527,Içara,Santa Catarina,SC,4207007,içarense,-28.7137096,-49.3091437,56421,230.26,245.0
+4528,Ilhota,Santa Catarina,SC,4207106,ilhotense,-26.8493716,-48.8598651,14184,253.02,56.1
+4529,Imaruí,Santa Catarina,SC,4207205,imaruense,-28.3483988,-48.8150107,10135,542.6,18.7
+4530,Imbituba,Santa Catarina,SC,4207304,imbitubense,-28.227627,-48.6691286,44853,182.91,245.2
+4531,Imbuia,Santa Catarina,SC,4207403,imbuiense,-27.4920242,-49.4224324,6197,119.11,52.0
+4532,Indaial,Santa Catarina,SC,4207502,indaialense,-26.9253115,-49.2435998,69425,429.67,161.6
+4533,Iomerê,Santa Catarina,SC,4207577,iomerense,-27.0015987,-51.2410308,2945,113.99,25.8
+4534,Ipira,Santa Catarina,SC,4207601,ipirense,-27.3628704,-51.7889062,4446,155.65,28.6
+4535,Iporã do Oeste,Santa Catarina,SC,4207650,iporã-oestino,-27.0086816,-53.4986586,8996,200.96,44.8
+4536,Ipuaçu,Santa Catarina,SC,4207684,ipuaçuense,-26.6954591,-52.4678659,7514,261.31,28.8
+4537,Ipumirim,Santa Catarina,SC,4207700,ipumiriense,-27.0443058,-52.1699966,7593,247.88,30.6
+4538,Iraceminha,Santa Catarina,SC,4207759,iraceminhense,-26.8353038,-53.3258513,3976,163.9,24.3
+4539,Irani,Santa Catarina,SC,4207809,iraniense,-27.0222777,-51.9036702,10419,325.63,32.0
+4540,Irati,Santa Catarina,SC,4207858,iratiense,-26.6246782,-52.8955875,1930,78.04,24.7
+4541,Irineópolis,Santa Catarina,SC,4207908,irineopolitense,-26.2429228,-50.795168,11222,589.7,19.0
+4542,Itá,Santa Catarina,SC,4208005,itaense,-27.2647693,-52.329411,6169,166.35,37.1
+4543,Itaiópolis,Santa Catarina,SC,4208104,itaiopolense,-26.3396691,-49.9061128,21669,1296.58,16.7
+4544,Itajaí,Santa Catarina,SC,4208203,itajaiense,-26.9107052,-48.6709133,219536,288.4,761.2
+4545,Itapema,Santa Catarina,SC,4208302,itapemense,-27.0960682,-48.6178074,65312,57.26,1140.6
+4546,Itapiranga,Santa Catarina,SC,4208401,itapiranguense,-27.1698985,-53.7108335,16872,281.78,59.9
+4547,Itapoá,Santa Catarina,SC,4208450,itapoaense,-26.0799326,-48.6589406,20576,245.39,83.8
+4548,Ituporanga,Santa Catarina,SC,4208500,ituporanguense,-27.4410179,-49.5483671,25086,336.59,74.5
+4549,Jaborá,Santa Catarina,SC,4208609,jaboraense,-27.1720505,-51.7378836,3936,182.47,21.6
+4550,Jacinto Machado,Santa Catarina,SC,4208708,jacinto-machadense,-29.0003557,-49.7612579,10416,430.7,24.2
+4551,Jaguaruna,Santa Catarina,SC,4208807,jaguarunense,-28.6504899,-49.0211225,20024,326.51,61.3
+4552,Jaraguá do Sul,Santa Catarina,SC,4208906,jaraguaense,-26.4822209,-49.073477,177697,529.41,335.6
+4553,Jardinópolis,Santa Catarina,SC,4208955,jardinopolense,-26.7259421,-52.8634197,1570,67.5,23.3
+4554,Joaçaba,Santa Catarina,SC,4209003,joaçabense,-27.1743773,-51.5054475,30118,243.09,123.9
+4555,Joinville,Santa Catarina,SC,4209102,joinvilense,-26.3044084,-48.8463832,590466,1127.95,523.5
+4556,José Boiteux,Santa Catarina,SC,4209151,josé-boatense,-26.8438535,-49.6299077,4997,405.55,12.3
+4557,Jupiá,Santa Catarina,SC,4209177,jupiaense,-26.3979097,-52.7134927,2101,91.65,22.9
+4558,Lacerdópolis,Santa Catarina,SC,4209201,lacerdopolitano,-27.2616435,-51.5569506,2246,68.86,32.6
+4559,Lages,Santa Catarina,SC,4209300,lageano,-27.8157141,-50.3263964,157544,2637.66,59.7
+4560,Laguna,Santa Catarina,SC,4209409,lagunense,-28.4748354,-48.7837539,45814,333.99,137.2
+4561,Lajeado Grande,Santa Catarina,SC,4209458,lajeado grandense,-26.8492327,-52.5425318,1427,65.22,21.9
+4562,Laurentino,Santa Catarina,SC,4209508,laurentinense,-27.2053098,-49.7422107,6970,79.33,87.9
+4563,Lauro Muller,Santa Catarina,SC,4209607,lauro-milense,-28.3856475,-49.4669396,15244,271.85,56.1
+4564,Lebon Régis,Santa Catarina,SC,4209706,lebon-regense,-26.8761329,-50.7208989,12107,942.3,12.8
+4565,Leoberto Leal,Santa Catarina,SC,4209805,leobertense,-27.4581992,-49.2638678,3041,292.85,10.4
+4566,Lindóia do Sul,Santa Catarina,SC,4209854,lindoiense,-27.0442374,-52.0427297,4563,188.76,24.2
+4567,Lontras,Santa Catarina,SC,4209904,lontrense,-27.1688504,-49.535533,12130,197.59,61.4
+4568,Luiz Alves,Santa Catarina,SC,4210001,luiz-alvense,-26.7080923,-48.9001364,12859,260.11,49.4
+4569,Luzerna,Santa Catarina,SC,4210035,luzernense,-27.1310356,-51.4683568,5685,117.1,48.5
+4570,Macieira,Santa Catarina,SC,4210050,macieirense,-26.7892652,-51.3679914,1775,259.79,6.8
+4571,Mafra,Santa Catarina,SC,4210100,mafrense,-26.1164276,-49.8091065,56292,1404.08,40.1
+4572,Major Gercino,Santa Catarina,SC,4210209,majorense,-27.4398664,-49.1019233,3442,306.06,11.2
+4573,Major Vieira,Santa Catarina,SC,4210308,major-vieirense,-26.4635693,-50.3688312,8103,523.27,15.5
+4574,Maracajá,Santa Catarina,SC,4210407,maracajaense,-28.8572152,-49.4567691,7293,62.9,115.9
+4575,Maravilha,Santa Catarina,SC,4210506,maravilhense,-26.7650048,-53.1745281,25762,170.34,151.2
+4576,Marema,Santa Catarina,SC,4210555,maremense,-26.8151832,-52.6279608,1797,103.99,17.3
+4577,Massaranduba,Santa Catarina,SC,4210605,massarandubense,-26.6119534,-49.0075714,16916,374.46,45.2
+4578,Matos Costa,Santa Catarina,SC,4210704,matos-costense,-26.4832056,-51.1585398,2520,435.34,5.8
+4579,Meleiro,Santa Catarina,SC,4210803,meleirense,-28.8564935,-49.5891233,7015,186.44,37.6
+4580,Mirim Doce,Santa Catarina,SC,4210852,mirindocense,-27.1822906,-50.1626664,2309,337.32,6.8
+4581,Modelo,Santa Catarina,SC,4210902,modelense,-26.7763242,-53.053818,4209,92.35,45.6
+4582,Mondaí,Santa Catarina,SC,4211009,mondaiense,-27.1019098,-53.3990865,11742,200.28,58.6
+4583,Monte Carlo,Santa Catarina,SC,4211058,montecarlense,-27.1555133,-50.9080913,9866,191.28,51.6
+4584,Monte Castelo,Santa Catarina,SC,4211108,monte-castelense,-26.4596996,-50.2308371,8275,560.74,14.8
+4585,Morro da Fumaça,Santa Catarina,SC,4211207,fumacense,-28.6540002,-49.2120154,17796,82.82,214.9
+4586,Morro Grande,Santa Catarina,SC,4211256,morrograndense,-28.8010724,-49.7218556,2893,260.32,11.1
+4587,Navegantes,Santa Catarina,SC,4211306,navegantino,-26.8947924,-48.6550692,81475,111.65,729.7
+4588,Nova Erechim,Santa Catarina,SC,4211405,nova-erechinense,-26.9004406,-52.9063133,5019,65.08,77.1
+4589,Nova Itaberaba,Santa Catarina,SC,4211454,nova itaberadense,-26.9616795,-52.8098384,4331,137.34,31.5
+4590,Nova Trento,Santa Catarina,SC,4211504,nova-trentino,-27.2836385,-48.9167729,14549,402.85,36.1
+4591,Nova Veneza,Santa Catarina,SC,4211603,veneziano,-28.701244,-49.5891233,15166,295.22,51.4
+4592,Novo Horizonte,Santa Catarina,SC,4211652,novo-horizontino,-26.4642211,-52.7991269,2442,152.49,16.0
+4593,Orleans,Santa Catarina,SC,4211702,orleanense,-28.3576607,-49.2885418,22912,549.51,41.7
+4594,Otacílio Costa,Santa Catarina,SC,4211751,otaciliense,-27.4794141,-50.1236024,18744,845.36,22.2
+4595,Ouro,Santa Catarina,SC,4211801,ourense,-27.3399746,-51.6126719,7295,213.05,34.2
+4596,Ouro Verde,Santa Catarina,SC,4211850,ouro-verdense,-26.72313,-52.2974988,2217,189.54,11.7
+4597,Paial,Santa Catarina,SC,4211876,paialense,-27.2312134,-52.5105224,1505,86.01,17.5
+4598,Painel,Santa Catarina,SC,4211892,painelense,-27.9902254,-50.059845,2359,738.56,3.2
+4599,Palhoça,Santa Catarina,SC,4211900,palhocense,-27.6460201,-48.6701406,171797,394.91,435.0
+4600,Palma Sola,Santa Catarina,SC,4212007,palma-solense,-26.3893395,-53.3258513,7423,330.63,22.5
+4601,Palmeira,Santa Catarina,SC,4212056,palmeirense,-27.574998,-50.1626664,2627,289.1,9.1
+4602,Palmitos,Santa Catarina,SC,4212106,palmitense,-27.071804,-53.1592272,16169,351.05,46.1
+4603,Papanduva,Santa Catarina,SC,4212205,papanduvense,-26.41002,-50.1329815,19320,763.55,25.3
+4604,Paraíso,Santa Catarina,SC,4212239,paraisense,-26.6541032,-53.6718623,3437,180.53,19.0
+4605,Passo de Torres,Santa Catarina,SC,4212254,passotorrense,-29.2496741,-49.7115614,8823,92.64,95.2
+4606,Passos Maia,Santa Catarina,SC,4212270,passosmaiense,-26.7239862,-51.9791849,4147,618.66,6.7
+4607,Paulo Lopes,Santa Catarina,SC,4212304,paulo-lopense,-27.9949643,-48.7593128,7494,448.65,16.7
+4608,Pedras Grandes,Santa Catarina,SC,4212403,pedras-grandense,-28.4919629,-49.2233389,3976,159.89,24.9
+4609,Penha,Santa Catarina,SC,4212502,penhense,-26.775917,-48.6470006,32531,57.75,563.3
+4610,Peritiba,Santa Catarina,SC,4212601,peritibense,-27.3500829,-51.8734084,2787,95.64,29.1
+4611,Pescaria Brava,Santa Catarina,SC,4212650,bravense,-28.3966251,-48.8864246,10091,106.85,94.4
+4612,Petrolândia,Santa Catarina,SC,4212700,petrolandense,-27.5617364,-49.6707205,5937,305.86,19.4
+4613,Pinhalzinho,Santa Catarina,SC,4212908,pinhalense,-26.8526671,-52.9814383,20313,128.69,157.8
+4614,Pinheiro Preto,Santa Catarina,SC,4213005,pinheirense,-27.0465675,-51.2108394,3555,61.15,58.1
+4615,Piratuba,Santa Catarina,SC,4213104,piratubense,-27.4197664,-51.7752272,3854,146.09,26.4
+4616,Planalto Alegre,Santa Catarina,SC,4213153,planaltoalegrense,-27.0486597,-52.8634197,2870,63.1,45.5
+4617,Pomerode,Santa Catarina,SC,4213203,pomerodense,-26.7376205,-49.1743626,33447,214.3,156.1
+4618,Ponte Alta,Santa Catarina,SC,4213302,ponte-altense,-27.4839908,-50.3768985,4682,569.15,8.2
+4619,Ponte Alta do Norte,Santa Catarina,SC,4213351,norte pontealtense,-27.1604981,-50.3894858,3414,396.88,8.6
+4620,Ponte Serrada,Santa Catarina,SC,4213401,ponte-serradense,-26.8573894,-51.8945505,11593,562.78,20.6
+4621,Porto Belo,Santa Catarina,SC,4213500,porto-belense,-27.1542952,-48.5420467,21388,92.94,230.1
+4622,Porto União,Santa Catarina,SC,4213609,porto-unionense,-26.2389124,-51.0817102,35398,846.97,41.8
+4623,Pouso Redondo,Santa Catarina,SC,4213708,pouso-redondense,-27.2572341,-49.9305975,17453,359.23,48.6
+4624,Praia Grande,Santa Catarina,SC,4213807,praia-grandense,-29.1950509,-49.9518762,7319,284.36,25.7
+4625,Presidente Castello Branco,Santa Catarina,SC,4213906,castelinense,-27.2298455,-51.7783509,1568,65.58,23.9
+4626,Presidente Getúlio,Santa Catarina,SC,4214003,getulense,-27.1067082,-49.7115614,17471,297.16,58.8
+4627,Presidente Nereu,Santa Catarina,SC,4214102,nereusense,-27.2919851,-49.3450112,2287,225.74,10.1
+4628,Princesa,Santa Catarina,SC,4214151,princesense,-26.4246745,-53.6176937,2924,85.6,34.2
+4629,Quilombo,Santa Catarina,SC,4214201,quilombense,-26.7269167,-52.7244682,9887,279.76,35.3
+4630,Rancho Queimado,Santa Catarina,SC,4214300,rancho-queimadense,-27.6735087,-49.0124511,2878,286.46,10.0
+4631,Rio das Antas,Santa Catarina,SC,4214409,rio-antense,-26.893143,-51.0749483,6205,314.91,19.7
+4632,Rio do Campo,Santa Catarina,SC,4214508,rio-campense,-26.9451681,-50.1386113,5940,502.1,11.8
+4633,Rio do Oeste,Santa Catarina,SC,4214607,riense-do-oeste,-27.1932662,-49.7971989,7489,245.06,30.6
+4634,Rio do Sul,Santa Catarina,SC,4214805,rio-sulense,-27.2160932,-49.6435018,71061,260.82,272.5
+4635,Rio dos Cedros,Santa Catarina,SC,4214706,rio-cedrense,-26.5910803,-49.4059435,11676,555.47,21.0
+4636,Rio Fortuna,Santa Catarina,SC,4214904,rio-fortunense,-28.1340257,-49.1037232,4611,303.03,15.2
+4637,Rio Negrinho,Santa Catarina,SC,4215000,rio-negrinhense,-26.4648861,-49.609512,42302,908.21,46.6
+4638,Rio Rufino,Santa Catarina,SC,4215059,rio rufinense,-27.9026204,-49.7524306,2483,282.57,8.8
+4639,Riqueza,Santa Catarina,SC,4215075,riquezense,-27.0658084,-53.3269662,4598,192.98,23.8
+4640,Rodeio,Santa Catarina,SC,4215109,rodeiense,-26.9243784,-49.3688265,11551,129.64,89.1
+4641,Romelândia,Santa Catarina,SC,4215208,romelandino,-26.6326738,-53.3258513,4786,222.9,21.5
+4642,Salete,Santa Catarina,SC,4215307,saletense,-26.9694006,-49.998236,7642,177.99,42.9
+4643,Saltinho,Santa Catarina,SC,4215356,saltinhense,-26.5827752,-53.0244018,3781,156.59,24.1
+4644,Salto Veloso,Santa Catarina,SC,4215406,velosoense,-26.9034809,-51.4048356,4718,105.06,44.9
+4645,Sangão,Santa Catarina,SC,4215455,sangãoense,-28.6560688,-49.1423666,12678,82.74,153.2
+4646,Santa Cecília,Santa Catarina,SC,4215505,ceciliense,-26.9655922,-50.4178973,16830,1145.85,14.7
+4647,Santa Helena,Santa Catarina,SC,4215554,santaelenense,-26.9123284,-53.6176937,2223,81.0,27.4
+4648,Santa Rosa de Lima,Santa Catarina,SC,4215604,rosa-limense,-28.0122447,-49.1828385,2142,202.85,10.6
+4649,Santa Rosa do Sul,Santa Catarina,SC,4215653,sul-santarrosense,-29.1092701,-49.7524306,8358,150.3,55.6
+4650,Santa Terezinha,Santa Catarina,SC,4215679,terezinhense,-26.628556,-49.9777136,8787,715.5,12.3
+4651,Santa Terezinha do Progresso,Santa Catarina,SC,4215687,terezinhano,-26.5940066,-53.1965079,2428,119.26,20.4
+4652,Santiago do Sul,Santa Catarina,SC,4215695,santiaguense,-26.6333914,-52.6921001,1260,73.34,17.2
+4653,Santo Amaro da Imperatriz,Santa Catarina,SC,4215703,santo-amarense,-27.6856839,-48.7817857,23245,344.24,67.5
+4654,São Bento do Sul,Santa Catarina,SC,4215802,são-bentense,-26.2500365,-49.3835566,84507,495.77,170.5
+4655,São Bernardino,Santa Catarina,SC,4215752,bernardinense,-26.4889617,-52.9814383,2336,150.06,15.6
+4656,São Bonifácio,Santa Catarina,SC,4215901,são-bonifacense,-27.9000547,-48.9301492,2838,458.49,6.2
+4657,São Carlos,Santa Catarina,SC,4216008,são-carlense,-27.0272704,-53.0244018,11281,162.12,69.6
+4658,São Cristovão do Sul,Santa Catarina,SC,4216057,são-cristovense,-27.3167602,-50.3275427,5549,351.29,15.8
+4659,São Domingos,Santa Catarina,SC,4216107,dominguense,-26.5204192,-52.5532048,9445,366.79,25.8
+4660,São Francisco do Sul,Santa Catarina,SC,4216206,francisquense,-26.2492482,-48.635372,52721,493.42,106.8
+4661,São João Batista,Santa Catarina,SC,4216305,batistense,-27.2758303,-48.8503707,37424,199.98,187.1
+4662,São João do Itaperiú,Santa Catarina,SC,4216354,itaperiuense,-26.6188986,-48.7675293,3733,152.01,24.6
+4663,São João do Oeste,Santa Catarina,SC,4216255,são-joanense,-27.0751346,-53.5852111,6381,163.75,39.0
+4664,São João do Sul,Santa Catarina,SC,4216404,joão-sulense,-29.2246856,-49.8089801,7297,184.38,39.6
+4665,São Joaquim,Santa Catarina,SC,4216503,joaquinense,-28.292455,-49.9375873,26952,1889.86,14.3
+4666,São José,Santa Catarina,SC,4216602,josefense,-27.6140791,-48.6370861,246586,150.45,1639.0
+4667,São José do Cedro,Santa Catarina,SC,4216701,cedrense,-26.4938429,-53.5419225,13829,281.27,49.2
+4668,São José do Cerrito,Santa Catarina,SC,4216800,cerritense,-27.5592851,-50.6378804,8295,948.71,8.7
+4669,São Lourenço do Oeste,Santa Catarina,SC,4216909,lourencense ou lourenciano,-26.3545259,-52.8527049,24076,356.19,67.6
+4670,São Ludgero,Santa Catarina,SC,4217006,são-ludgerense,-28.3290497,-49.1788756,13410,107.69,124.5
+4671,São Martinho,Santa Catarina,SC,4217105,são-martinhense,-28.109123,-49.0211225,3180,223.89,14.2
+4672,São Miguel da Boa Vista,Santa Catarina,SC,4217154,boa-vistense,-26.6948125,-53.2288226,1820,72.76,25.0
+4673,São Miguel do Oeste,Santa Catarina,SC,4217204,miguel-oestino,-26.7246898,-53.5167812,40482,233.8,173.1
+4674,São Pedro de Alcântara,Santa Catarina,SC,4217253,alcantarense,-27.5852252,-48.8296806,5823,140.07,41.6
+4675,Saudades,Santa Catarina,SC,4217303,saudadense,-26.8787543,-53.0673905,9745,205.78,47.4
+4676,Schroeder,Santa Catarina,SC,4217402,cheredense,-26.3749827,-49.0615086,21365,165.11,129.4
+4677,Seara,Santa Catarina,SC,4217501,searaense,-27.1377719,-52.3400517,17541,309.63,56.7
+4678,Serra Alta,Santa Catarina,SC,4217550,serra-altense,-26.704068,-53.0244018,3263,90.56,36.0
+4679,Siderópolis,Santa Catarina,SC,4217600,sideropolitano,-28.5959635,-49.4319275,14007,262.1,53.4
+4680,Sombrio,Santa Catarina,SC,4217709,sombriense,-29.0798389,-49.6707205,30374,143.09,212.3
+4681,Sul Brasil,Santa Catarina,SC,4217758,sul brasilense,-26.7184655,-52.9385002,2461,112.96,21.8
+4682,Taió,Santa Catarina,SC,4217808,taioense,-27.1159847,-49.9961505,18395,694.6,26.5
+4683,Tangará,Santa Catarina,SC,4217907,tangaraense,-27.1034368,-51.2451391,8676,390.0,22.2
+4684,Tigrinhos,Santa Catarina,SC,4217956,tigrinhense,-26.675414,-53.1642073,1633,56.96,28.7
+4685,Tijucas,Santa Catarina,SC,4218004,tijucano,-27.240063,-48.6336183,38407,279.95,137.2
+4686,Timbé do Sul,Santa Catarina,SC,4218103,timbeense,-28.829251,-49.8425427,5348,328.51,16.3
+4687,Timbó,Santa Catarina,SC,4218202,timboense,-26.8251371,-49.26952,44238,128.31,344.8
+4688,Timbó Grande,Santa Catarina,SC,4218251,timbó-grandense,-26.5595451,-50.7208989,7877,596.96,13.2
+4689,Três Barras,Santa Catarina,SC,4218301,três-barrense,-26.1265438,-50.3142152,19275,436.88,44.1
+4690,Treviso,Santa Catarina,SC,4218350,trevisano,-28.5140795,-49.4573761,3929,156.69,25.1
+4691,Treze de Maio,Santa Catarina,SC,4218400,treze-maioense,-28.5787234,-49.1423666,7081,159.83,44.3
+4692,Treze Tílias,Santa Catarina,SC,4218509,treze-tiliense,-26.9998302,-51.408892,7840,186.64,42.0
+4693,Trombudo Central,Santa Catarina,SC,4218608,trombudense,-27.3117605,-49.8240194,7360,109.65,67.1
+4694,Tubarão,Santa Catarina,SC,4218707,tubaronense,-28.471976,-49.0147244,105686,301.48,350.6
+4695,Tunápolis,Santa Catarina,SC,4218756,tunapolitano,-26.971771,-53.6392877,4543,132.94,34.2
+4696,Turvo,Santa Catarina,SC,4218806,turvense,-28.9004822,-49.7115614,12899,234.95,54.9
+4697,União do Oeste,Santa Catarina,SC,4218855,união-oestense,-26.779946,-52.8419824,2464,92.86,26.5
+4698,Urubici,Santa Catarina,SC,4218905,urubiciense,-28.0071174,-49.5894682,11235,1020.25,11.0
+4699,Urupema,Santa Catarina,SC,4218954,urupemense,-27.9545386,-49.8766717,2465,350.47,7.0
+4700,Urussanga,Santa Catarina,SC,4219002,urussanguense,-28.525676,-49.3215835,21268,254.95,83.4
+4701,Vargeão,Santa Catarina,SC,4219101,vargeonense,-26.7371687,-52.0851258,3573,165.94,21.5
+4702,Vargem,Santa Catarina,SC,4219150,vargense,-27.4858566,-50.9497647,2477,350.61,7.1
+4703,Vargem Bonita,Santa Catarina,SC,4219176,vargembonitense,-26.9503308,-51.7466948,4492,299.81,15.0
+4704,Vidal Ramos,Santa Catarina,SC,4219200,vidal-ramense,-27.408868,-49.3450112,6338,346.93,18.3
+4705,Videira,Santa Catarina,SC,4219309,videirense,-27.0258167,-51.1167305,53065,384.13,138.1
+4706,Vitor Meireles,Santa Catarina,SC,4219358,vitor-meirelense,-26.8364794,-49.8956943,4979,371.02,13.4
+4707,Witmarsum,Santa Catarina,SC,4219408,witmarsumense,-26.9415411,-49.9161886,3965,153.78,25.8
+4708,Xanxerê,Santa Catarina,SC,4219507,xanxerense,-26.8751803,-52.4040853,50982,377.7,135.0
+4709,Xavantina,Santa Catarina,SC,4219606,xavantinense,-27.0174001,-52.3400517,3933,217.33,18.1
+4710,Xaxim,Santa Catarina,SC,4219705,xaxiense,-26.9560607,-52.5360073,28706,293.51,97.8
+4711,Zortéa,Santa Catarina,SC,4219853,zorteense,-27.4802473,-51.5360368,3363,190.18,17.7

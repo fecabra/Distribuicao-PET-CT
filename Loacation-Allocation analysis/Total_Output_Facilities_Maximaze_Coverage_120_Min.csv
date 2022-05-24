@@ -1,0 +1,408 @@
+﻿cidade;estado;sigla;populacao alocada;Equipamentos Existentes;Equipamentos Adicionais;latitude;longitude
+Cruzeiro do Sul;Acre;AC;123984;0;1;-7,6280405;-72,6761608
+Rio Branco;Acre;AC;505863;0;2;-9,9753837;-67,824918
+Arapiraca;Alagoas;AL;765763;0;1;-9,755588;-36,6639577
+Delmiro Gouveia;Alagoas;AL;414123;0;1;-9,3859509;-37,998877
+Palmeira dos Índios;Alagoas;AL;333577;0;1;-9,4119133;-36,5661908
+Penedo;Alagoas;AL;359025;0;1;-10,2878675;-36,5822391
+Rio Largo;Alagoas;AL;1619702;0;1;-9,5106567;-35,8122531
+Manacapuru;Amazonas;AM;2328436;2 (Manaus);3;-3,2897192;-60,6319066
+Tabatinga;Amazonas;AM;128749;0;1;-4,2316306;-69,936928
+Laranjal do Jari;Amapá;AP;50410;0;1;1,0943041;-53,2180495
+Macapá;Amapá;AP;554710;0;2;0,0355735;-51,070535
+Santana;Amapá;AP;121364;0;1;0,0728284;-51,4421328
+Alagoinhas;Bahia;BA;451734;0;1;-12,1339689;-38,4211223
+Barra;Bahia;BA;132468;0;1;-11,0897577;-43,1390524
+Barreiras;Bahia;BA;322041;0;1;-12,1477483;-44,9953475
+Bom Jesus da Lapa;Bahia;BA;188898;0;1;-13,2513786;-43,4112394
+Brumado;Bahia;BA;202510;0;1;-14,1968614;-41,6809724
+Caetité;Bahia;BA;169018;0;1;-14,0648657;-42,4858867
+Campo Formoso;Bahia;BA;71206;0;1;-10,1914246;-40,7969149
+Casa Nova;Bahia;BA;112977;0;1;-9,1756152;-40,9734426
+Conceição do Coité;Bahia;BA;373283;0;1;-11,5576676;-39,2791011
+Euclides da Cunha;Bahia;BA;196657;0;1;-10,5082596;-39,0156074
+Eunápolis;Bahia;BA;195757;0;1;-16,3719941;-39,5825118
+Feira de Santana;Bahia;BA;1083231;;;-12,2597272;-38,9646608
+Guanambi;Bahia;BA;194902;;;-14,2235167;-42,7803335
+Ilhéus;Bahia;BA;211193;;;-14,7931916;-39,0464023
+Ipirá;Bahia;BA;187222;;;-12,1571052;-39,7400824
+Irecê;Bahia;BA;352125;;;-11,303555;-41,8561503
+Itaberaba;Bahia;BA;198764;;;-12,5245553;-40,3061968
+Itabuna;Bahia;BA;486521;;;-14,7880327;-39,2784178
+Itapetinga;Bahia;BA;254049;;;-15,2475119;-40,2509918
+Jacobina;Bahia;BA;237299;;;-11,1816506;-40,5120603
+Jaguaquara;Bahia;BA;200793;;;-13,5281974;-39,9695429
+Jequié;Bahia;BA;302334;;;-13,8590328;-40,0837506
+Paulo Afonso;Bahia;BA;297366;;;-9,4061251;-38,2163717
+Porto Seguro;Bahia;BA;199792;;;-16,4443537;-39,0653656
+Ribeira do Pombal;Bahia;BA;464770;;;-10,8365146;-38,5439246
+Santo Antônio de Jesus;Bahia;BA;540825;;;-12,9698503;-39,2617368
+Senhor do Bonfim;Bahia;BA;239835;;;-10,459783;-40,1868956
+Simões Filho;Bahia;BA;3931612;;;-12,7700716;-38,4218849
+Teixeira de Freitas;Bahia;BA;372229;;;-17,5400307;-39,7421813
+Valença;Bahia;BA;310843;;;-13,3708767;-39,072909
+Vitória da Conquista;Bahia;BA;500293;;;-14,8619237;-40,8445346
+Acaraú;Ceará;CE;275048;;;-2,8880609;-40,1186635
+Barbalha;Ceará;CE;827099;;;-7,2986169;-39,3024396
+Canindé;Ceará;CE;326148;;;-4,3580865;-39,3137855
+Caucaia;Ceará;CE;3865096;;;-3,6824047;-38,9132305
+Crateús;Ceará;CE;297288;;;-5,178204;-40,6695522
+Granja;Ceará;CE;180292;;;-3,11846;-40,8303495
+Icó;Ceará;CE;197243;;;-6,4026236;-38,8591633
+Iguatu;Ceará;CE;416319;;;-6,3587958;-39,298059
+Morada Nova;Ceará;CE;577990;;;-5,097983;-38,3705722
+Pacajus;Ceará;CE;784536;;;-4,1731846;-38,460945
+Sobral;Ceará;CE;576047;;;-3,701499;-40,3496894
+Tauá;Ceará;CE;200659;;;-5,892287;-40,2271243
+Tianguá;Ceará;CE;389396;;;-3,7300232;-40,9926511
+Aracruz;Espírito Santo;ES;175466;;;-19,8205316;-40,2768213
+Cachoeiro de Itapemirim;Espírito Santo;ES;559957;;;-20,8467047;-41,1202199
+Cariacica;Espírito Santo;ES;562723;;;-20,2642764;-40,420365
+Colatina;Espírito Santo;ES;309244;;;-19,5262632;-40,6351179
+Guarapari;Espírito Santo;ES;190434;;;-20,6741197;-40,4997382
+Linhares;Espírito Santo;ES;222766;;;-19,3946651;-40,0652641
+Nova Venécia;Espírito Santo;ES;268359;;;-18,7074851;-40,3955859
+São Mateus;Espírito Santo;ES;218335;;;-18,7190705;-39,856734
+Vitória;Espírito Santo;ES;1373445;;;-20,2976178;-40,2957768
+Anápolis;Goiás;GO;607277;;;-16,328546;-48,953403
+Aparecida de Goiânia;Goiás;GO;2353346;;;-16,820257;-49,2473044
+Caldas Novas;Goiás;GO;197003;;;-17,7006127;-48,598804
+Catalão;Goiás;GO;139819;;;-18,1661375;-47,944531
+Formosa;Goiás;GO;231434;;;-15,5404411;-47,3374297
+Goianésia;Goiás;GO;319079;;;-15,3122723;-49,1166441
+Inhumas;Goiás;GO;234933;;;-16,3615082;-49,500561
+Itumbiara;Goiás;GO;241562;;;-18,4097245;-49,2162908
+Jataí;Goiás;GO;128339;;;-17,8796049;-51,7206735
+Mineiros;Goiás;GO;101741;;;-17,5624415;-52,5489206
+Quirinópolis;Goiás;GO;121352;;;-18,4476442;-50,4551598
+Rio Verde;Goiás;GO;355017;;;-17,7927442;-50,9196623
+Trindade;Goiás;GO;316382;;;-16,6521596;-49,4931169
+Valparaíso de Goiás;Goiás;GO;3925303;;;-16,0655297;-47,9761119
+Açailândia;Maranhão;MA;415918;;;-4,9539357;-47,5030772
+Bacabal;Maranhão;MA;283615;;;-4,2246772;-44,7849427
+Balsas;Maranhão;MA;151965;;;-7,5330309;-46,035885
+Barra do Corda;Maranhão;MA;207373;;;-5,5018917;-45,2464996
+Barreirinhas;Maranhão;MA;91245;;;-2,759;-42,8236209
+Buriticupu;Maranhão;MA;106386;;;-4,4890121;-46,3240951
+Caxias;Maranhão;MA;259390;;;-4,8654138;-43,3619983
+Chapadinha;Maranhão;MA;282020;;;-3,7415256;-43,360096
+Codó;Maranhão;MA;315426;;;-4,4605557;-43,88945
+Grajaú;Maranhão;MA;104318;;;-5,8248093;-46,1594921
+Itapecuru Mirim;Maranhão;MA;402537;;;-3,3994526;-44,351805
+Lago da Pedra;Maranhão;MA;234534;;;-4,5702218;-45,1323252
+Paço do Lumiar;Maranhão;MA;1432529;;;-2,5169408;-44,1022762
+Pinheiro;Maranhão;MA;401362;;;-2,5176989;-45,0797821
+Santa Inês;Maranhão;MA;378440;;;-3,6644286;-45,3839708
+Timon;Maranhão;MA;1277137;;;-5,0980798;-42,8333011
+Tutóia;Maranhão;MA;154845;;;-2,7617805;-42,275917
+Viana;Maranhão;MA;235214;;;-3,2023658;-45,0373171
+Zé Doca;Maranhão;MA;67140;;;-3,2329855;-46,1326778
+Alfenas;Minas Gerais;MG;247800;;;-21,4261129;-45,9481612
+Araguari;Minas Gerais;MG;827904;;;-18,6460396;-48,1938367
+Araxá;Minas Gerais;MG;176253;;;-19,5906483;-46,9442412
+Barbacena;Minas Gerais;MG;298747;;;-21,2219344;-43,7706811
+Betim;Minas Gerais;MG;1561473;;;-19,9673078;-44,2011904
+Bom Despacho;Minas Gerais;MG;140369;;;-19,7405507;-45,2541849
+Campo Belo;Minas Gerais;MG;147738;;;-20,8938356;-45,2721363
+Caratinga;Minas Gerais;MG;234929;;;-19,7896943;-42,1415731
+Cataguases;Minas Gerais;MG;119115;;;-21,3892337;-42,6945496
+Congonhas;Minas Gerais;MG;98587;;;-20,4993469;-43,8613566
+Conselheiro Lafaiete;Minas Gerais;MG;194107;;;-20,6639305;-43,7850227
+Coronel Fabriciano;Minas Gerais;MG;216187;;;-19,5189752;-42,6282541
+Curvelo;Minas Gerais;MG;208775;;;-18,753199;-44,4306685
+Divinópolis;Minas Gerais;MG;329338;;;-20,1451261;-44,8916447
+Formiga;Minas Gerais;MG;173398;;;-20,4623459;-45,4272185
+Frutal;Minas Gerais;MG;107193;;;-20,0264222;-48,9360129
+Governador Valadares;Minas Gerais;MG;475674;;;-18,8549317;-41,9559233
+Guaxupé;Minas Gerais;MG;165682;;;-21,3054884;-46,7084932
+Ipatinga;Minas Gerais;MG;402250;;;-19,4707617;-42,5480125
+Itabira;Minas Gerais;MG;163268;;;-19,6244172;-43,2316363
+Itabirito;Minas Gerais;MG;51875;;;-20,2530617;-43,8030567
+Itajubá;Minas Gerais;MG;494182;;;-22,422971;-45,4602511
+Itaúna;Minas Gerais;MG;187686;;;-20,0822785;-44,5805309
+Ituiutaba;Minas Gerais;MG;276555;;;-18,9745738;-49,4600885
+Janaúba;Minas Gerais;MG;237668;;;-15,8052004;-43,3147032
+Januária;Minas Gerais;MG;152406;;;-15,4806094;-44,3642956
+João Monlevade;Minas Gerais;MG;200278;;;-19,8131282;-43,1738765
+Juiz de Fora;Minas Gerais;MG;698543;;;-21,7624237;-43,3433999
+Lagoa da Prata;Minas Gerais;MG;147356;;;-20,0242053;-45,5405732
+Lavras;Minas Gerais;MG;223703;;;-21,2484875;-45,0013747
+Leopoldina;Minas Gerais;MG;187615;;;-21,5301251;-42,642529
+Manhuaçu;Minas Gerais;MG;466646;;;-20,2555875;-42,030947
+Mariana;Minas Gerais;MG;171705;;;-20,3652719;-43,4150073
+Muriaé;Minas Gerais;MG;191881;;;-21,1291403;-42,3702252
+Nova Lima;Minas Gerais;MG;121555;;;-19,9930478;-43,8485566
+Nova Serrana;Minas Gerais;MG;172608;;;-19,8717775;-44,9850828
+Pará de Minas;Minas Gerais;MG;132824;;;-19,8600249;-44,6075839
+Paracatu;Minas Gerais;MG;156722;;;-17,2174522;-46,8711355
+Passos;Minas Gerais;MG;236405;;;-20,7221434;-46,6133353
+Patos de Minas;Minas Gerais;MG;314686;;;-18,5872582;-46,5146749
+Patrocínio;Minas Gerais;MG;223464;;;-18,9383312;-46,9938375
+Pirapora;Minas Gerais;MG;172459;;;-17,3435064;-44,9230576
+Poços de Caldas;Minas Gerais;MG;288744;;;-21,7853787;-46,5619303
+Ponte Nova;Minas Gerais;MG;149415;;;-20,4115862;-42,8982244
+Sabará;Minas Gerais;MG;181062;;;-19,8845263;-43,826722
+Santa Luzia;Minas Gerais;MG;3414984;;;-19,7882663;-43,9403221
+São Francisco;Minas Gerais;MG;195282;;;-15,9516274;-44,8590264
+São João del Rei;Minas Gerais;MG;203143;;;-21,1315795;-44,2530618
+São Sebastião do Paraíso;Minas Gerais;MG;139810;;;-20,917221;-46,984069
+Sete Lagoas;Minas Gerais;MG;326497;;;-19,45738;-44,2416695
+Teófilo Otoni;Minas Gerais;MG;359717;;;-17,8599967;-41,5090764
+Três Corações;Minas Gerais;MG;340773;;;-21,692578;-45,2515461
+Três Pontas;Minas Gerais;MG;139752;;;-21,3699248;-45,5113164
+Ubá;Minas Gerais;MG;266807;;;-21,120123;-42,9426188
+Uberaba;Minas Gerais;MG;426876;;;-19,7473748;-47,9391625
+Unaí;Minas Gerais;MG;110801;;;-16,3596547;-46,9027545
+Varginha;Minas Gerais;MG;193835;;;-21,5560521;-45,4368421
+Viçosa;Minas Gerais;MG;200148;;;-20,7548659;-42,8785788
+Corumbá;Mato Grosso do Sul;MS;134766;;;-19,0081688;-57,6515503
+Dourados;Mato Grosso do Sul;MS;388838;;;-22,2272034;-54,8291259
+Naviraí;Mato Grosso do Sul;MS;147335;;;-23,062277;-54,1999693
+Nova Andradina;Mato Grosso do Sul;MS;135317;;;-22,2385546;-53,3442543
+Ponta Porã;Mato Grosso do Sul;MS;153027;;;-22,523123;-55,7242526
+Sidrolândia;Mato Grosso do Sul;MS;1047851;;;-20,9306759;-54,9697524
+Três Lagoas;Mato Grosso do Sul;MS;139789;;;-20,7881656;-51,7030882
+Alta Floresta;Mato Grosso;MT;73312;;;-9,8764576;-56,085509
+Barra do Garças;Mato Grosso;MT;123239;;;-15,8916202;-52,2618826
+Cáceres;Mato Grosso;MT;169183;;;-16,0768867;-57,6822654
+Lucas do Rio Verde;Mato Grosso;MT;124617;;;-13,064847;-55,9193214
+Primavera do Leste;Mato Grosso;MT;86416;;;-15,5605187;-54,2950554
+Rondonópolis;Mato Grosso;MT;293177;;;-16,4654526;-54,6387369
+Sorriso;Mato Grosso;MT;261125;;;-12,5429239;-55,7215037
+Tangará da Serra;Mato Grosso;MT;178086;;;-14,6197868;-57,4875563
+Várzea Grande;Mato Grosso;MT;1002329;;;-15,646248;-56,1327131
+Acará;Pará;PA;118041;;;-2,0159736;-48,3190276
+Altamira;Pará;PA;176411;;;-3,1986664;-52,2104006
+Bragança;Pará;PA;266046;;;-1,0616193;-46,7830109
+Breves;Pará;PA;102701;;;-1,681993;-50,4803853
+Cametá;Pará;PA;166825;;;-2,2414892;-49,4984804
+Capanema;Pará;PA;296170;;;-1,2056483;-47,178192
+Capitão Poço;Pará;PA;182206;;;-1,7482089;-47,0633437
+Castanhal;Pará;PA;2893288;;;-1,2983288;-47,9171616
+Dom Eliseu;Pará;PA;171286;;;-4,1913641;-47,8427298
+Igarapé-Miri;Pará;PA;458306;;;-1,9767218;-48,960543
+Ipixuna do Pará;Pará;PA;240645;;;-2,9657358;-48,0010282
+Jacundá;Pará;PA;75833;;;-4,4470358;-49,1154573
+Marabá;Pará;PA;403966;;;-5,3811326;-49,1331046
+Novo Repartimento;Pará;PA;123625;;;-4,2478719;-49,9503928
+Óbidos;Pará;PA;139626;;;-1,9014476;-55,5212832
+Parauapebas;Pará;PA;260010;;;-6,0682494;-49,904199
+Portel;Pará;PA;89697;;;-1,9367459;-50,8198737
+Redenção;Pará;PA;201078;;;-8,0257293;-50,0320734
+Rurópolis;Pará;PA;81492;;;-4,1007938;-54,9093329
+Santarém;Pará;PA;338405;;;-2,4506291;-54,7009228
+São Félix do Xingu;Pará;PA;168083;;;-6,641438;-51,9825889
+Tucuruí;Pará;PA;227151;;;-3,8036143;-49,7728757
+Bayeux;Paraíba;PB;1448946;;;-7,1315529;-34,9322771
+Cajazeiras;Paraíba;PB;283609;;;-6,8897071;-38,5612185
+Campina Grande;Paraíba;PB;953856;;;-7,2290752;-35,8808337
+Guarabira;Paraíba;PB;532635;;;-6,8512622;-35,4922252
+Patos;Paraíba;PB;437165;;;-7,0178331;-37,275037
+Sousa;Paraíba;PB;364420;;;-6,7519382;-38,2314566
+Abreu e Lima;Pernambuco;PE;3997140;;;-7,9011493;-34,8987086
+Araripina;Pernambuco;PE;259837;;;-7,57656;-40,4976324
+Arcoverde;Pernambuco;PE;319578;;;-8,4176713;-37,0585002
+Brejo da Madre de Deus;Pernambuco;PE;220923;;;-8,1405443;-36,371496
+Garanhuns;Pernambuco;PE;581783;;;-8,8828551;-36,4968966
+Gravatá;Pernambuco;PE;952938;;;-8,2116007;-35,5677787
+Ouricuri;Pernambuco;PE;237490;;;-7,8808775;-40,0810267
+Palmares;Pernambuco;PE;810933;;;-8,6764828;-35,5821519
+Pesqueira;Pernambuco;PE;330068;;;-8,3627277;-36,7388486
+Petrolina;Pernambuco;PE;710910;;;-9,383509;-40,5079029
+Salgueiro;Pernambuco;PE;225615;;;-8,0725066;-39,1268089
+Serra Talhada;Pernambuco;PE;456519;;;-7,9821907;-38,2893787
+Surubim;Pernambuco;PE;442955;;;-7,8478439;-35,7570657
+Timbaúba;Pernambuco;PE;540606;;;-7,512005;-35,3168703
+Floriano;Piauí;PI;217743;;;-6,7769318;-43,0226015
+Parnaíba;Piauí;PI;334900;;;-2,9055447;-41,7733626
+Picos;Piauí;PI;329829;;;-7,0598772;-41,5012792
+Piripiri;Piauí;PI;349398;;;-4,3383128;-41,8402054
+Apucarana;Paraná;PR;331051;;;-23,5504385;-51,4639716
+Campo Largo;Paraná;PR;744376;;;-25,4596855;-49,5273149
+Campo Mourão;Paraná;PR;274286;;;-24,0436553;-52,3781098
+Cascavel;Paraná;PR;641614;;;-24,9578832;-53,459544
+Castro;Paraná;PR;125942;;;-24,7902746;-49,7728757
+Cianorte;Paraná;PR;176048;;;-23,6602731;-52,6068646
+Foz do Iguaçu;Paraná;PR;395468;;;-25,5163356;-54,5853764
+Francisco Beltrão;Paraná;PR;223841;;;-26,0404504;-53,1749726
+Guarapuava;Paraná;PR;362472;;;-25,3907214;-51,4628097
+Ibiporã;Paraná;PR;910134;;;-23,2664186;-51,0527244
+Irati;Paraná;PR;256225;;;-25,4700302;-50,6509459
+Marechal Cândido Rondon;Paraná;PR;351733;;;-24,5568725;-54,056788
+Maringá;Paraná;PR;753863;;;-23,4209995;-51,9330558
+Palmas;Paraná;PR;50986;;;-26,4307273;-51,8100218
+Paranaguá;Paraná;PR;309969;;;-25,5165725;-48,5229975
+Paranavaí;Paraná;PR;309250;;;-23,0821226;-52,4622155
+Pato Branco;Paraná;PR;353481;;;-26,2297202;-52,6711356
+Rolândia;Paraná;PR;425929;;;-23,3105968;-51,366412
+São José dos Pinhais;Paraná;PR;3153645;;;-25,5318354;-49,2035722
+Telêmaco Borba;Paraná;PR;222434;;;-24,3250032;-50,6180669
+Umuarama;Paraná;PR;317082;;;-23,7661064;-53,3206105
+União da Vitória;Paraná;PR;159014;;;-26,2219963;-51,0850684
+Angra dos Reis;Rio de Janeiro;RJ;246950;;;-23,0058039;-44,3157913
+Barra do Piraí;Rio de Janeiro;RJ;155884;;;-22,4720256;-43,8273373
+Cabo Frio;Rio de Janeiro;RJ;423530;;;-22,8867507;-42,0262542
+Campos dos Goytacazes;Rio de Janeiro;RJ;637347;;;-21,7626902;-41,3184877
+Guapimirim;Rio de Janeiro;RJ;364525;;;-22,535199;-42,9899491
+Itaperuna;Rio de Janeiro;RJ;361669;;;-21,2000807;-41,8802333
+Japeri;Rio de Janeiro;RJ;484133;;;-22,6439978;-43,6606463
+Macaé;Rio de Janeiro;RJ;492605;;;-22,3836904;-41,7827891
+Mesquita;Rio de Janeiro;RJ;3212943;;;-22,7819449;-43,4293183
+Niterói;Rio de Janeiro;RJ;8478533;;;-22,8858975;-43,1152211
+Nova Friburgo;Rio de Janeiro;RJ;292889;;;-22,2887261;-42,5340796
+Petrópolis;Rio de Janeiro;RJ;306191;;;-22,5112638;-43,1779137
+Resende;Rio de Janeiro;RJ;251514;;;-22,4709621;-44,4513295
+Rio Bonito;Rio de Janeiro;RJ;622630;;;-22,7186089;-42,6279835
+Teresópolis;Rio de Janeiro;RJ;204389;;;-22,416956;-42,9756194
+Três Rios;Rio de Janeiro;RJ;172113;;;-22,1170059;-43,218947
+Valença;Rio de Janeiro;RJ;94433;;;-22,246015;-43,7069087
+Volta Redonda;Rio de Janeiro;RJ;541744;;;-22,5077597;-44,0947303
+Açu;Rio Grande do Norte;RN;244605;;;-5,5774536;-36,9147407
+Caicó;Rio Grande do Norte;RN;358174;;;-6,4599655;-37,0936867
+Ceará-Mirim;Rio Grande do Norte;RN;290117;;;-5,6395379;-35,4237292
+Macaíba;Rio Grande do Norte;RN;1826763;;;-5,8562141;-35,3551905
+Mossoró;Rio Grande do Norte;RN;600166;;;-5,1841285;-37,3477805
+Ariquemes;Rondônia;RO;165595;;;-9,9061087;-63,0330263
+Jaru;Rondônia;RO;286711;;;-10,4322235;-62,4792921
+Porto Velho;Rondônia;RO;556237;;;-8,7611605;-63,9004303
+Rolim de Moura;Rondônia;RO;341355;;;-11,7257556;-61,7781519
+Vilhena;Rondônia;RO;115736;;;-12,7414031;-60,1304566
+Boa Vista;Roraima;RR;399213;;;2,8235098;-60,6758331
+Alegrete;Rio Grande do Sul;RS;80888;;;-29,7445673;-55,9358581
+Bagé;Rio Grande do Sul;RS;195118;;;-31,3301746;-54,1004709
+Bento Gonçalves;Rio Grande do Sul;RS;930338;;;-29,1667089;-51,5169861
+Camaquã;Rio Grande do Sul;RS;193692;;;-30,8493976;-51,8048311
+Canguçu;Rio Grande do Sul;RS;91374;;;-31,3964785;-52,6787852
+Canoas;Rio Grande do Sul;RS;3255874;;;-29,9132584;-51,1861921
+Capão da Canoa;Rio Grande do Sul;RS;291637;;;-29,7649764;-50,0289451
+Carazinho;Rio Grande do Sul;RS;561207;;;-28,2963334;-52,793776
+Cruz Alta;Rio Grande do Sul;RS;245352;;;-28,6454883;-53,605355
+Erechim;Rio Grande do Sul;RS;280539;;;-27,6347754;-52,2740707
+Estância Velha;Rio Grande do Sul;RS;989489;;;-29,6540396;-51,1848488
+Ijuí;Rio Grande do Sul;RS;141746;;;-28,3885333;-53,9204851
+Lajeado;Rio Grande do Sul;RS;503727;;;-29,459582;-51,9649421
+Pelotas;Rio Grande do Sul;RS;617253;;;-31,7653989;-52,3375886
+Santa Cruz do Sul;Rio Grande do Sul;RS;468817;;;-29,722516;-52,4348382
+Santa Maria;Rio Grande do Sul;RS;467615;;;-29,68725;-53,8154499
+Santa Rosa;Rio Grande do Sul;RS;329077;;;-27,8706817;-54,4801558
+Santo Ângelo;Rio Grande do Sul;RS;177154;;;-28,3006117;-54,2673083
+São Borja;Rio Grande do Sul;RS;159840;;;-28,6583059;-56,0041451
+São Gabriel;Rio Grande do Sul;RS;197957;;;-30,2915042;-54,5218074
+Taquara;Rio Grande do Sul;RS;380006;;;-29,6509722;-50,7757844
+Uruguaiana;Rio Grande do Sul;RS;153872;;;-29,7619121;-57,0858428
+Vacaria;Rio Grande do Sul;RS;172064;;;-28,5083259;-50,942302
+Araranguá;Santa Catarina;SC;246623;;;-28,9361187;-49,4923013
+Caçador;Santa Catarina;SC;131278;;;-26,7761609;-51,0124989
+Canoinhas;Santa Catarina;SC;176428;;;-26,1770819;-50,3954885
+Chapecó;Santa Catarina;SC;466811;;;-27,1009343;-52,615699
+Concórdia;Santa Catarina;SC;207497;;;-27,2339498;-52,026467
+Içara;Santa Catarina;SC;746602;;;-28,7137096;-49,3091437
+Indaial;Santa Catarina;SC;598121;;;-26,9253115;-49,2435998
+Itapema;Santa Catarina;SC;999819;;;-27,0960682;-48,6178074
+Jaraguá do Sul;Santa Catarina;SC;1137817;;;-26,4822209;-49,073477
+Lages;Santa Catarina;SC;334604;;;-27,8157141;-50,3263964
+Mafra;Santa Catarina;SC;269701;;;-26,1164276;-49,8091065
+Palhoça;Santa Catarina;SC;1131196;;;-27,6460201;-48,6701406
+Rio do Sul;Santa Catarina;SC;302111;;;-27,2160932;-49,6435018
+Videira;Santa Catarina;SC;224087;;;-27,0258167;-51,1167305
+Xanxerê;Santa Catarina;SC;111445;;;-26,8751803;-52,4040853
+Estância;Sergipe;SE;415554;;;-11,268661;-37,43854
+Itabaiana;Sergipe;SE;507574;;;-10,6872332;-37,4329352
+Nossa Senhora do Socorro;Sergipe;SE;1206461;;;-10,8531643;-37,1269791
+Americana;São Paulo;SP;433072;;;-22,7378203;-47,3337008
+Amparo;São Paulo;SP;116356;;;-22,7080671;-46,7726697
+Andradina;São Paulo;SP;371141;;;-20,8990077;-51,3797039
+Araçatuba;São Paulo;SP;287419;;;-21,2081189;-50,4405769
+Araraquara;São Paulo;SP;315904;;;-21,7848272;-48,1786486
+Araras;São Paulo;SP;162286;;;-22,3604911;-47,3798391
+Artur Nogueira;São Paulo;SP;256857;;;-22,573223;-47,1731269
+Assis;São Paulo;SP;301962;;;-22,6604341;-50,4187813
+Atibaia;São Paulo;SP;227256;;;-23,1175492;-46,5567066
+Avaré;São Paulo;SP;265733;;;-23,1072154;-48,925516
+Batatais;São Paulo;SP;166830;;;-20,8933441;-47,5925952
+Bauru;São Paulo;SP;480087;;;-22,314459;-49,0586951
+Bebedouro;São Paulo;SP;164397;;;-20,9496743;-48,4795696
+Bertioga;São Paulo;SP;63249;;;-23,8064303;-46,0589521
+Birigui;São Paulo;SP;195828;;;-21,2915055;-50,3436312
+Boituva;São Paulo;SP;147079;;;-23,2860188;-47,6790285
+Botucatu;São Paulo;SP;244209;;;-22,8841808;-48,4441654
+Bragança Paulista;São Paulo;SP;200505;;;-22,9531705;-46,5423239
+Campo Limpo Paulista;São Paulo;SP;236532;;;-23,2082928;-46,7893689
+Campos do Jordão;São Paulo;SP;69777;;;-22,7428673;-45,5963557
+Capivari;São Paulo;SP;86109;;;-22,9972026;-47,512814
+Caraguatatuba;São Paulo;SP;121532;;;-23,6255903;-45,4241453
+Catanduva;São Paulo;SP;289086;;;-21,1318555;-48,977473
+Cruzeiro;São Paulo;SP;128198;;;-22,573256;-44,9693894
+Fernandópolis;São Paulo;SP;274188;;;-20,2810232;-50,2475804
+Franca;São Paulo;SP;427758;;;-20,5393288;-47,4013437
+Franco da Rocha;São Paulo;SP;531982;;;-23,3233727;-46,7294577
+Guaratinguetá;São Paulo;SP;219753;;;-22,8080237;-45,1942191
+Guarujá;São Paulo;SP;320459;;;-23,9949104;-46,2568758
+Guarulhos;São Paulo;SP;1379182;;;-23,4543148;-46,5336521
+Ibitinga;São Paulo;SP;150716;;;-21,7567077;-48,8323618
+Ibiúna;São Paulo;SP;78878;;;-23,6600885;-47,2234952
+Itanhaém;São Paulo;SP;158518;;;-24,1817994;-46,7850334
+Itapecerica da Serra;São Paulo;SP;855737;;;-23,7166271;-46,8576421
+Itapetininga;São Paulo;SP;228084;;;-23,6399075;-48,1597946
+Itapeva;São Paulo;SP;257189;;;-23,9793102;-48,8768997
+Itapevi;São Paulo;SP;611847;;;-23,5492651;-46,9331962
+Itapira;São Paulo;SP;142463;;;-22,4362174;-46,8228786
+Itararé;São Paulo;SP;78599;;;-24,1089373;-49,3356859
+Itatiba;São Paulo;SP;134480;;;-23,0040152;-46,8467973
+Jaboticabal;São Paulo;SP;146520;;;-21,2525138;-48,3256762
+Jaguariúna;São Paulo;SP;143647;;;-22,7042272;-46,9855088
+Jaú;São Paulo;SP;409380;;;-22,30275;-48,5755491
+Jundiaí;São Paulo;SP;605900;;;-23,1857076;-46,8978057
+Leme;São Paulo;SP;112889;;;-22,1813407;-47,3845574
+Lençóis Paulista;São Paulo;SP;101985;;;-22,6031668;-48,8041532
+Limeira;São Paulo;SP;330349;;;-22,5836504;-47,4098328
+Lins;São Paulo;SP;228013;;;-21,6733002;-49,7471388
+Lorena;São Paulo;SP;140828;;;-22,7338724;-45,1201112
+Marília;São Paulo;SP;353897;;;-22,2175997;-49,9505101
+Matão;São Paulo;SP;96857;;;-21,6029893;-48,3644226
+Mirassol;São Paulo;SP;209555;;;-20,8173456;-49,5210713
+Mococa;São Paulo;SP;97575;;;-21,4649238;-47,0145295
+Mogi das Cruzes;São Paulo;SP;495579;;;-23,5213379;-46,185867
+Mogi Guaçu;São Paulo;SP;256381;;;-22,3679387;-46,9432454
+Monte Alto;São Paulo;SP;76952;;;-21,2654139;-48,4976456
+Olímpia;São Paulo;SP;241775;;;-20,7371116;-48,9110606
+Osasco;São Paulo;SP;1400236;;;-23,5328871;-46,7919978
+Ourinhos;São Paulo;SP;246711;;;-22,9798639;-49,8699589
+Penápolis;São Paulo;SP;105270;;;-21,4152377;-50,0773225
+Peruíbe;São Paulo;SP;97051;;;-24,3124785;-47,0016573
+Piedade;São Paulo;SP;63155;;;-23,7144986;-47,4260072
+Pindamonhangaba;São Paulo;SP;168328;;;-22,8450713;-45,4874873
+Piracicaba;São Paulo;SP;492933;;;-22,7342864;-47,6480644
+Poá;São Paulo;SP;980186;;;-23,5337777;-46,3477362
+Porto Ferreira;São Paulo;SP;308211;;;-21,8421051;-47,4710798
+Registro;São Paulo;SP;251524;;;-24,5002295;-47,8448116
+Ribeirão Pires;São Paulo;SP;647151;;;-23,7071623;-46,4062503
+Rio Claro;São Paulo;SP;286641;;;-22,4149023;-47,5651394
+Salto;São Paulo;SP;647034;;;-23,2000805;-47,293538
+Santa Isabel;São Paulo;SP;156744;;;-23,319527;-46,2267426
+Santana de Parnaíba;São Paulo;SP;158342;;;-23,4429961;-46,9226576
+São Bernardo do Campo;São Paulo;SP;14394743;;;-23,6898429;-46,5648481
+São Carlos;São Paulo;SP;318463;;;-22,0087082;-47,8909263
+São João da Boa Vista;São Paulo;SP;228825;;;-21,9712237;-46,7947225
+São Joaquim da Barra;São Paulo;SP;319318;;;-20,5816355;-47,8597594
+São José do Rio Pardo;São Paulo;SP;148440;;;-21,5957703;-46,8877455
+São José do Rio Preto;São Paulo;SP;619126;;;-20,811761;-49,3762272
+São José dos Campos;São Paulo;SP;1029669;;;-23,223701;-45,9009074
+São Roque;São Paulo;SP;231755;;;-23,5307554;-47,1353998
+São Sebastião;São Paulo;SP;123950;;;-23,8063468;-45,4016534
+São Vicente;São Paulo;SP;1254887;;;-23,960745;-46,3961359
+Sertãozinho;São Paulo;SP;1058668;;;-21,1379949;-47,990137
+Sumaré;São Paulo;SP;633238;;;-22,8209029;-47,2732726
+Taquaritinga;São Paulo;SP;65569;;;-21,4039482;-48,5088658
+Tatuí;São Paulo;SP;283933;;;-23,3492186;-47,8465761
+Taubaté;São Paulo;SP;477571;;;-23,0204559;-45,5563555
+Tupã;São Paulo;SP;659197;;;-21,9340257;-50,5195809
+Ubatuba;São Paulo;SP;90799;;;-23,4336713;-45,0838529
+Valinhos;São Paulo;SP;1411994;;;-22,9659553;-46,9999471
+Votorantim;São Paulo;SP;920896;;;-23,540286;-47,4445978
+Votuporanga;São Paulo;SP;202318;;;-20,4171943;-49,9703251
+Araguaína;Tocantins;TO;312151;;;-7,1927733;-48,204827
+Gurupi;Tocantins;TO;132582;;;-11,7283752;-49,0686083
+Palmas;Tocantins;TO;335715;;;-10,249091;-48,3242858
+Paraíso do Tocantins;Tocantins;TO;115495;;;-10,1754102;-48,8826983
+Porto Nacional;Tocantins;TO;78701;;;-10,703164;-48,4084858

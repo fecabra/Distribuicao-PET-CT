@@ -1,0 +1,8 @@
+id,cidade,estado,sigla,codigo,gentilico,latitude,longitude,populacao,area,densidade
+162,Manaus,Amazonas,AM,1302603,manauara,-3.1190275,-60.0217314,2182763,11401.09,191.5
+804,Brasília,Distrito Federal,DF,5300108,brasiliense,-15.7997654,-47.8644715,3015268,5760.78,523.4
+977,Goiânia,Goiás,GO,5208707,goianiense,-16.6868824,-49.2647885,1516113,728.84,2080.2
+2218,Campo Grande,Mato Grosso do Sul,MS,5002704,campo-grandense,-20.4697105,-54.6201211,895982,8092.95,110.7
+2296,Brasnorte,Mato Grosso,MT,5101902,brasnortense,-12.3710126,-58.1892921,19695,15959.14,1.2
+2405,Sinop,Mato Grosso,MT,5107909,sinopense,-11.8608456,-55.5095451,142996,3941.96,36.3
+2437,Belém,Pará,PA,1501402,belenense,-1.4557794,-48.4901968,1492745,1059.46,1409.0

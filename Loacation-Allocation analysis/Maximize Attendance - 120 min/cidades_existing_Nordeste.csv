@@ -1,0 +1,10 @@
+id,cidade,estado,sigla,codigo,gentilico,latitude,longitude,populacao,area,densidade
+538,Salvador,Bahia,BA,2927408,soteropolitano,-12.9730401,-38.502304,2872347,693.83,4139.8
+1218,Imperatriz,Maranhão,MA,2105302,imperatrizense,-5.5205646,-47.4718463,258682,1368.99,189.0
+1314,São Luís,Maranhão,MA,2111300,são-luisense,-2.5391099,-44.2829046,1101884,582.97,1890.1
+2656,João Pessoa,Paraíba,PB,2507507,pessoense,-7.1194958,-34.8450118,809015,211.29,3829.0
+2830,Caruaru,Pernambuco,PE,2604106,caruaruense,-8.2849639,-35.9701874,361118,920.61,392.3
+2918,Recife,Pernambuco,PE,2611606,recifense,-8.0475622,-34.8769643,1645727,218.84,7520.1
+3186,Teresina,Piauí,PI,2211001,teresinense,-5.0920108,-42.8037597,864845,1391.05,621.7
+3773,Natal,Rio Grande do Norte,RN,2408102,natalense,-5.7792569,-35.200916,884122,167.4,5281.5
+5359,Aracaju,Sergipe,SE,2800308,aracajuano,-10.9472468,-37.0730823,657013,182.16,3606.7

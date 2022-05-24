@@ -1,0 +1,918 @@
+id,cidade,estado,sigla,codigo,gentilico,latitude,longitude,populacao,area,densidade
+1,Acrelândia,Acre,AC,1200013,acrelandense,-10.0763918,-67.0586977,15256,1807.95,8.4
+2,Assis Brasil,Acre,AC,1200054,assis-brasiliense,-10.7579579,-69.9550338,7417,4974.18,1.5
+3,Brasiléia,Acre,AC,1200104,brasileense,-10.705993,-69.1923916,26278,3916.5,6.7
+4,Bujari,Acre,AC,1200138,bujariense,-9.8156638,-67.9555789,10266,3034.87,3.4
+5,Capixaba,Acre,AC,1200179,capixabense,-10.572112,-67.675122,11733,1701.97,6.9
+6,Cruzeiro do Sul,Acre,AC,1200203,cruzeirense,-7.6280405,-72.6761608,88376,8779.4,10.1
+7,Epitaciolândia,Acre,AC,1200252,epitaciolandense,-10.8751696,-68.5724112,18411,1654.77,11.1
+8,Feijó,Acre,AC,1200302,feijoense,-8.1642847,-70.3529311,34780,27975.43,1.2
+9,Jordão,Acre,AC,1200328,jordãoense,-9.1634876,-71.8571331,8317,5357.28,1.6
+10,Mâncio Lima,Acre,AC,1200336,mancio-limense,-7.5468003,-73.3708696,18977,5452.85,3.5
+11,Manoel Urbano,Acre,AC,1200344,manoel-urbanense,-8.8379028,-69.2619137,9459,10633.14,0.9
+12,Marechal Thaumaturgo,Acre,AC,1200351,thaumaturguense,-9.0314758,-72.6151169,18867,8191.69,2.3
+13,Plácido de Castro,Acre,AC,1200385,placidiano,-10.2313205,-67.2847875,19761,1943.85,10.2
+14,Porto Acre,Acre,AC,1200807,portoacrense,-9.6333647,-67.71391,18504,2604.89,7.1
+15,Porto Walter,Acre,AC,1200393,portowaltense,-8.5316163,-72.8042797,11982,6443.83,1.9
+16,Rio Branco,Acre,AC,1200401,rio-branquense,-9.9753837,-67.824918,407319,8834.94,46.1
+17,Rodrigues Alves,Acre,AC,1200427,rodriguesalvense,-7.881874,-73.3708696,18930,3076.95,6.2
+18,Santa Rosa do Purus,Acre,AC,1200435,santarosense,-9.071283,-70.1455805,6540,6145.61,1.1
+19,Sena Madureira,Acre,AC,1200500,sena-madureirense,-9.6096717,-69.2877535,45848,23753.07,1.9
+20,Senador Guiomard,Acre,AC,1200450,guiomaense,-10.1500737,-67.7367345,23024,2322.03,9.9
+21,Tarauacá,Acre,AC,1200609,tarauacaense,-8.2132323,-71.3824374,42567,20171.08,2.1
+22,Xapuri,Acre,AC,1200708,xapuriense,-10.6521259,-68.4293214,19323,5347.47,3.6
+125,Alvarães,Amazonas,AM,1300029,alvarãense,-3.7751449,-65.3807101,16041,5923.46,2.7
+126,Amaturá,Amazonas,AM,1300060,amaturaense,-3.3749087,-68.2010007,11536,4754.11,2.4
+127,Anamã,Amazonas,AM,1300086,anamãense,-3.5155735,-61.7941232,13614,2446.12,5.6
+128,Anori,Amazonas,AM,1300102,anoriense,-3.7979302,-61.6070583,21010,6036.38,3.5
+129,Apuí,Amazonas,AM,1300144,apuiense,-7.6269603,-59.4720904,21973,54240.56,0.4
+130,Atalaia do Norte,Amazonas,AM,1300201,atalaiense,-4.3670958,-70.190894,19921,76435.09,0.3
+131,Autazes,Amazonas,AM,1300300,autazense,-3.7225517,-59.5642369,39565,7652.85,5.2
+132,Barcelos,Amazonas,AM,1300409,barcelense,-0.2674076,-63.2032151,27502,122461.09,0.2
+133,Barreirinha,Amazonas,AM,1300508,barreirinhense,-3.0793652,-57.1915504,32041,5751.77,5.6
+134,Benjamin Constant,Amazonas,AM,1300607,benjamin-constantense,-4.5204349,-69.9550338,42984,8695.39,4.9
+135,Beruri,Amazonas,AM,1300631,beruriense,-4.6128943,-61.8877321,19679,17472.79,1.1
+136,Boa Vista do Ramos,Amazonas,AM,1300680,boa-vistense,-3.0621541,-57.6892483,19207,2589.41,7.4
+137,Boca do Acre,Amazonas,AM,1300706,bocacrense,-8.7516632,-67.3985312,34308,21938.59,1.6
+138,Borba,Amazonas,AM,1300805,borbense,-4.6497952,-59.4720904,41161,44236.18,0.9
+139,Caapiranga,Amazonas,AM,1300839,caapiranguense,-3.0855539,-61.7941232,13081,9455.54,1.4
+140,Canutama,Amazonas,AM,1300904,canutamense,-6.532966,-64.3871458,15629,33642.6,0.5
+141,Carauari,Amazonas,AM,1301001,carauariense,-4.8817618,-66.9046884,28294,25778.66,1.1
+142,Careiro,Amazonas,AM,1301100,careirense,-3.8194584,-60.3612267,37869,6096.21,6.2
+143,Careiro da Várzea,Amazonas,AM,1301159,careirense-da-várzea,-3.1974487,-59.8255324,30225,2627.47,11.5
+144,Coari,Amazonas,AM,1301209,coariense,-4.0945957,-63.1446032,85097,57970.77,1.5
+145,Codajás,Amazonas,AM,1301308,codajasense,-3.8398302,-62.0610928,28637,18700.71,1.5
+146,Eirunepé,Amazonas,AM,1301407,eirunepeense,-6.8416993,-70.2408325,35273,14966.24,2.4
+147,Envira,Amazonas,AM,1301506,envirense,-7.4782808,-69.8597406,20033,7505.81,2.7
+148,Fonte Boa,Amazonas,AM,1301605,fonte-boense,-2.4681009,-66.1415263,17609,12155.43,1.4
+149,Guajará,Amazonas,AM,1301654,guajaraense,-7.1919754,-72.8042797,16678,7583.72,2.2
+150,Humaitá,Amazonas,AM,1301704,humaitaense,-7.5169578,-63.0298013,55080,33111.14,1.7
+151,Ipixuna,Amazonas,AM,1301803,ipixunense,-7.2174346,-71.3824374,29689,12109.78,2.5
+152,Iranduba,Amazonas,AM,1301852,irandubense,-3.1456879,-60.257396,48296,2216.82,21.8
+153,Itacoatiara,Amazonas,AM,1301902,itacoatiarense,-3.3339824,-58.5543821,101337,8891.91,11.4
+154,Itamarati,Amazonas,AM,1301951,itamaratiense,-6.7390668,-67.952363,7851,25260.43,0.3
+155,Itapiranga,Amazonas,AM,1302009,itapiranguense,-2.4409392,-58.6458369,9148,4335.08,2.1
+156,Japurá,Amazonas,AM,1302108,japuraense,-1.8827204,-66.9295891,2755,55827.21,0.0
+157,Juruá,Amazonas,AM,1302207,juruaense,-3.5811865,-66.4271499,14712,19442.55,0.8
+158,Jutaí,Amazonas,AM,1302306,jutaiense,-4.4008685,-68.5247149,14317,69457.42,0.2
+159,Lábrea,Amazonas,AM,1302405,labrense,-7.2645177,-64.7952995,46069,68262.7,0.7
+160,Manacapuru,Amazonas,AM,1302504,manacapuruense,-3.2897192,-60.6319066,97377,7336.58,13.3
+161,Manaquiri,Amazonas,AM,1302553,manaquirense,-3.9148823,-60.8609358,32105,3973.26,8.1
+162,Manaus,Amazonas,AM,1302603,manauara,-3.1190275,-60.0217314,2182763,11401.09,191.5
+163,Manicoré,Amazonas,AM,1302702,manicoreense,-5.8116004,-61.2915104,55751,48315.02,1.2
+164,Maraã,Amazonas,AM,1302801,maraãense,-2.3019472,-65.0008536,18224,16830.83,1.1
+165,Maués,Amazonas,AM,1302900,maueense,-5.3064879,-58.1892921,63905,39991.07,1.6
+166,Nhamundá,Amazonas,AM,1303007,nhamundaense,-1.9413603,-57.4627259,21173,14107.04,1.5
+167,Nova Olinda do Norte,Amazonas,AM,1303106,olindense,-3.9690604,-58.6458369,37378,5578.13,6.7
+168,Novo Airão,Amazonas,AM,1303205,novo-airãoense,-2.6367324,-60.9439131,19454,37776.77,0.5
+169,Novo Aripuanã,Amazonas,AM,1303304,aripuanense,-6.3019793,-60.0259466,25644,41179.66,0.6
+170,Parintins,Amazonas,AM,1303403,parintinense,-2.6377821,-56.7295415,114273,5956.05,19.2
+171,Pauini,Amazonas,AM,1303502,pauiniense,-7.7291953,-68.3339275,19426,41624.67,0.5
+172,Presidente Figueiredo,Amazonas,AM,1303536,figueirense,-1.4520011,-60.0259466,36279,25459.1,1.4
+173,Rio Preto da Eva,Amazonas,AM,1303569,rio-pretense,-2.6986297,-59.7002779,33347,5815.62,5.7
+174,Santa Isabel do Rio Negro,Amazonas,AM,1303601,santa-isabelense,-0.2725526,-65.475736,25156,62800.08,0.4
+175,Santo Antônio do Içá,Amazonas,AM,1303700,santoense,-3.0443341,-69.097023,21602,12366.14,1.7
+176,São Gabriel da Cachoeira,Amazonas,AM,1303809,são-gabrielense,0.5582388,-68.1431414,45564,109181.24,0.4
+177,São Paulo de Olivença,Amazonas,AM,1303908,paulivense,-3.6499007,-69.097023,39299,19658.5,2.0
+178,São Sebastião do Uatumã,Amazonas,AM,1303957,uatumaense,-1.9722197,-58.9206295,14020,10647.46,1.3
+179,Silves,Amazonas,AM,1304005,silvense,-2.8466271,-58.4629997,9171,3723.38,2.5
+180,Tabatinga,Amazonas,AM,1304062,tabatinguense,-4.2316306,-69.936928,65844,3266.06,20.2
+181,Tapauá,Amazonas,AM,1304104,tapauense,-5.6250393,-63.1890247,17156,84946.17,0.2
+182,Tefé,Amazonas,AM,1304203,tefeense,-3.3514753,-64.7148236,59849,23692.22,2.5
+183,Tonantins,Amazonas,AM,1304237,tonantinense,-2.7915832,-67.6662231,18755,6446.89,2.9
+184,Uarini,Amazonas,AM,1304260,uarinense,-2.9822411,-65.1593645,13540,10274.68,1.3
+185,Urucará,Amazonas,AM,1304302,urucaraense,-2.5297311,-57.754279,16256,27901.96,0.6
+186,Urucurituba,Amazonas,AM,1304401,urucuritubense,-3.1297269,-58.1538868,23065,2886.49,8.0
+187,Amapá,Amapá,AP,1600105,amapaense,2.0447438,-50.7874222,9109,8454.85,1.1
+188,Calçoene,Amapá,AP,1600204,calçoenense,2.3002285,-51.5150077,11117,14117.3,0.8
+189,Cutias,Amapá,AP,1600212,cutienses,1.022885,-50.3894858,5983,2179.11,2.7
+190,Ferreira Gomes,Amapá,AP,1600238,ferreirense,0.8569136,-51.1799664,7780,4973.85,1.6
+191,Itaubal,Amapá,AP,1600253,itaubenses,0.5536852,-50.7208989,5503,1622.87,3.4
+192,Laranjal do Jari,Amapá,AP,1600279,laranjalense,1.0943041,-53.2180495,50410,30783.0,1.6
+193,Macapá,Amapá,AP,1600303,macapaense,0.0355735,-51.070535,503327,6563.85,76.7
+194,Mazagão,Amapá,AP,1600402,mazaganistas,-0.115827,-51.2862467,21632,13294.78,1.6
+195,Oiapoque,Amapá,AP,1600501,oiapoquenses,3.844121,-51.8322277,27270,23034.39,1.2
+196,Pedra Branca do Amapari,Amapá,AP,1600154,pedrabrancanienses,0.7770846,-51.9507614,16502,9622.29,1.7
+197,Porto Grande,Amapá,AP,1600535,portograndenses,0.7099293,-51.4100368,21971,4428.01,5.0
+198,Pracuúba,Amapá,AP,1600550,pracuubenses,1.7430365,-50.7858963,5120,4948.51,1.0
+199,Santana,Amapá,AP,1600600,santanenses,0.0728284,-51.4421328,121364,1541.22,78.7
+200,Serra do Navio,Amapá,AP,1600055,serranavienses,1.63482,-52.2762322,5397,7713.05,0.7
+201,Tartarugalzinho,Amapá,AP,1600709,tartarugalense,1.5048944,-50.9118267,17315,6684.71,2.6
+202,Vitória do Jari,Amapá,AP,1600808,vitorenses,-1.0173634,-52.1063337,15931,2508.98,6.3
+804,Brasília,Distrito Federal,DF,5300108,brasiliense,-15.7997654,-47.8644715,3015268,5760.78,523.4
+883,Abadia de Goiás,Goiás,GO,5200050,abadiense,-16.763784,-49.4377043,8773,147.26,59.6
+884,Abadiânia,Goiás,GO,5200100,abadiense,-16.1976908,-48.7060608,20042,1045.13,19.2
+885,Acreúna,Goiás,GO,5200134,acreunense,-17.4256166,-50.3069088,22366,1566.0,14.3
+886,Adelândia,Goiás,GO,5200159,adelandense,-16.4163826,-50.1675951,2516,115.35,21.8
+887,Água Fria de Goiás,Goiás,GO,5200175,água-friense,-14.9829737,-47.7822942,5735,2029.42,2.8
+888,Água Limpa,Goiás,GO,5200209,água-limpense,-18.0733372,-48.7794089,1850,452.86,4.1
+889,Águas Lindas de Goiás,Goiás,GO,5200258,águas lindense,-15.7460358,-48.299098,212440,192.39,1104.2
+890,Alexânia,Goiás,GO,5200308,alexaniense,-16.0821361,-48.5074307,27653,847.89,32.6
+891,Aloândia,Goiás,GO,5200506,aloandense,-17.7072608,-49.4669396,1995,102.16,19.5
+892,Alto Horizonte,Goiás,GO,5200555,alto horizontino,-14.1834789,-49.4262684,6414,503.76,12.7
+893,Alto Paraíso de Goiás,Goiás,GO,5200605,alto-paraisense,-14.2092279,-47.6849007,7624,2593.91,2.9
+894,Alvorada do Norte,Goiás,GO,5200803,alvoradense,-14.5985637,-46.6319212,8660,1259.37,6.9
+895,Amaralina,Goiás,GO,5200829,amaralinense,-13.8761217,-49.4872858,3812,1343.24,2.8
+896,Americano do Brasil,Goiás,GO,5200852,americanense-do-Brasil,-16.2615963,-50.0084998,6111,133.56,45.8
+897,Amorinópolis,Goiás,GO,5200902,amorinopolense,-16.6456114,-51.0749483,3126,408.53,7.7
+898,Anápolis,Goiás,GO,5201108,anapolino,-16.328546,-48.953403,386923,933.16,414.6
+899,Anhanguera,Goiás,GO,5201207,anhanguerino,-18.31014,-48.2194523,1149,56.95,20.2
+900,Anicuns,Goiás,GO,5201306,anicuense,-16.4613315,-49.9588111,21850,979.23,22.3
+901,Aparecida de Goiânia,Goiás,GO,5201405,aparecidense,-16.820257,-49.2473044,578179,278.54,2075.8
+902,Aparecida do Rio Doce,Goiás,GO,5201454,riodocense,-18.2973918,-51.1462496,2474,602.13,4.1
+903,Aporé,Goiás,GO,5201504,aporeano,-18.7900198,-52.0639245,4198,2900.05,1.4
+904,Araçu,Goiás,GO,5201603,araçuense,-16.3650024,-49.7013486,3522,149.37,23.6
+905,Aragarças,Goiás,GO,5201702,aragarcense,-15.8958471,-52.2516426,20118,664.53,30.3
+906,Aragoiânia,Goiás,GO,5201801,aragoianense,-16.909152,-49.4480992,10308,218.66,47.1
+907,Araguapaz,Goiás,GO,5202155,araguapaense,-15.0989247,-50.6255199,7770,2193.7,3.5
+908,Arenópolis,Goiás,GO,5202353,arenopolino,-16.3788985,-51.5570726,2612,1074.6,2.4
+909,Aruanã,Goiás,GO,5202502,aruanense,-14.9170433,-51.075466,9875,3055.29,3.2
+910,Aurilândia,Goiás,GO,5202601,aurilandense,-16.6804173,-50.534262,3120,565.34,5.5
+911,Avelinópolis,Goiás,GO,5202809,avelinopense,-16.5017995,-49.7524306,2417,174.24,13.9
+912,Baliza,Goiás,GO,5203104,balizense,-16.2908412,-52.4465474,5138,1784.84,2.9
+913,Barro Alto,Goiás,GO,5203203,barro-altense,-14.9718831,-48.916104,11167,1093.25,10.2
+914,Bela Vista de Goiás,Goiás,GO,5203302,bela-vistense,-16.9725565,-48.9550267,29975,1275.85,23.5
+915,Bom Jardim de Goiás,Goiás,GO,5203401,bom-jardinense,-16.220119,-52.1063337,8841,1899.51,4.7
+916,Bom Jesus de Goiás,Goiás,GO,5203500,bom-jesuense,-18.2177128,-49.7404457,25216,1405.03,17.9
+917,Bonfinópolis,Goiás,GO,5203559,bonfinopolino,-16.6177235,-48.9620158,9706,123.43,78.6
+918,Bonópolis,Goiás,GO,5203575,bonopolino,-13.6511217,-49.8366099,4405,1628.49,2.7
+919,Brazabrantes,Goiás,GO,5203609,brazabrantino,-16.3904929,-49.3957836,3703,123.07,30.1
+920,Britânia,Goiás,GO,5203807,britaniense,-15.2172969,-51.2213044,5779,1463.01,4.0
+921,Buriti Alegre,Goiás,GO,5203906,buriti-alegrense,-18.1111446,-49.0009403,9459,895.46,10.6
+922,Buriti de Goiás,Goiás,GO,5203939,buritiense,-16.1576461,-50.4514913,2488,199.29,12.5
+923,Buritinópolis,Goiás,GO,5203962,buritinopolense,-14.3956288,-46.3049196,3292,247.05,13.3
+924,Cabeceiras,Goiás,GO,5204003,cabeceirense,-15.8041312,-46.9281779,7993,1126.91,7.1
+925,Cachoeira Alta,Goiás,GO,5204102,cachoeira-altense,-18.6055037,-50.9706116,12484,1654.55,7.5
+926,Cachoeira de Goiás,Goiás,GO,5204201,cachoeirense,-16.7420576,-50.7208989,1351,422.75,3.2
+927,Cachoeira Dourada,Goiás,GO,5204250,cachoeirense-do-sul,-18.494799,-49.4740104,8067,521.13,15.5
+928,Caçu,Goiás,GO,5204300,caçuense,-18.725468,-51.1376317,16009,2251.01,7.1
+929,Caiapônia,Goiás,GO,5204409,caiaponiense,-17.0333685,-51.852273,18913,8635.13,2.2
+930,Caldas Novas,Goiás,GO,5204508,caldense,-17.7006127,-48.598804,91162,1608.44,56.7
+931,Caldazinha,Goiás,GO,5204557,caldazinhense,-16.7327461,-48.9404364,3804,249.69,15.2
+932,Campestre de Goiás,Goiás,GO,5204607,campestrino,-16.8005954,-49.7115614,3630,273.82,13.3
+933,Campinaçu,Goiás,GO,5204656,campinaçuense,-13.817229,-48.6388879,3640,1974.38,1.8
+934,Campinorte,Goiás,GO,5204706,campinortense,-14.0943847,-49.0817124,12626,1067.19,11.8
+935,Campo Alegre de Goiás,Goiás,GO,5204805,campo-alegrense,-17.6368064,-47.7772539,7589,2462.99,3.1
+936,Campo Limpo de Goiás,Goiás,GO,5204854,campolimpense,-16.2743463,-49.1019233,7789,159.56,48.8
+937,Campos Belos,Goiás,GO,5204904,campo-belense,-13.017997,-46.7091767,19887,724.07,27.5
+938,Campos Verdes,Goiás,GO,5204953,campo-verdense,-14.2448064,-49.6531308,2141,441.65,4.8
+939,Carmo do Rio Verde,Goiás,GO,5205000,carmo-rio-verdino,-15.3526074,-49.7073185,10082,418.54,24.1
+940,Castelândia,Goiás,GO,5205059,castelandense,-18.1428342,-50.2862819,3435,297.98,11.5
+941,Catalão,Goiás,GO,5205109,catalano,-18.1661375,-47.944531,108823,3821.46,28.5
+942,Caturaí,Goiás,GO,5205208,caturaiense,-16.4640803,-49.5891233,5070,205.08,24.7
+943,Cavalcante,Goiás,GO,5205307,cavalcantense,-13.6773491,-47.6061625,9709,6953.67,1.4
+944,Ceres,Goiás,GO,5205406,ceresino,-15.3066006,-49.6003873,22191,214.32,103.5
+945,Cezarina,Goiás,GO,5205455,cezarinense,-17.0805223,-49.7524306,8606,415.81,20.7
+946,Chapadão do Céu,Goiás,GO,5205471,chapadense,-18.394909,-52.6653684,10167,2185.12,4.7
+947,Cidade Ocidental,Goiás,GO,5205497,ocidentalense,-16.0980098,-47.936661,71376,390.96,182.6
+948,Cocalzinho de Goiás,Goiás,GO,5205513,cocalzinhense,-15.7785851,-48.76735,20240,1789.04,11.3
+949,Colinas do Sul,Goiás,GO,5205521,colinense,-13.9694325,-48.1200592,3382,1708.19,2.0
+950,Córrego do Ouro,Goiás,GO,5205703,corregorino,-16.3789541,-50.5756887,2327,462.3,5.0
+951,Corumbá de Goiás,Goiás,GO,5205802,corumbaense,-15.9249222,-48.8121491,11110,1061.96,10.5
+952,Corumbaíba,Goiás,GO,5205901,corumbaibense,-18.1418758,-48.5632559,9723,1883.67,5.2
+953,Cristalina,Goiás,GO,5206206,cristalinense,-16.7681003,-47.613588,58997,6163.81,9.6
+954,Cristianópolis,Goiás,GO,5206305,cristianopolino,-17.2090956,-48.6990679,2966,225.36,13.2
+955,Crixás,Goiás,GO,5206404,crixasense,-14.5418293,-49.9687619,16949,4661.17,3.6
+956,Cromínia,Goiás,GO,5206503,crominiense,-17.2526902,-49.3450112,3486,364.11,9.6
+957,Cumari,Goiás,GO,5206602,cumarino,-18.3271725,-48.1399232,2854,570.54,5.0
+958,Damianópolis,Goiás,GO,5206701,damianopolino,-14.5508222,-46.1900242,3311,415.35,8.0
+959,Damolândia,Goiás,GO,5206800,damolandense,-16.2423637,-49.3348621,2938,84.5,34.8
+960,Davinópolis,Goiás,GO,5206909,davinopolino,-18.151557,-47.5572683,2094,481.3,4.4
+961,Diorama,Goiás,GO,5207105,dioramense,-16.2284058,-51.2213044,2484,687.35,3.6
+962,Divinópolis de Goiás,Goiás,GO,5208301,divinopolino,-13.2739779,-46.5547852,4804,830.97,5.8
+963,Doverlândia,Goiás,GO,5207253,doverlandense,-16.766045,-52.4465474,7322,3221.75,2.3
+964,Edealina,Goiás,GO,5207352,edealinense,-17.3801777,-49.7115614,3699,603.65,6.1
+965,Edéia,Goiás,GO,5207402,edeiense,-17.3355183,-49.9283882,12372,1461.5,8.5
+966,Estrela do Norte,Goiás,GO,5207501,estrela-nortense,-13.8681241,-49.0707202,3275,301.64,10.9
+967,Faina,Goiás,GO,5207535,fainense,-15.3656904,-50.265662,6627,1945.66,3.4
+968,Fazenda Nova,Goiás,GO,5207600,fazenda-novense,-16.1837256,-50.7781471,5637,1281.42,4.4
+969,Firminópolis,Goiás,GO,5207808,firminopolense,-16.5782294,-50.3044629,13292,423.65,31.4
+970,Flores de Goiás,Goiás,GO,5207907,florense,-14.4573984,-47.0388666,16557,3709.43,4.5
+971,Formosa,Goiás,GO,5208004,formosense,-15.5404411,-47.3374297,121617,5813.64,20.9
+972,Formoso,Goiás,GO,5208103,formosense,-13.671932,-48.8397403,4248,844.29,5.0
+973,Gameleira de Goiás,Goiás,GO,5208152,gameleirense,-16.4223341,-48.6790007,3818,588.55,6.5
+974,Goianápolis,Goiás,GO,5208400,goianapolino,-16.5322518,-49.0615086,11231,169.01,66.5
+975,Goiandira,Goiás,GO,5208509,goiandirense,-18.111658,-48.1200592,5600,564.69,9.9
+976,Goianésia,Goiás,GO,5208608,goianesiense,-15.3122723,-49.1166441,70084,1547.27,45.3
+977,Goiânia,Goiás,GO,5208707,goianiense,-16.6868824,-49.2647885,1516113,728.84,2080.2
+978,Goianira,Goiás,GO,5208806,goianirense,-16.6868912,-49.2647943,44289,212.55,208.4
+979,Goiás,Goiás,GO,5208905,goiano,-15.9337601,-50.1403679,22645,3108.02,7.3
+980,Goiatuba,Goiás,GO,5209101,goiatubense,-18.0109863,-49.3662583,34095,2470.35,13.8
+981,Gouvelândia,Goiás,GO,5209150,gouvelandense,-18.443362,-50.1357038,5898,824.75,7.2
+982,Guapó,Goiás,GO,5209200,guapoense,-16.9259499,-49.5891233,14209,517.26,27.5
+983,Guaraíta,Goiás,GO,5209291,guaraitense,-15.6817186,-50.0393017,1996,205.31,9.7
+984,Guarani de Goiás,Goiás,GO,5209408,guaraniense,-13.8910849,-46.400872,3893,1229.15,3.2
+985,Guarinos,Goiás,GO,5209457,guarinense,-14.7336852,-49.7115614,1794,595.87,3.0
+986,Heitoraí,Goiás,GO,5209606,heitoraiense,-15.7227332,-49.8271375,3724,229.64,16.2
+987,Hidrolândia,Goiás,GO,5209705,hidrolandense,-16.9657527,-49.231423,21706,953.73,22.8
+988,Hidrolina,Goiás,GO,5209804,hidrolinense,-14.7265434,-49.4638498,3564,580.39,6.1
+989,Iaciara,Goiás,GO,5209903,iaciarense,-14.1049376,-46.7091767,13947,1550.38,9.0
+990,Inaciolândia,Goiás,GO,5209937,inaciolandense,-18.4945823,-49.8956943,6194,688.2,9.0
+991,Indiara,Goiás,GO,5209952,indiarense,-17.1393137,-49.9866861,15611,956.48,16.3
+992,Inhumas,Goiás,GO,5210000,inhumense,-16.3615082,-49.500561,52866,615.28,85.9
+993,Ipameri,Goiás,GO,5210109,ipamerino,-17.722004,-48.1585601,26985,4368.99,6.2
+994,Ipiranga de Goiás,Goiás,GO,5210158,ipiranguense,-15.181325,-49.6707205,2893,241.29,12.0
+995,Iporá,Goiás,GO,5210208,iporaense,-16.4401989,-51.1185187,31531,1026.38,30.7
+996,Israelândia,Goiás,GO,5210307,israelandense,-16.3198661,-50.9075716,2800,577.48,4.8
+997,Itaberaí,Goiás,GO,5210406,itaberino,-16.0222492,-49.8004866,42900,1457.28,29.4
+998,Itaguari,Goiás,GO,5210562,itaguarino,-15.9362675,-49.6299077,4676,146.64,31.9
+999,Itaguaru,Goiás,GO,5210604,itaguaruense,-15.7620044,-49.6327876,5237,239.68,21.9
+1000,Itajá,Goiás,GO,5210802,itajaense,-19.0662924,-51.5570726,4539,2091.4,2.2
+1001,Itapaci,Goiás,GO,5210901,itapacino,-14.9210683,-49.609512,22981,956.13,24.0
+1002,Itapirapuã,Goiás,GO,5211008,itapirapuano,-15.8209405,-50.6091352,4997,2043.72,2.4
+1003,Itapuranga,Goiás,GO,5211206,itapuranguense,-15.5544752,-49.9417277,25768,1276.48,20.2
+1004,Itarumã,Goiás,GO,5211305,itarumaense,-18.7573874,-51.4309582,7178,3433.63,2.1
+1005,Itauçu,Goiás,GO,5211404,itauçuense,-16.2039364,-49.6047459,8938,383.84,23.3
+1006,Itumbiara,Goiás,GO,5211503,itumbiarense,-18.4097245,-49.2162908,104742,2464.51,42.5
+1007,Ivolândia,Goiás,GO,5211602,ivolandense,-16.6073627,-50.7921268,2370,1257.66,1.9
+1008,Jandaia,Goiás,GO,5211701,jandaiense,-17.0949272,-50.2244429,6048,864.11,7.0
+1009,Jaraguá,Goiás,GO,5211800,jaraguense,-15.7533891,-49.3348795,50511,1849.55,27.3
+1010,Jataí,Goiás,GO,5211909,jataiense,-17.8796049,-51.7206735,100882,7174.23,14.1
+1011,Jaupaci,Goiás,GO,5212006,jaupacino,-16.1922808,-51.0540674,2879,527.1,5.5
+1012,Jesúpolis,Goiás,GO,5212055,jesupolino,-15.9520659,-49.3736182,2490,122.48,20.3
+1013,Joviânia,Goiás,GO,5212105,jovianiense,-17.8061083,-49.6203591,7387,445.49,16.6
+1014,Jussara,Goiás,GO,5212204,jussariano,-15.8663189,-50.8672617,18478,4085.36,4.5
+1015,Lagoa Santa,Goiás,GO,5212253,lagosentense,-19.1841146,-51.4048275,1588,458.87,3.5
+1016,Leopoldo de Bulhões,Goiás,GO,5212303,leopoldense,-16.5703128,-48.9001364,7647,473.28,16.2
+1017,Luziânia,Goiás,GO,5212501,luzianiense,-16.2514682,-47.9178219,208299,3961.1,52.6
+1018,Mairipotaba,Goiás,GO,5212600,mairipotabense,-17.2634214,-49.5483671,2368,467.43,5.1
+1019,Mambaí,Goiás,GO,5212709,mambaiense,-14.4932279,-46.1115713,8882,847.13,10.5
+1020,Mara Rosa,Goiás,GO,5212808,mara-rosense,-14.0688486,-49.3247147,9503,1687.84,5.6
+1021,Marzagão,Goiás,GO,5212907,marzagonense,-17.9757137,-48.6990679,2236,222.43,10.1
+1022,Matrinchã,Goiás,GO,5212956,matrinchaense,-15.3634287,-50.8040271,4351,1150.89,3.8
+1023,Maurilândia,Goiás,GO,5213004,maurilandense,-18.0457002,-50.3688312,14080,389.7,36.1
+1024,Mimoso de Goiás,Goiás,GO,5213053,mimosense,-15.0464968,-48.2791757,2597,1386.92,1.9
+1025,Minaçu,Goiás,GO,5213087,minaçuense,-13.5308501,-48.2210137,29070,2860.74,10.2
+1026,Mineiros,Goiás,GO,5213103,mineirense,-17.5624415,-52.5489206,66801,9038.78,7.4
+1027,Moiporá,Goiás,GO,5213400,moiporaense,-16.5441215,-50.7389536,1529,460.62,3.3
+1028,Monte Alegre de Goiás,Goiás,GO,5213509,monte-alegrense,-13.3111592,-46.9028375,8606,3119.81,2.8
+1029,Montes Claros de Goiás,Goiás,GO,5213707,montes-clarense,-15.9570609,-51.5991643,8055,2903.85,2.8
+1030,Montividiu,Goiás,GO,5213756,montividiuense,-17.3253494,-51.2213044,13396,1869.73,7.2
+1031,Montividiu do Norte,Goiás,GO,5213772,montividense,-13.1046985,-48.6060268,4479,1333.0,3.4
+1032,Morrinhos,Goiás,GO,5213806,morrinhense,-17.7299968,-49.114274,46136,2846.2,16.2
+1033,Morro Agudo de Goiás,Goiás,GO,5213855,morro-agudense,-15.3278519,-49.998236,2248,282.62,8.0
+1034,Mossâmedes,Goiás,GO,5213905,mossamedino,-16.1252656,-50.2141795,4290,684.45,6.3
+1035,Mozarlândia,Goiás,GO,5214002,mozarlandense,-14.7461444,-50.5717749,15659,1734.36,9.0
+1036,Mundo Novo,Goiás,GO,5214051,mundo-novense,-13.8400964,-50.265662,4887,2146.65,2.3
+1037,Mutunópolis,Goiás,GO,5214101,mutunopolino,-13.6778676,-49.2435998,3778,955.88,4.0
+1038,Nazário,Goiás,GO,5214408,nazarinense,-16.5812194,-49.8821237,9142,269.1,34.0
+1039,Nerópolis,Goiás,GO,5214507,neropolino,-16.4051602,-49.2231876,29850,204.22,146.2
+1040,Niquelândia,Goiás,GO,5214606,niquelandense,-14.4670392,-48.454458,46388,9843.25,4.7
+1041,Nova América,Goiás,GO,5214705,nova-americano,-15.0429656,-49.9161886,2352,212.03,11.1
+1042,Nova Aurora,Goiás,GO,5214804,nova-aurorense,-18.1015776,-48.299098,2210,302.66,7.3
+1043,Nova Crixás,Goiás,GO,5214838,nova-crixaense,-14.096729,-50.3369749,12869,7302.23,1.8
+1044,Nova Glória,Goiás,GO,5214861,nova-glorino,-15.1454674,-49.5741739,8164,412.95,19.8
+1045,Nova Iguaçu de Goiás,Goiás,GO,5214879,nova iguaçuense,-14.2777736,-49.2435998,2929,628.44,4.7
+1046,Nova Roma,Goiás,GO,5214903,nova-romano,-13.7803698,-47.058302,3264,2135.96,1.5
+1047,Nova Veneza,Goiás,GO,5215009,nova-venezino,-16.3596991,-49.3044253,9853,123.38,79.9
+1048,Novo Brasil,Goiás,GO,5215207,novo-brasilense,-16.0423022,-50.7208989,2913,649.95,4.5
+1049,Novo Gama,Goiás,GO,5215231,novo-gamense,-16.1418779,-48.0605108,115711,194.59,594.7
+1050,Novo Planalto,Goiás,GO,5215256,planaltense,-13.2487105,-49.7319925,4495,1242.96,3.6
+1051,Orizona,Goiás,GO,5215306,orizonense,-17.033545,-48.3078141,15615,1972.88,7.9
+1052,Ouro Verde de Goiás,Goiás,GO,5215405,ouro-verdense,-16.2643717,-49.2233389,3759,208.77,18.0
+1053,Ouvidor,Goiás,GO,5215504,ouvidorense,-18.2345231,-47.7243139,6667,413.78,16.1
+1054,Padre Bernardo,Goiás,GO,5215603,padre-bernardense,-15.1679616,-48.284538,33835,3142.4,10.8
+1055,Palestina de Goiás,Goiás,GO,5215652,palestinense,-16.7045609,-51.4309582,3464,1320.69,2.6
+1056,Palmeiras de Goiás,Goiás,GO,5215702,palmeirense,-16.8339299,-49.9366899,28858,1539.69,18.7
+1057,Palmelo,Goiás,GO,5215801,palmelino,-17.3178772,-48.4088007,2381,58.96,40.4
+1058,Palminópolis,Goiás,GO,5215900,palminopolino,-16.792668,-50.1654528,3585,387.69,9.2
+1059,Panamá,Goiás,GO,5216007,panamenho,-18.2146767,-49.4059435,2615,433.82,6.0
+1060,Paranaiguara,Goiás,GO,5216304,paranaiguarense,-18.9125489,-50.6547661,10057,1153.62,8.7
+1061,Paraúna,Goiás,GO,5216403,paraunense,-16.9480744,-50.4482633,10988,3779.39,2.9
+1062,Perolândia,Goiás,GO,5216452,perolandense,-17.5537421,-52.2337184,3129,1029.62,3.0
+1063,Petrolina de Goiás,Goiás,GO,5216809,petrolinense,-16.115743,-49.3247147,10281,531.3,19.4
+1064,Pilar de Goiás,Goiás,GO,5216908,pilarense,-14.5775525,-49.5076392,2253,906.64,2.5
+1065,Piracanjuba,Goiás,GO,5217104,piracanjubense,-17.3697902,-48.9605972,24524,2380.73,10.3
+1066,Piranhas,Goiás,GO,5217203,piranhense,-16.4262523,-51.8239388,10385,2047.77,5.1
+1067,Pirenópolis,Goiás,GO,5217302,pirenopolino,-15.8511801,-48.9588768,24908,2205.01,11.3
+1068,Pires do Rio,Goiás,GO,5217401,piresino,-17.308611,-48.278112,31458,1073.36,29.3
+1069,Planaltina,Goiás,GO,5217609,planaltinense,-15.4525008,-47.6093162,89918,2550.52,35.3
+1070,Pontalina,Goiás,GO,5217708,pontalinense,-17.5582645,-49.5687416,17819,1436.95,12.4
+1071,Porangatu,Goiás,GO,5218003,porangatuense,-13.432847,-49.1424295,45394,4820.53,9.4
+1072,Porteirão,Goiás,GO,5218052,porteirense,-17.9317217,-50.1420882,3881,603.94,6.4
+1073,Portelândia,Goiás,GO,5218102,portelandense,-17.3570639,-52.6781976,4011,556.58,7.2
+1074,Posse,Goiás,GO,5218300,possense,-14.0863867,-46.3708272,36900,2058.03,17.9
+1075,Professor Jamil,Goiás,GO,5218391,jamilense,-17.2615255,-49.2233389,3223,349.42,9.2
+1076,Quirinópolis,Goiás,GO,5218508,quirinopolino,-18.4476442,-50.4551598,50065,3789.08,13.2
+1077,Rialma,Goiás,GO,5218607,rialmense,-15.3149264,-49.5818466,10918,268.47,40.7
+1078,Rianápolis,Goiás,GO,5218706,rianapolino,-15.4515641,-49.5044514,4801,159.26,30.1
+1079,Rio Quente,Goiás,GO,5218789,rio-quentense,-17.8426659,-48.7794089,4493,243.49,18.5
+1080,Rio Verde,Goiás,GO,5218805,rio-verdense,-17.7927442,-50.9196623,235647,8386.83,28.1
+1081,Rubiataba,Goiás,GO,5218904,rubiatabense,-15.1662376,-49.8052085,19882,748.26,26.6
+1082,Sanclerlândia,Goiás,GO,5219001,sanclerlandense,-16.1974896,-50.3128206,7637,496.83,15.4
+1083,Santa Bárbara de Goiás,Goiás,GO,5219100,santa-barbarense,-16.5743478,-49.6940732,6560,139.6,47.0
+1084,Santa Cruz de Goiás,Goiás,GO,5219209,santa-cruzano,-17.3943798,-48.598804,2855,1108.96,2.6
+1085,Santa Fé de Goiás,Goiás,GO,5219258,santa-feense,-15.7431896,-51.1376317,5459,1169.17,4.7
+1086,Santa Helena de Goiás,Goiás,GO,5219308,santa-helenense,-17.8119748,-50.5981252,38648,1141.39,33.9
+1087,Santa Isabel,Goiás,GO,5219357,santa-isabelense,-15.2192781,-49.4059435,3809,807.2,4.7
+1088,Santa Rita do Araguaia,Goiás,GO,5219407,santa-ritense,-17.3267632,-53.2011446,8756,1355.78,6.5
+1089,Santa Rita do Novo Destino,Goiás,GO,5219456,santaritense,-14.8290503,-49.0009403,3343,956.04,3.5
+1090,Santa Rosa de Goiás,Goiás,GO,5219506,santa-rosense,-16.05259,-49.4669396,2319,164.1,14.1
+1091,Santa Tereza de Goiás,Goiás,GO,5219605,santerezino,-13.5551953,-49.0009403,3355,794.56,4.2
+1092,Santa Terezinha de Goiás,Goiás,GO,5219704,terezinhense,-14.4363725,-49.7091263,8744,1202.25,7.3
+1093,Santo Antônio da Barra,Goiás,GO,5219712,santatoniense,-17.5184745,-50.6171429,4821,451.6,10.7
+1094,Santo Antônio de Goiás,Goiás,GO,5219738,santoantoniense,-16.4819851,-49.3100551,6283,132.81,47.3
+1095,Santo Antônio do Descoberto,Goiás,GO,5219753,descobertense,-15.9416979,-48.2581886,74744,945.65,79.0
+1096,São Domingos,Goiás,GO,5219803,dominicano,-13.4004267,-46.3221356,12949,3295.74,3.9
+1097,São Francisco de Goiás,Goiás,GO,5219902,franciscano,-15.9681801,-49.2638678,6264,415.79,15.1
+1098,São João d'Aliança,Goiás,GO,5220009,são-joanense,-14.4353041,-47.3706554,13740,3327.38,4.1
+1099,São João da Paraúna,Goiás,GO,5220058,joanino,-16.8175651,-50.4097411,1381,287.83,4.8
+1100,São Luís de Montes Belos,Goiás,GO,5220108,monte-belense,-16.521513,-50.3730843,33817,826.0,40.9
+1101,São Luíz do Norte,Goiás,GO,5220157,são-luizense,-14.8984337,-49.3247147,5167,586.06,8.8
+1102,São Miguel do Araguaia,Goiás,GO,5220207,são-miguelense,-13.2734759,-50.1638331,21993,6148.8,3.6
+1103,São Miguel do Passa Quatro,Goiás,GO,5220264,passa-quatrense,-17.0531505,-48.6659365,4057,537.79,7.5
+1104,São Patrício,Goiás,GO,5220280,sampatriciense,-15.3691106,-49.8342534,2036,171.96,11.8
+1105,São Simão,Goiás,GO,5220405,canalense,-18.9964845,-50.5478837,20645,414.22,49.8
+1106,Senador Canedo,Goiás,GO,5220454,canedense,-16.6948713,-49.1019233,115371,248.29,464.7
+1107,Serranópolis,Goiás,GO,5220504,serranopolino,-18.3063317,-51.957752,8544,5526.72,1.5
+1108,Silvânia,Goiás,GO,5220603,silvaniense,-16.6681218,-48.6132529,20695,2349.38,8.8
+1109,Simolândia,Goiás,GO,5220686,simolandense,-14.4208863,-46.574058,6856,347.98,19.7
+1110,Sítio d'Abadia,Goiás,GO,5220702,sitiense,-14.7281096,-46.2474381,2989,1598.05,1.9
+1111,Taquaral de Goiás,Goiás,GO,5221007,taquaralense,-16.041997,-49.5891233,3529,204.22,17.3
+1112,Teresina de Goiás,Goiás,GO,5221080,teresinense,-13.6395646,-47.2533007,3458,774.64,4.5
+1113,Terezópolis de Goiás,Goiás,GO,5221197,terezopolino,-16.4839386,-49.0927609,8043,106.91,75.2
+1114,Três Ranchos,Goiás,GO,5221304,triranchense,-18.3602018,-47.7797884,2833,282.07,10.0
+1115,Trindade,Goiás,GO,5221403,trindadense,-16.6521596,-49.4931169,127599,710.33,179.6
+1116,Trombas,Goiás,GO,5221452,trombense,-13.491208,-48.6790007,3500,799.13,4.4
+1117,Turvânia,Goiás,GO,5221502,turvaniense,-16.6101094,-50.1333975,4598,480.78,9.6
+1118,Turvelândia,Goiás,GO,5221551,turvelandense,-17.849405,-50.3044115,5281,933.96,5.7
+1119,Uirapuru,Goiás,GO,5221577,uirapuruense,-14.124475,-49.9777136,2854,1153.48,2.5
+1120,Uruaçu,Goiás,GO,5221601,uruaçuense,-14.5246488,-49.1468996,40532,2141.82,18.9
+1121,Uruana,Goiás,GO,5221700,uruanense,-15.5040677,-49.6815627,13843,522.51,26.5
+1122,Urutaí,Goiás,GO,5221809,urutaíno,-17.4655687,-48.201912,3072,626.72,4.9
+1123,Valparaíso de Goiás,Goiás,GO,5221858,valparaisense,-16.0655297,-47.9761119,168468,60.95,2764.0
+1124,Varjão,Goiás,GO,5221908,varjãoense,-17.0946348,-49.5687416,3827,519.19,7.4
+1125,Vianópolis,Goiás,GO,5222005,vianopolino,-16.8206216,-48.4387577,13863,954.28,14.5
+1126,Vicentinópolis,Goiás,GO,5222054,vicentinopolino,-17.7157836,-49.8956943,8743,737.26,11.9
+1127,Vila Boa,Goiás,GO,5222203,vilaboense,-15.0002321,-47.0972424,6171,1060.17,5.8
+1128,Vila Propício,Goiás,GO,5222302,propiciense,-15.4588947,-48.8849749,5821,2181.58,2.7
+2199,Água Clara,Mato Grosso do Sul,MS,5000203,água-clarense,-20.4419565,-52.8781784,15522,7784.92,2.0
+2200,Alcinópolis,Mato Grosso do Sul,MS,5000252,alcinopolense,-18.184224,-53.8237385,5343,4399.68,1.2
+2201,Amambaí,Mato Grosso do Sul,MS,5000609,amambaiense,-23.1083066,-55.225667,39396,4202.32,9.4
+2202,Anastácio,Mato Grosso do Sul,MS,5000708,anastaciano,-20.4827446,-55.8108596,25135,2946.32,8.5
+2203,Anaurilândia,Mato Grosso do Sul,MS,5000807,anaurilandense,-22.1552335,-52.7884171,9035,3395.44,2.7
+2204,Angélica,Mato Grosso do Sul,MS,5000856,angeliquense,-22.0685311,-53.8671868,10780,1273.27,8.5
+2205,Antônio João,Mato Grosso do Sul,MS,5000906,antônio-joanense,-22.1894613,-55.9516016,8956,1145.18,7.8
+2206,Aparecida do Taboado,Mato Grosso do Sul,MS,5001003,aparecidense,-20.0877391,-51.0966063,25745,2750.15,9.4
+2207,Aquidauana,Mato Grosso do Sul,MS,5001102,aquidauanense,-20.4670046,-55.7872944,47871,16970.71,2.8
+2208,Aral Moreira,Mato Grosso do Sul,MS,5001243,aral-moreirense,-22.9497286,-55.6273332,12149,1655.66,7.3
+2209,Bandeirantes,Mato Grosso do Sul,MS,5001508,bandeirantense,-19.9175253,-54.3669285,6788,3115.68,2.2
+2210,Bataguassu,Mato Grosso do Sul,MS,5001904,bataguassuense,-21.7204699,-52.4296731,23024,2417.6,9.5
+2211,Batayporã,Mato Grosso do Sul,MS,5002001,bataiporãense,-22.2951897,-53.2715408,11329,1828.02,6.2
+2212,Bela Vista,Mato Grosso do Sul,MS,5002100,bela-vistense,-21.9111483,-56.4719928,24629,4892.6,5.0
+2213,Bodoquena,Mato Grosso do Sul,MS,5002159,bodoquenense,-20.5374331,-56.713229,7875,2507.32,3.1
+2214,Bonito,Mato Grosso do Sul,MS,5002209,bonitense,-21.1286275,-56.4928922,21976,4934.41,4.5
+2215,Brasilândia,Mato Grosso do Sul,MS,5002308,brasilandense,-21.2555233,-52.0365159,11872,5807.22,2.0
+2216,Caarapó,Mato Grosso do Sul,MS,5002407,caarapoense,-22.6343857,-54.8233506,30174,2089.6,14.4
+2217,Camapuã,Mato Grosso do Sul,MS,5002605,camapuense,-19.5351258,-54.0435563,13711,6228.63,2.2
+2218,Campo Grande,Mato Grosso do Sul,MS,5002704,campo-grandense,-20.4697105,-54.6201211,895982,8092.95,110.7
+2219,Caracol,Mato Grosso do Sul,MS,5002803,caracolense,-22.0114568,-57.0281869,6116,2940.25,2.1
+2220,Cassilândia,Mato Grosso do Sul,MS,5002902,cassilandense,-19.1097385,-51.736543,21939,3649.73,6.0
+2221,Chapadão do Sul,Mato Grosso do Sul,MS,5002951,chapadense,-18.7943329,-52.6191926,25218,3249.54,7.8
+2222,Corguinho,Mato Grosso do Sul,MS,5003108,corguinhense,-19.8279928,-54.8313534,5947,2638.17,2.3
+2223,Coronel Sapucaia,Mato Grosso do Sul,MS,5003157,sapucaense,-23.2765696,-55.5302717,15253,1025.05,14.9
+2224,Corumbá,Mato Grosso do Sul,MS,5003207,corumbaense,-19.0081688,-57.6515503,111435,64721.72,1.7
+2225,Costa Rica,Mato Grosso do Sul,MS,5003256,costa-riquense,-18.5159463,-53.1319209,20823,4159.0,5.0
+2226,Coxim,Mato Grosso do Sul,MS,5003306,coxinense,-18.3714305,-54.6972774,33543,6409.22,5.2
+2227,Deodápolis,Mato Grosso do Sul,MS,5003454,deodapolense,-22.2746779,-54.1672226,12924,831.21,15.5
+2228,Dois Irmãos do Buriti,Mato Grosso do Sul,MS,5003488,buritiense,-20.6154585,-55.3585972,11385,2341.65,4.9
+2229,Douradina,Mato Grosso do Sul,MS,5003504,douradinense,-22.0231222,-54.5875645,5924,280.79,21.1
+2230,Dourados,Mato Grosso do Sul,MS,5003702,douradense,-22.2272034,-54.8291259,222949,4086.24,54.6
+2231,Eldorado,Mato Grosso do Sul,MS,5003751,eldoradense,-23.7184378,-54.215646,12353,1017.79,12.1
+2232,Fátima do Sul,Mato Grosso do Sul,MS,5003801,fátima-sulense,-22.3391264,-54.3685809,19189,315.16,60.9
+2233,Figueirão,Mato Grosso do Sul,MS,5003900,figueirãoense,-18.7712982,-53.9106594,3051,4882.87,0.6
+2234,Glória de Dourados,Mato Grosso do Sul,MS,5004007,glória-douradense,-22.4175999,-54.2309523,9965,491.75,20.3
+2235,Guia Lopes da Laguna,Mato Grosso do Sul,MS,5004106,lagunense,-21.4587733,-56.112223,9895,1210.61,8.2
+2236,Iguatemi,Mato Grosso do Sul,MS,5004304,iguatemiense,-23.6759953,-54.5601027,16078,2946.52,5.5
+2237,Inocência,Mato Grosso do Sul,MS,5004403,inocentino,-19.6787621,-51.9368545,7610,5776.03,1.3
+2238,Itaporã,Mato Grosso do Sul,MS,5004502,itaporanense,-22.0804921,-54.7938898,24839,1321.81,18.8
+2239,Itaquiraí,Mato Grosso do Sul,MS,5004601,itaquirense,-23.3667186,-54.1283863,21142,2064.04,10.2
+2240,Ivinhema,Mato Grosso do Sul,MS,5004700,ivinhemense,-22.3050364,-53.8189127,23187,2010.17,11.5
+2241,Japorã,Mato Grosso do Sul,MS,5004809,japoraense,-23.825724,-54.5437205,9110,419.4,21.7
+2242,Jaraguari,Mato Grosso do Sul,MS,5004908,jaraguariense,-20.2587414,-54.3467152,7187,2912.82,2.5
+2243,Jardim,Mato Grosso do Sul,MS,5005004,jardinense,-21.4803962,-56.1494143,26097,2201.52,11.9
+2244,Jateí,Mato Grosso do Sul,MS,5005103,jateiense,-22.746624,-53.9541563,4027,1927.95,2.1
+2245,Juti,Mato Grosso do Sul,MS,5005152,jutiense,-22.7691377,-54.5218074,6712,1584.53,4.2
+2246,Ladário,Mato Grosso do Sul,MS,5005202,ladarense,-19.009336,-57.5977799,23331,340.77,68.5
+2247,Laguna Carapã,Mato Grosso do Sul,MS,5005251,lagunense,-22.5523468,-55.1513801,7341,1734.07,4.2
+2248,Maracaju,Mato Grosso do Sul,MS,5005400,maracajuense,-21.6110027,-55.168269,47083,5299.18,8.9
+2249,Miranda,Mato Grosso do Sul,MS,5005608,mirandense,-20.235958,-56.3751037,28013,5475.37,5.1
+2250,Mundo Novo,Mato Grosso do Sul,MS,5005681,mundo-novense,-23.9619279,-54.2811537,18366,477.78,38.4
+2251,Naviraí,Mato Grosso do Sul,MS,5005707,naviraiense,-23.062277,-54.1999693,54878,3193.55,17.2
+2252,Nioaque,Mato Grosso do Sul,MS,5005806,nioaquense,-21.1205189,-55.9358581,13930,3923.79,3.6
+2253,Nova Alvorada do Sul,Mato Grosso do Sul,MS,5006002,novalvoradense,-21.4661446,-54.3829911,21882,4019.32,5.4
+2254,Nova Andradina,Mato Grosso do Sul,MS,5006200,nova-andradinense,-22.2385546,-53.3442543,54374,4776.0,11.4
+2255,Novo Horizonte do Sul,Mato Grosso do Sul,MS,5006259,novo horizontino do sul,-22.6697886,-53.8606483,3814,849.1,4.5
+2256,Paranaíba,Mato Grosso do Sul,MS,5006309,paranaibano,-19.67511,-51.1913338,42148,5402.65,7.8
+2257,Paranhos,Mato Grosso do Sul,MS,5006358,paranhense,-23.6850061,-55.3585972,14228,1309.16,10.9
+2258,Paraíso das Águas,Mato Grosso do Sul,MS,5006275,paraisense,-19.0216241,-53.0115857,5555,5061.43,1.1
+2259,Pedro Gomes,Mato Grosso do Sul,MS,5006408,pedro-gomense,-18.1002841,-54.5543909,7674,3651.18,2.1
+2260,Ponta Porã,Mato Grosso do Sul,MS,5006606,ponta-poranense,-22.523123,-55.7242526,92526,5330.45,17.4
+2261,Porto Murtinho,Mato Grosso do Sul,MS,5006903,murtinhense,-20.999348,-57.2818625,17131,17985.54,1.0
+2262,Ribas do Rio Pardo,Mato Grosso do Sul,MS,5007109,rio-pardense,-20.444991,-53.7593107,24615,17308.81,1.4
+2263,Rio Brilhante,Mato Grosso do Sul,MS,5007208,rio-brilhantense,-21.8047006,-54.5432691,37514,3987.4,9.4
+2264,Rio Negro,Mato Grosso do Sul,MS,5007307,rio-negrense,-19.447512,-54.9864208,4831,1807.67,2.7
+2265,Rio Verde de Mato Grosso,Mato Grosso do Sul,MS,5007406,rio-verdense,-18.9253941,-54.8438521,19746,8154.52,2.4
+2266,Rochedo,Mato Grosso do Sul,MS,5007505,rochedense,-19.9533317,-54.8882829,5499,1561.06,3.5
+2267,Santa Rita do Pardo,Mato Grosso do Sul,MS,5007554,santa-ritense,-21.3020684,-52.8338261,7851,6139.73,1.3
+2268,São Gabriel do Oeste,Mato Grosso do Sul,MS,5007695,gabrielense,-19.1513605,-54.5218074,26771,3864.69,6.9
+2269,Selvíria,Mato Grosso do Sul,MS,5007802,selvirense,-20.2765984,-51.7677972,6529,3258.33,2.0
+2270,Sete Quedas,Mato Grosso do Sul,MS,5007703,sete-quedense,-23.9709754,-55.0403538,10791,833.73,12.9
+2271,Sidrolândia,Mato Grosso do Sul,MS,5007901,sidrolandense,-20.9306759,-54.9697524,57665,5286.41,10.9
+2272,Sonora,Mato Grosso do Sul,MS,5007935,sonorense,-17.7546792,-54.8731219,19274,4075.42,4.7
+2273,Tacuru,Mato Grosso do Sul,MS,5007950,tacuruense,-23.6847243,-54.8731219,11552,1785.32,6.5
+2274,Taquarussu,Mato Grosso do Sul,MS,5007976,taquarussuense,-22.6922449,-53.4338092,3588,1041.12,3.4
+2275,Terenos,Mato Grosso do Sul,MS,5008008,terenense,-20.4383001,-54.8652419,21806,2841.69,7.7
+2276,Três Lagoas,Mato Grosso do Sul,MS,5008305,três-lagoense,-20.7881656,-51.7030882,121388,10206.95,11.9
+2277,Vicentina,Mato Grosso do Sul,MS,5008404,vicentinense,-22.4100522,-54.4391766,6102,310.16,19.7
+2278,Acorizal,Mato Grosso,MT,5100102,acorizano,-15.1334049,-56.3376699,5399,1014.03,5.3
+2279,Água Boa,Mato Grosso,MT,5100201,água-boense,-14.047489,-52.1593834,25721,7510.64,3.4
+2280,Alta Floresta,Mato Grosso,MT,5100250,alta-florestense,-9.8764576,-56.085509,51782,8953.19,5.8
+2281,Alto Araguaia,Mato Grosso,MT,5100300,araguaiano,-17.3157794,-53.2186008,19044,5399.33,3.5
+2282,Alto Boa Vista,Mato Grosso,MT,5100359,alto boa vistense,-11.7923521,-51.7255991,6822,2240.44,3.0
+2283,Alto Garças,Mato Grosso,MT,5100409,alto-garcense,-16.9467196,-53.5276232,12030,3865.97,3.1
+2284,Alto Paraguai,Mato Grosso,MT,5100508,alto-paraguaiense,-14.5134477,-56.4841284,11356,1844.82,6.2
+2285,Alto Taquari,Mato Grosso,MT,5100607,taquariense,-17.8601223,-53.2611514,10847,1440.4,7.5
+2286,Apiacás,Mato Grosso,MT,5100805,apiacaense,-8.8641304,-57.825395,10133,20493.07,0.5
+2287,Araguaiana,Mato Grosso,MT,5101001,araguaianense,-15.7296037,-51.8345815,3100,6422.97,0.5
+2288,Araguainha,Mato Grosso,MT,5101209,araguainhense,-16.8575973,-53.0336998,935,688.33,1.4
+2289,Araputanga,Mato Grosso,MT,5101258,araputanguense,-15.4706453,-58.3456907,16822,1610.08,10.4
+2290,Arenápolis,Mato Grosso,MT,5101308,arenapolitano,-14.4475912,-56.8442192,9607,415.59,23.1
+2291,Aripuanã,Mato Grosso,MT,5101407,aripuanense,-10.1750977,-59.4478932,22354,25107.97,0.9
+2292,Barão de Melgaço,Mato Grosso,MT,5101605,melgaciano,-16.196695,-55.9663415,8564,11427.74,0.7
+2293,Barra do Bugres,Mato Grosso,MT,5101704,barrense,-15.0705872,-57.1882847,34966,5981.57,5.8
+2294,Barra do Garças,Mato Grosso,MT,5101803,barra-garcense,-15.8916202,-52.2618826,61012,9079.29,6.7
+2295,Bom Jesus do Araguaia,Mato Grosso,MT,5101852,bom-jesuense,-12.289816,-51.7677972,6580,4274.22,1.5
+2296,Brasnorte,Mato Grosso,MT,5101902,brasnortense,-12.3710126,-58.1892921,19695,15959.14,1.2
+2297,Cáceres,Mato Grosso,MT,5102504,cacerense,-16.0768867,-57.6822654,94376,24593.12,3.8
+2298,Campinápolis,Mato Grosso,MT,5102603,campinapolense,-14.3753491,-53.1319209,15980,5981.71,2.7
+2299,Campo Novo do Parecis,Mato Grosso,MT,5102637,campo-novense,-13.6590142,-57.8930458,35360,9434.57,3.7
+2300,Campo Verde,Mato Grosso,MT,5102678,campo-verdense,-15.3238812,-54.8731219,44041,5394.76,8.2
+2301,Campos de Júlio,Mato Grosso,MT,5102686,campo juliense,-13.7214728,-59.2603541,6891,6787.28,1.0
+2302,Canabrava do Norte,Mato Grosso,MT,5102694,canabravense,-11.1741864,-51.852273,4743,3452.68,1.4
+2303,Canarana,Mato Grosso,MT,5102702,canaranense,-13.5564723,-52.2691109,21579,10882.38,2.0
+2304,Carlinda,Mato Grosso,MT,5102793,carlindense,-10.1027732,-55.7578403,10305,2416.14,4.3
+2305,Castanheira,Mato Grosso,MT,5102850,castanheirense,-10.9050735,-58.6458369,8729,3909.54,2.2
+2306,Chapada dos Guimarães,Mato Grosso,MT,5103007,chapadense,-15.4582953,-55.7524585,19752,6450.54,3.1
+2307,Cláudia,Mato Grosso,MT,5103056,claudiense,-11.4009348,-55.0493375,12149,3849.99,3.2
+2308,Cocalinho,Mato Grosso,MT,5103106,cocalinhense,-13.7850699,-51.1794546,5700,16516.32,0.3
+2309,Colíder,Mato Grosso,MT,5103205,colidense,-10.8068954,-55.4598172,33438,3103.96,10.8
+2310,Colniza,Mato Grosso,MT,5103254,colnizense,-9.1013769,-60.3964505,38582,27946.13,1.4
+2311,Comodoro,Mato Grosso,MT,5103304,comodorense,-13.213161,-59.6564494,20763,21518.25,1.0
+2312,Confresa,Mato Grosso,MT,5103353,confresense,-10.6572906,-51.5703097,30933,5801.95,5.3
+2313,Conquista d'Oeste,Mato Grosso,MT,5103361,conquistense d’oeste,-14.7464099,-59.3800105,4038,2684.26,1.5
+2314,Cotriguaçu,Mato Grosso,MT,5103379,cotriguaçuenses,-9.868257,-58.5543821,19750,9421.08,2.1
+2315,Cuiabá,Mato Grosso,MT,5103403,cuiabano (papa peixe),-15.6014109,-56.0978917,612547,3266.54,187.5
+2316,Curvelândia,Mato Grosso,MT,5103437,curvelandenses,-15.6096313,-57.9193917,5219,359.03,14.5
+2317,Denise,Mato Grosso,MT,5103452,denisiense,-14.7479574,-56.9661233,9462,1278.5,7.4
+2318,Diamantino,Mato Grosso,MT,5103502,diamantinense,-14.4040989,-56.4370932,22041,8191.68,2.7
+2319,Dom Aquino,Mato Grosso,MT,5103601,dom-aquinense,-15.6135333,-54.6972774,8178,2224.27,3.7
+2320,Feliz Natal,Mato Grosso,MT,5103700,feliz-natalenses,-11.7814177,-53.9106594,14192,11679.0,1.2
+2321,Figueirópolis d'Oeste,Mato Grosso,MT,5103809,figueiropolense,-15.5154793,-58.6915912,3494,888.11,3.9
+2322,Gaúcha do Norte,Mato Grosso,MT,5103858,gauchenses-do-norte,-12.9655697,-53.5635637,7648,16934.3,0.5
+2323,General Carneiro,Mato Grosso,MT,5103908,general-carneirense,-15.4967856,-53.4338092,5540,3710.46,1.5
+2324,Glória d'Oeste,Mato Grosso,MT,5103957,glorienses-do-oeste,-15.9411375,-58.2348638,3026,833.61,3.6
+2325,Guarantã do Norte,Mato Grosso,MT,5104104,guarantanhense,-9.9501051,-54.9147025,35816,4734.59,7.6
+2326,Guiratinga,Mato Grosso,MT,5104203,guiratinguense,-16.3760849,-53.6501903,15141,5044.14,3.0
+2327,Indiavaí,Mato Grosso,MT,5104500,indiavaiense,-15.3178342,-58.6229664,2752,592.64,4.6
+2328,Ipiranga do Norte,Mato Grosso,MT,5104526,ipiranguense,-12.0147224,-56.1142253,7667,3466.7,2.2
+2329,Itanhangá,Mato Grosso,MT,5104542,itanhangaense,-12.1118003,-56.8311117,6737,2898.07,2.3
+2330,Itaúba,Mato Grosso,MT,5104559,itaubense,-11.0078209,-55.2422799,3802,4529.58,0.8
+2331,Itiquira,Mato Grosso,MT,5104609,itiquirense,-17.2058847,-54.1468825,13345,8659.91,1.5
+2332,Jaciara,Mato Grosso,MT,5104807,jaciarense,-15.9559696,-54.9751847,27776,2396.59,11.6
+2333,Jangada,Mato Grosso,MT,5104906,jangadense,-15.2354622,-56.492222,8409,1296.75,6.5
+2334,Jauru,Mato Grosso,MT,5105002,jauruense,-15.3776137,-58.8747865,8793,1358.41,6.5
+2335,Juara,Mato Grosso,MT,5105101,juarense,-11.2670409,-57.5165612,34974,22622.35,1.5
+2336,Juína,Mato Grosso,MT,5105150,juinense,-11.4228495,-58.7571929,40997,26189.92,1.6
+2337,Juruena,Mato Grosso,MT,5105176,juruenense,-10.4292083,-58.6458369,15865,2778.99,5.7
+2338,Juscimeira,Mato Grosso,MT,5105200,juscimeirense,-16.0514285,-54.8858153,11221,2720.48,4.1
+2339,Lambari d'Oeste,Mato Grosso,MT,5105234,lambarienses,-15.3852163,-57.8708157,6121,1765.08,3.5
+2340,Lucas do Rio Verde,Mato Grosso,MT,5105259,luquense,-13.064847,-55.9193214,65534,3675.22,17.8
+2341,Luciára,Mato Grosso,MT,5105309,luciarense,-11.0221141,-50.8456323,2077,4243.03,0.5
+2342,Marcelândia,Mato Grosso,MT,5105580,marcelandense,-11.0843569,-54.5213581,10499,12273.55,0.9
+2343,Matupá,Mato Grosso,MT,5105606,matupaense,-10.1657265,-54.9367486,16566,5219.03,3.2
+2344,Mirassol d'Oeste,Mato Grosso,MT,5105622,miradolense,-15.6767058,-58.0929375,27739,1080.14,25.7
+2345,Nobres,Mato Grosso,MT,5105903,nobrense,-14.3501113,-55.7578403,15336,3911.85,3.9
+2346,Nortelândia,Mato Grosso,MT,5106000,nortelandense,-14.3322488,-56.6513853,5989,1353.6,4.4
+2347,Nossa Senhora do Livramento,Mato Grosso,MT,5106109,livramentense,-15.9002212,-56.2929381,13216,5439.89,2.4
+2348,Nova Bandeirantes,Mato Grosso,MT,5106158,nova bandeirantense,-9.7428187,-58.0982046,15288,9593.27,1.6
+2349,Nova Brasilândia,Mato Grosso,MT,5106208,brasilandense,-14.7128856,-55.0493375,3829,3278.86,1.2
+2350,Nova Canaã do Norte,Mato Grosso,MT,5106216,canaense,-10.5559995,-55.948364,12787,5955.41,2.1
+2351,Nova Guarita,Mato Grosso,MT,5108808,nova guaritense,-10.3233437,-55.3585972,4519,1114.13,4.1
+2352,Nova Lacerda,Mato Grosso,MT,5106182,novo-lacerdenses,-14.4758447,-59.5893838,6640,4793.17,1.4
+2353,Nova Marilândia,Mato Grosso,MT,5108857,nova marilandense,-14.3648196,-56.972272,3278,1936.43,1.7
+2354,Nova Maringá,Mato Grosso,MT,5108907,nova maringaense,-13.0310715,-57.0918927,8641,11555.99,0.7
+2355,Nova Monte Verde,Mato Grosso,MT,5108956,nova monte verdense,-10.112455,-57.1915504,9178,5150.56,1.8
+2356,Nova Mutum,Mato Grosso,MT,5106224,mutuense,-13.821102,-56.0851233,45378,9532.06,4.8
+2357,Nova Nazaré,Mato Grosso,MT,5106174,nova-nazareenses,-13.9900222,-51.7992914,3849,4037.5,1.0
+2358,Nova Olímpia,Mato Grosso,MT,5106232,nova-olimpiense,-14.7791935,-57.2806836,20301,1367.74,14.8
+2359,Nova Santa Helena,Mato Grosso,MT,5106190,nova-santa-helenenses,-10.8817739,-54.9171412,3718,2375.58,1.6
+2360,Nova Ubiratã,Mato Grosso,MT,5106240,novo-ubiratãenses,-13.0335899,-55.2539924,11982,12500.11,1.0
+2361,Nova Xavantina,Mato Grosso,MT,5106257,nova-xavantinense,-14.6644014,-52.3584778,21374,5530.39,3.9
+2362,Novo Horizonte do Norte,Mato Grosso,MT,5106273,novo-horizontino,-11.3897666,-57.3160356,4004,898.5,4.5
+2363,Novo Mundo,Mato Grosso,MT,5106265,novo-mundenses,-9.8217342,-55.3143491,9178,5791.05,1.6
+2364,Novo Santo Antônio,Mato Grosso,MT,5106315,novo-santo-antoniense,-12.4227222,-50.7624493,2640,4393.8,0.6
+2365,Novo São Joaquim,Mato Grosso,MT,5106281,são-joaquinense,-14.9132729,-53.0186921,5074,5231.3,1.0
+2366,Paranaíta,Mato Grosso,MT,5106299,paranaitense,-9.5895065,-56.6513853,11225,4796.01,2.3
+2367,Paranatinga,Mato Grosso,MT,5106307,paranatinguense,-14.4269026,-54.0529078,22563,24162.44,0.9
+2368,Pedra Preta,Mato Grosso,MT,5106372,pedra-pretense,-16.621352,-54.4814404,17626,4049.47,4.4
+2369,Peixoto de Azevedo,Mato Grosso,MT,5106422,peixotense,-10.2439049,-54.9919725,34976,14400.56,2.4
+2370,Planalto da Serra,Mato Grosso,MT,5106455,planaltenses-da-serra,-14.6521585,-54.6972774,2662,2442.45,1.1
+2371,Poconé,Mato Grosso,MT,5106505,poconeano,-16.2664706,-56.6265989,32843,17025.41,1.9
+2372,Pontal do Araguaia,Mato Grosso,MT,5106653,pontalense,-15.9091546,-52.2572718,6711,2736.62,2.5
+2373,Ponte Branca,Mato Grosso,MT,5106703,ponte-branquense,-16.6661467,-52.9170407,1576,686.69,2.3
+2374,Pontes e Lacerda,Mato Grosso,MT,5106752,lacerdense,-15.2325772,-59.3322746,45436,8567.46,5.3
+2375,Porto Alegre do Norte,Mato Grosso,MT,5106778,porto-alegrense,-10.8853577,-51.6387545,12517,3972.26,3.2
+2376,Porto dos Gaúchos,Mato Grosso,MT,5106802,porto-gauchense,-11.53341,-57.4137278,5410,6862.12,0.8
+2377,Porto Esperidião,Mato Grosso,MT,5106828,portense,-16.0249617,-59.0123679,12017,5810.98,2.1
+2378,Porto Estrela,Mato Grosso,MT,5106851,portoestrelense,-15.5287311,-57.2366964,2963,2057.33,1.4
+2379,Poxoréu,Mato Grosso,MT,5107008,poxoreano,-15.8414488,-54.3887597,16219,6874.16,2.4
+2380,Primavera do Leste,Mato Grosso,MT,5107040,primaverense,-15.5605187,-54.2950554,62019,5482.07,11.3
+2381,Querência,Mato Grosso,MT,5107065,querenciano,-12.5943487,-52.2077548,17479,17786.2,1.0
+2382,Reserva do Cabaçal,Mato Grosso,MT,5107156,reservense,-14.9754772,-58.4173358,2732,1342.08,2.0
+2383,Ribeirão Cascalheira,Mato Grosso,MT,5107180,cascalheirense,-12.9372237,-51.8248936,10206,11354.81,0.9
+2384,Ribeirãozinho,Mato Grosso,MT,5107198,ribeirãozense,-16.4715748,-52.7455935,2405,625.81,3.8
+2385,Rio Branco,Mato Grosso,MT,5107206,rio-branquense,-15.2634934,-58.143739,5156,561.64,9.2
+2386,Rondolândia,Mato Grosso,MT,5107578,rondolandense,-10.4473142,-61.1403196,4001,12670.91,0.3
+2387,Rondonópolis,Mato Grosso,MT,5107602,rondonopolitano,-16.4654526,-54.6387369,232491,4686.62,49.6
+2388,Rosário Oeste,Mato Grosso,MT,5107701,rosariense,-14.8931246,-56.1142253,17151,7169.88,2.4
+2389,Salto do Céu,Mato Grosso,MT,5107750,saltense,-15.0840556,-58.052689,3365,1754.5,1.9
+2390,Santa Carmem,Mato Grosso,MT,5107248,santa-carmense,-11.9738783,-55.2787696,4525,3855.36,1.2
+2391,Santa Cruz do Xingu,Mato Grosso,MT,5107743,santa-cruzense-do-xingu,-10.077701,-52.5318604,2564,5651.75,0.5
+2392,Santa Rita do Trivelato,Mato Grosso,MT,5107768,trivelatenses,-13.783972,-55.2259207,3429,4734.93,0.7
+2393,Santa Terezinha,Mato Grosso,MT,5107776,santa-terezinhense,-10.4707706,-50.5144341,8371,6466.89,1.3
+2394,Santo Afonso,Mato Grosso,MT,5107263,santo-afonsense,-14.4956518,-57.00306,3146,1174.21,2.7
+2395,Santo Antônio do Leste,Mato Grosso,MT,5107792,santo-antoniense-do-leste,-14.8049987,-53.6075251,5174,3404.57,1.5
+2396,Santo Antônio do Leverger,Mato Grosso,MT,5107800,santo-antoniense (papa abóbora),-15.8628421,-56.0792473,16628,9442.46,1.8
+2397,São Félix do Araguaia,Mato Grosso,MT,5107859,são-felixcense,-11.2748641,-52.5318604,11708,16713.48,0.7
+2398,São José do Povo,Mato Grosso,MT,5107297,sãojoseenses-do-povo,-16.4805204,-54.2811537,4063,448.29,9.1
+2399,São José do Rio Claro,Mato Grosso,MT,5107305,rio-clarense,-13.5518468,-56.8311117,20664,4533.01,4.6
+2400,São José do Xingu,Mato Grosso,MT,5107354,São-xinguano,-10.6738878,-52.5318604,5595,7459.65,0.8
+2401,São José dos Quatro Marcos,Mato Grosso,MT,5107107,quatro-marquense,-15.6237272,-58.3260629,18906,1287.88,14.7
+2402,São Pedro da Cipa,Mato Grosso,MT,5107404,cipense,-15.9598044,-54.7192376,4727,344.05,13.7
+2403,Sapezal,Mato Grosso,MT,5107875,sapezalense,-13.5479425,-58.820371,25881,13624.37,1.9
+2404,Serra Nova Dourada,Mato Grosso,MT,5107883,serra douradense,-12.0392654,-51.3889736,1650,1500.39,1.1
+2405,Sinop,Mato Grosso,MT,5107909,sinopense,-11.8608456,-55.5095451,142996,3941.96,36.3
+2406,Sorriso,Mato Grosso,MT,5107925,sorrisiense,-12.5429239,-55.7215037,90313,9347.56,9.7
+2407,Tabaporã,Mato Grosso,MT,5107941,tabapoaense,-11.3065234,-56.2757058,9489,8448.0,1.1
+2408,Tangará da Serra,Mato Grosso,MT,5107958,tangaraense,-14.6197868,-57.4875563,103750,11601.1,8.9
+2409,Tapurah,Mato Grosso,MT,5108006,tapuraense,-12.5392765,-56.4719928,13705,4489.39,3.1
+2410,Terra Nova do Norte,Mato Grosso,MT,5108055,terra-novense,-10.4766892,-55.0493375,9667,2432.07,4.0
+2411,Tesouro,Mato Grosso,MT,5108105,tesourense,-15.8629273,-53.4770359,3805,4285.71,0.9
+2412,Torixoréu,Mato Grosso,MT,5108204,torixorino,-16.3964424,-52.9599661,3609,2398.21,1.5
+2413,União do Sul,Mato Grosso,MT,5108303,União-sulense,-11.4587526,-54.3467152,3525,4581.91,0.8
+2414,Vale de São Domingos,Mato Grosso,MT,5108352,vale-dominguenses,-14.97602,-58.96649,3127,1887.67,1.7
+2415,Várzea Grande,Mato Grosso,MT,5108402,várzea-grandense,-15.646248,-56.1327131,284971,942.57,302.3
+2416,Vera,Mato Grosso,MT,5108501,verense,-12.2862003,-55.2973283,11309,2953.98,3.8
+2417,Vila Bela da Santíssima Trindade,Mato Grosso,MT,5105507,vila-belense,-15.0055406,-59.9477733,16128,13420.44,1.2
+2418,Vila Rica,Mato Grosso,MT,5108600,vila-riquense,-10.0140703,-51.1190487,26037,7431.48,3.5
+2419,Abaetetuba,Pará,PA,1500107,abaetetubense,-1.7222475,-48.8792245,157698,1610.65,97.9
+2420,Abel Figueiredo,Pará,PA,1500131,abel-figueiredense,-4.9639035,-48.4387577,7434,614.13,12.1
+2421,Acará,Pará,PA,1500206,acaraense,-2.0159736,-48.3190276,55591,4343.55,12.8
+2422,Afuá,Pará,PA,1500305,afuaense,-0.1570993,-50.3926052,39218,8338.44,4.7
+2423,Água Azul do Norte,Pará,PA,1500347,agua-azulense,-6.8034945,-50.4864586,27430,7113.96,3.9
+2424,Alenquer,Pará,PA,1500404,alenquerense,-0.8667864,-54.9611836,56789,23645.45,2.4
+2425,Almeirim,Pará,PA,1500503,almeiriense,-1.5239568,-52.5785846,34109,72954.8,0.5
+2426,Altamira,Pará,PA,1500602,altamirense,-3.1986664,-52.2104006,114594,159533.33,0.7
+2427,Anajás,Pará,PA,1500701,anajaense,-0.9856751,-49.9350118,29277,6913.64,4.2
+2428,Ananindeua,Pará,PA,1500800,ananindeuense,-1.3642722,-48.374721,530598,190.45,2786.0
+2429,Anapu,Pará,PA,1500859,anapuense,-3.4706345,-51.2010796,27890,11895.3,2.3
+2430,Augusto Corrêa,Pará,PA,1500909,augusto-correense,-1.0220653,-46.6453897,45998,1085.84,42.4
+2431,Aurora do Pará,Pará,PA,1500958,auroenses,-2.2322894,-47.6849007,31338,1811.84,17.3
+2432,Aveiro,Pará,PA,1501006,aveirense,-3.5126215,-56.0249982,16388,17074.05,1.0
+2433,Bagre,Pará,PA,1501105,bagrense,-2.3214391,-50.265662,30673,4397.32,7.0
+2434,Baião,Pará,PA,1501204,baionense,-3.1718499,-49.7728757,47446,3759.83,12.6
+2435,Bannach,Pará,PA,1501253,bannaquense,-7.4725393,-50.5964124,3286,2956.65,1.1
+2436,Barcarena,Pará,PA,1501303,barcarenense,-1.5798321,-48.598804,124680,1310.34,95.2
+2437,Belém,Pará,PA,1501402,belenense,-1.4557794,-48.4901968,1492745,1059.46,1409.0
+2438,Belterra,Pará,PA,1501451,belterrense,-3.1365287,-55.0493375,17732,4398.42,4.0
+2439,Benevides,Pará,PA,1501501,benevidense,-1.3524989,-48.2592606,62737,187.83,334.0
+2440,Bom Jesus do Tocantins,Pará,PA,1501576,bom-jesuense,-5.0464273,-48.6020684,16981,2816.62,6.0
+2441,Bonito,Pará,PA,1501600,bonitense,-1.3758453,-47.3315076,16286,586.74,27.8
+2442,Bragança,Pará,PA,1501709,bragantino,-1.0616193,-46.7830109,127686,2098.14,60.9
+2443,Brasil Novo,Pará,PA,1501725,brasil-novense,-3.3055233,-52.5392359,15086,6362.58,2.4
+2444,Brejo Grande do Araguaia,Pará,PA,1501758,brejo-grandense,-5.6986017,-48.4106762,7380,1288.48,5.7
+2445,Breu Branco,Pará,PA,1501782,breuense,-3.7709326,-49.5657491,66046,3941.91,16.8
+2446,Breves,Pará,PA,1501808,brevense,-1.681993,-50.4803853,102701,9566.57,10.7
+2447,Bujaru,Pará,PA,1501907,bujaruense,-1.6266827,-48.1200592,29132,1005.17,29.0
+2448,Cachoeira do Arari,Pará,PA,1502004,cachoeirense,-1.0143667,-48.9625166,23767,3100.26,7.7
+2449,Cachoeira do Piriá,Pará,PA,1501956,cachoeira-piriaense,-1.7600995,-46.5463392,33900,2419.6,14.0
+2450,Cametá,Pará,PA,1502103,cametaense,-2.2414892,-49.4984804,137890,3081.37,44.7
+2451,Canaã dos Carajás,Pará,PA,1502152,canaãnense,-6.5320907,-49.8512171,37085,3146.41,11.8
+2452,Capanema,Pará,PA,1502202,capanemense,-1.2056483,-47.178192,69027,614.69,112.3
+2453,Capitão Poço,Pará,PA,1502301,capitão-pocense,-1.7482089,-47.0633437,54303,2899.55,18.7
+2454,Castanhal,Pará,PA,1502400,castanhalense,-1.2983288,-47.9171616,200793,1030.26,194.9
+2455,Chaves,Pará,PA,1502509,chaveense,-0.1657726,-49.9798529,23717,12535.0,1.9
+2456,Colares,Pará,PA,1502608,colarense,-0.8750131,-48.1995591,12085,384.07,31.5
+2457,Conceição do Araguaia,Pará,PA,1502707,araguaiano,-8.1774335,-49.4466005,47864,5829.48,8.2
+2458,Concórdia do Pará,Pará,PA,1502756,concordiense,-1.8572573,-47.9614096,33318,690.95,48.2
+2459,Cumaru do Norte,Pará,PA,1502764,curaruense,-7.8113668,-50.7675992,13473,17085.0,0.8
+2460,Curionópolis,Pará,PA,1502772,curionopolense,-6.100044,-49.6072315,17929,2369.1,7.6
+2461,Curralinho,Pará,PA,1502806,curralinense,-1.8121545,-49.7956608,34448,3617.25,9.5
+2462,Curuá,Pará,PA,1502855,curuaense,-1.8562039,-55.093449,14393,1431.13,10.1
+2463,Curuçá,Pará,PA,1502905,curuçaense,-0.81372,-47.8822604,40066,672.95,59.5
+2464,Dom Eliseu,Pará,PA,1502939,dom-eliseuense,-4.1913641,-47.8427298,59719,5268.81,11.3
+2465,Eldorado do Carajás,Pará,PA,1502954,eldoradense,-6.1039763,-49.3533801,33808,2956.69,11.4
+2466,Faro,Pará,PA,1503002,farense,-1.2206486,-57.7346113,7194,11771.67,0.6
+2467,Floresta do Araguaia,Pará,PA,1503044,floresta-araguaiense,-7.5043722,-49.609512,20304,3444.29,5.9
+2468,Garrafão do Norte,Pará,PA,1503077,garrafaense,-1.9302207,-47.0509132,26066,1599.03,16.3
+2469,Goianésia do Pará,Pará,PA,1503093,goianesiense,-3.9421515,-48.8799972,40475,7023.94,5.8
+2470,Gurupá,Pará,PA,1503101,gurupaense,-1.4073484,-51.6465188,33376,8570.33,3.9
+2471,Igarapé-Açu,Pará,PA,1503200,igarapé-açuense,-1.1512241,-47.5668376,38807,785.98,49.4
+2472,Igarapé-Miri,Pará,PA,1503309,igarapé-miriense,-1.9767218,-48.960543,62698,1996.79,31.4
+2473,Inhangapi,Pará,PA,1503408,inhangapiense,-1.4459727,-47.8822604,11711,471.64,24.8
+2474,Ipixuna do Pará,Pará,PA,1503457,ipixunense,-2.9657358,-48.0010282,64053,5215.56,12.3
+2475,Irituia,Pará,PA,1503507,irituense,-1.8410621,-47.4098328,32550,1379.36,23.6
+2476,Itaituba,Pará,PA,1503606,itaitubense,-4.2670701,-55.9931173,101247,62042.47,1.6
+2477,Itupiranga,Pará,PA,1503705,itupiranguense,-5.1345016,-49.332012,53269,7880.11,6.8
+2478,Jacareacanga,Pará,PA,1503754,jacareacanguenses,-7.3168637,-57.4627259,8239,53304.56,0.2
+2479,Jacundá,Pará,PA,1503804,jacundaense,-4.4470358,-49.1154573,59155,2008.32,29.5
+2480,Juruti,Pará,PA,1503903,jurutiense,-2.1633702,-56.0952549,57943,8305.45,7.0
+2481,Limoeiro do Ajuru,Pará,PA,1504000,ajuruense,-1.9011574,-49.4872858,28935,1490.19,19.4
+2482,Mãe do Rio,Pará,PA,1504059,mãe-riense,-2.0191118,-47.4882762,30077,469.49,64.1
+2483,Magalhães Barata,Pará,PA,1504109,magalhães-baratense,-0.7989552,-47.6019767,8548,323.98,26.4
+2484,Marabá,Pará,PA,1504208,marabaense,-5.3811326,-49.1331046,279349,15128.06,18.5
+2485,Maracanã,Pará,PA,1504307,maracanaense,-0.7646655,-47.4542476,29473,807.63,36.5
+2486,Marapanim,Pará,PA,1504406,marapaniense,-0.9254064,-47.7243139,28336,804.76,35.2
+2487,Marituba,Pará,PA,1504422,maritubense,-1.3603782,-48.3424868,131521,103.34,1272.7
+2488,Medicilândia,Pará,PA,1504455,medicilandense,-3.4437567,-52.8905282,31597,8272.63,3.8
+2489,Melgaço,Pará,PA,1504505,melgacense,-1.8035727,-50.7153859,27654,6774.02,4.1
+2490,Mocajuba,Pará,PA,1504604,mocajubense,-2.6286135,-49.4059435,31136,871.17,35.7
+2491,Moju,Pará,PA,1504703,mojuense,-1.8844563,-48.7655306,82094,9094.14,9.0
+2492,Mojuí dos Campos,Pará,PA,1504752,mojuiense,-2.6822018,-54.6424839,16084,4988.24,3.2
+2493,Monte Alegre,Pará,PA,1504802,montalegrense,-1.9981616,-54.0728404,58032,18152.56,3.2
+2494,Muaná,Pará,PA,1504901,muanaense,-1.5304724,-49.2191679,40349,3763.34,10.7
+2495,Nova Esperança do Piriá,Pará,PA,1504950,piriaense,-2.3216495,-46.9028375,21368,2808.2,7.6
+2496,Nova Ipixuna,Pará,PA,1504976,nova-ipixunense,-4.9598573,-49.2435998,16678,1564.18,10.7
+2497,Nova Timboteua,Pará,PA,1505007,timboteuense,-1.2054896,-47.4098328,15363,489.85,31.4
+2498,Novo Progresso,Pará,PA,1505031,progressense,-7.0402672,-55.4153265,25762,38162.04,0.7
+2499,Novo Repartimento,Pará,PA,1505064,novo-repartimentense,-4.2478719,-49.9503928,75919,15398.72,4.9
+2500,Óbidos,Pará,PA,1505106,obidense,-1.9014476,-55.5212832,52137,28021.44,1.9
+2501,Oeiras do Pará,Pará,PA,1505205,oeirense,-2.0050589,-49.8595983,32512,3852.29,8.4
+2502,Oriximiná,Pará,PA,1505304,oriximinaense,-1.7618311,-55.8638155,73096,107603.44,0.7
+2503,Ourém,Pará,PA,1505403,ouremense,-1.4871952,-47.1752123,17842,562.39,31.7
+2504,Ourilândia do Norte,Pará,PA,1505437,ourilandense,-7.6394147,-51.5150077,32832,14410.57,2.3
+2505,Pacajá,Pará,PA,1505486,pacajaense,-3.839281,-50.6372933,47706,11832.33,4.0
+2506,Palestina do Pará,Pará,PA,1505494,palestinenses,-5.9322195,-48.3589086,7589,984.36,7.7
+2507,Paragominas,Pará,PA,1505502,paragominense,-3.0024862,-47.3531078,113145,19342.57,5.8
+2508,Parauapebas,Pará,PA,1505536,parauapebense,-6.0682494,-49.904199,208273,6886.21,30.2
+2509,Pau d'Arco,Pará,PA,1505551,paudarquense,-7.8324823,-50.0399157,5483,1671.42,3.3
+2510,Peixe-Boi,Pará,PA,1505601,peixe-boiense,-1.1454493,-47.2533007,8077,450.22,17.9
+2511,Piçarra,Pará,PA,1505635,Piçarrense,-6.6204728,-48.9605972,12981,3312.71,3.9
+2512,Placas,Pará,PA,1505650,plaquense,-3.867417,-54.2169567,30982,7173.19,4.3
+2513,Ponta de Pedras,Pará,PA,1505700,ponta-pedrense,-1.3942993,-48.8713539,31082,3363.75,9.2
+2514,Portel,Pará,PA,1505809,portelense,-1.9367459,-50.8198737,62043,25384.96,2.4
+2515,Porto de Moz,Pará,PA,1505908,porto-mozense,-2.0791566,-52.5318604,41135,17423.02,2.4
+2516,Prainha,Pará,PA,1506005,prainhense,-1.8016132,-53.4805508,29866,14786.95,2.0
+2517,Primavera,Pará,PA,1506104,primaverense,-0.9587731,-47.1167237,10825,258.6,41.9
+2518,Quatipuru,Pará,PA,1506112,quatipuruense,-0.8730501,-47.0388429,13608,289.62,47.0
+2519,Redenção,Pará,PA,1506138,redencense,-8.0257293,-50.0320734,84787,3823.81,22.2
+2520,Rio Maria,Pará,PA,1506161,rio-mariense,-7.3144167,-50.0462456,18193,4114.63,4.4
+2521,Rondon do Pará,Pará,PA,1506187,rondonense,-4.7783136,-48.0673853,52357,8246.39,6.3
+2522,Rurópolis,Pará,PA,1506195,ruropolense,-4.1007938,-54.9093329,50510,7021.32,7.2
+2523,Salinópolis,Pará,PA,1506203,salinopolitano,-0.6228818,-47.3468841,40675,223.16,182.3
+2524,Salvaterra,Pará,PA,1506302,salvaterrense,-0.7563298,-48.5154499,23752,918.56,25.9
+2525,Santa Bárbara do Pará,Pará,PA,1506351,santa-barbarense,-1.2270315,-48.2959964,21079,278.15,75.8
+2526,Santa Cruz do Arari,Pará,PA,1506401,arariense,-0.6647808,-49.1732098,10128,1076.65,9.4
+2527,Santa Izabel do Pará,Pará,PA,1506500,isabelense,-1.3931616,-48.1200592,70801,717.66,98.7
+2528,Santa Luzia do Pará,Pará,PA,1506559,santaluziense,-1.5215031,-46.9012232,19848,1356.12,14.6
+2529,Santa Maria das Barreiras,Pará,PA,1506583,barreirense,-8.871472,-49.7163325,21449,10330.21,2.1
+2530,Santa Maria do Pará,Pará,PA,1506609,santa-marianense,-1.35054,-47.5765304,24861,457.72,54.3
+2531,Santana do Araguaia,Pará,PA,1506708,araguaiense,-9.336623,-50.3413852,72817,11591.46,6.3
+2532,Santarém,Pará,PA,1506807,santareno,-2.4506291,-54.7009228,304589,17898.39,17.0
+2533,Santarém Novo,Pará,PA,1506906,santareno,-0.9196177,-47.3315076,6709,229.51,29.2
+2534,Santo Antônio do Tauá,Pará,PA,1507003,tauaense,-1.1528528,-48.1331997,31482,537.63,58.6
+2535,São Caetano de Odivelas,Pará,PA,1507102,odivelense,-0.744838,-48.0221415,18050,464.17,38.9
+2536,São Domingos do Araguaia,Pará,PA,1507151,são dominguense do araguaia,-5.6395369,-48.7593128,25557,1392.46,18.4
+2537,São Domingos do Capim,Pará,PA,1507201,capinense,-1.7613666,-47.6849007,31989,1677.25,19.1
+2538,São Félix do Xingu,Pará,PA,1507300,xinguense,-6.641438,-51.9825889,128481,84212.93,1.5
+2539,São Francisco do Pará,Pará,PA,1507409,franciscano,-1.1695195,-47.7973317,15882,479.44,33.1
+2540,São Geraldo do Araguaia,Pará,PA,1507458,são-geraldense,-6.2042232,-48.7995122,24847,3168.38,7.8
+2541,São João da Ponta,Pará,PA,1507466,são joão pontense,-0.8530528,-47.9228073,6139,195.92,31.3
+2542,São João de Pirabas,Pará,PA,1507474,pirabense,-0.805596,-47.2533007,23045,656.25,35.1
+2543,São João do Araguaia,Pará,PA,1507508,são-joanense,-5.436525,-48.6790007,13996,1279.89,10.9
+2544,São Miguel do Guamá,Pará,PA,1507607,guamaense,-1.6142433,-47.4815661,58986,1110.18,53.1
+2545,São Sebastião da Boa Vista,Pará,PA,1507706,boa-vistense,-1.7164195,-49.5317436,26640,1632.25,16.3
+2546,Sapucaia,Pará,PA,1507755,sapucaiense,-6.8204463,-49.609512,5930,1298.19,4.6
+2547,Senador José Porfírio,Pará,PA,1507805,porfiriense,-2.5863778,-51.9491551,11658,14419.92,0.8
+2548,Soure,Pará,PA,1507904,sourense,-0.7284713,-48.5178371,25374,2857.35,8.9
+2549,Tailândia,Pará,PA,1507953,tailandense,-2.9381533,-48.9510796,106339,4430.48,24.0
+2550,Terra Alta,Pará,PA,1507961,terraltense,-1.0389624,-47.906845,11720,204.97,57.2
+2551,Terra Santa,Pará,PA,1507979,terrasantense,-1.9854901,-56.4719928,18769,1895.88,9.9
+2552,Tomé-Açu,Pará,PA,1508001,tomé-açuense,-2.6729327,-48.2393528,63447,5145.36,12.3
+2553,Tracuateua,Pará,PA,1508035,tracuateuense,-0.9701345,-46.941659,30959,869.0,35.6
+2554,Trairão,Pará,PA,1508050,trairense,-5.1791026,-56.0249982,18989,11991.09,1.6
+2555,Tucumã,Pará,PA,1508084,tucumaense,-6.7471797,-51.1630352,39602,2512.59,15.8
+2556,Tucuruí,Pará,PA,1508100,tucuruiense,-3.8036143,-49.7728757,113659,2084.29,54.5
+2557,Ulianópolis,Pará,PA,1508126,ulianopolense,-3.7502472,-47.501107,59210,5088.47,11.6
+2558,Uruará,Pará,PA,1508159,uruaraense,-3.7155611,-53.7401061,45476,10791.41,4.2
+2559,Vigia,Pará,PA,1508209,vigiense,-0.9452342,-48.1002024,53686,401.59,133.7
+2560,Viseu,Pará,PA,1508308,visinense,-1.4391409,-46.3624686,61403,4939.25,12.4
+2561,Vitória do Xingu,Pará,PA,1508357,vitoriense,-2.8855557,-52.0125801,15134,3089.54,4.9
+2562,Xinguara,Pará,PA,1508407,xinguarense,-7.0999238,-49.9423425,44751,3779.35,11.8
+3853,Alta Floresta d'Oeste,Rondônia,RO,1100015,alta-florense,-11.9287293,-61.9958651,22945,7067.03,3.2
+3854,Alto Alegre dos Parecis,Rondônia,RO,1100379,alto-alegrense,-12.1326079,-61.8566786,13241,3958.27,3.3
+3855,Alto Paraíso,Rondônia,RO,1100403,alto-paraisense,-9.7205291,-63.3188117,21428,2651.82,8.1
+3856,Alvorada d'Oeste,Rondônia,RO,1100346,alvoradense,-11.3480881,-62.28777,14411,3029.19,4.8
+3857,Ariquemes,Rondônia,RO,1100023,ariquemense,-9.9061087,-63.0330263,107863,4426.57,24.4
+3858,Buritis,Rondônia,RO,1100452,buritisense,-10.1269585,-63.8640569,39654,3265.81,12.1
+3859,Cabixi,Rondônia,RO,1100031,cabixiense,-13.4623774,-60.6285091,5312,1314.35,4.0
+3860,Cacaulândia,Rondônia,RO,1100601,cacaulandense,-10.3716856,-62.9205918,6230,1961.78,3.2
+3861,Cacoal,Rondônia,RO,1100049,cacoaense,-11.434693,-61.4566885,85359,3792.89,22.5
+3862,Campo Novo de Rondônia,Rondônia,RO,1100700,campo-novense,-10.4557067,-63.8640569,14139,3442.01,4.1
+3863,Candeias do Jamari,Rondônia,RO,1100809,candeiense,-8.7975498,-63.4862036,26693,6843.87,3.9
+3864,Castanheiras,Rondônia,RO,1100908,castanheirense,-11.4139048,-61.943236,3052,892.84,3.4
+3865,Cerejeiras,Rondônia,RO,1100056,cerejeirense,-13.2109867,-61.2801996,16323,2783.3,5.9
+3866,Chupinguaia,Rondônia,RO,1100924,chupinguaiense,-12.5557924,-60.9029619,11182,5126.72,2.2
+3867,Colorado do Oeste,Rondônia,RO,1100064,coloradense,-13.1178429,-60.5459451,15882,1451.06,10.9
+3868,Corumbiara,Rondônia,RO,1100072,corumbiarense,-12.9986334,-60.9460084,7391,3060.32,2.4
+3869,Costa Marques,Rondônia,RO,1100080,costa-marquense,-12.4380262,-64.2268052,18331,4987.18,3.7
+3870,Cujubim,Rondônia,RO,1100940,cujubiense,-9.2052569,-62.5443612,25215,3863.95,6.5
+3871,Espigão d'Oeste,Rondônia,RO,1100098,espigãoense,-11.5323149,-61.0169967,32374,4518.03,7.2
+3872,Governador Jorge Teixeira,Rondônia,RO,1101005,jorge-teixeirense,-10.7167414,-63.1089658,7767,5067.38,1.5
+3873,Guajará-Mirim,Rondônia,RO,1100106,guajará-mirense,-10.789321,-65.3301049,46174,24855.72,1.9
+3874,Itapuã do Oeste,Rondônia,RO,1101104,jamariense,-9.1885166,-63.185581,10458,4081.58,2.6
+3875,Jaru,Rondônia,RO,1100114,jaruense,-10.4322235,-62.4792921,51775,2944.13,17.6
+3876,Ji-Paraná,Rondônia,RO,1100122,ji-paranaense,-10.8781412,-61.9326728,128969,6896.65,18.7
+3877,Machadinho d'Oeste,Rondônia,RO,1100130,machadinhense,-9.2306221,-61.8877321,39991,8509.27,4.7
+3878,Ministro Andreazza,Rondônia,RO,1101203,andreazense,-11.1798553,-61.5603244,9660,798.08,12.1
+3879,Mirante da Serra,Rondônia,RO,1101302,mirantense,-11.0289123,-62.6714775,10947,1191.88,9.2
+3880,Monte Negro,Rondônia,RO,1101401,monte-negrino,-10.2620182,-63.2963286,15852,1931.38,8.2
+3881,Nova Brasilândia d'Oeste,Rondônia,RO,1100148,brasilandense,-11.725083,-62.3131895,20474,1703.01,12.0
+3882,Nova Mamoré,Rondônia,RO,1100338,nova-mamorense,-10.4106668,-65.3305851,30583,10071.64,3.0
+3883,Nova União,Rondônia,RO,1101435,nova-uniense,-10.8641144,-62.4973826,6970,807.13,8.6
+3884,Novo Horizonte do Oeste,Rondônia,RO,1100502,novo-horizontino,-11.6485814,-62.1219725,8538,843.45,10.1
+3885,Ouro Preto do Oeste,Rondônia,RO,1100155,ouro-pretense,-10.6008331,-62.3095833,36035,1969.85,18.3
+3886,Parecis,Rondônia,RO,1101450,parecisense,-12.1911639,-61.4202019,6074,2548.68,2.4
+3887,Pimenta Bueno,Rondônia,RO,1100189,pimenta-buenense,-11.6723638,-61.1984811,36660,6240.94,5.9
+3888,Pimenteiras do Oeste,Rondônia,RO,1101468,pimenteirense,-13.064243,-61.7941232,2169,6014.73,0.4
+3889,Porto Velho,Rondônia,RO,1100205,porto-velhense,-8.7611605,-63.9004303,529544,34090.95,15.5
+3890,Presidente Médici,Rondônia,RO,1100254,mediciense,-11.0811465,-61.7941232,18986,1758.47,10.8
+3891,Primavera de Rondônia,Rondônia,RO,1101476,primaverense,-11.8693904,-61.3035248,2856,605.69,4.7
+3892,Rio Crespo,Rondônia,RO,1100262,rio-crespense,-9.6681036,-62.7794229,3764,1717.64,2.2
+3893,Rolim de Moura,Rondônia,RO,1100288,rolimorense,-11.7257556,-61.7781519,55058,1457.89,37.8
+3894,Santa Luzia d'Oeste,Rondônia,RO,1100296,santa-luziense,-11.9071996,-61.7784821,6495,1197.8,5.4
+3895,São Felipe d'Oeste,Rondônia,RO,1101484,são-felipense,-11.9079161,-61.4668962,5172,541.65,9.5
+3896,São Francisco do Guaporé,Rondônia,RO,1101492,são-francisquense,-12.0600542,-63.5691831,20266,10959.77,1.8
+3897,São Miguel do Guaporé,Rondônia,RO,1100320,miguelense,-11.6939069,-62.7144846,23005,7460.22,3.1
+3898,Seringueiras,Rondônia,RO,1101500,seringueinense,-11.7654562,-63.031406,11856,3773.51,3.1
+3899,Teixeirópolis,Rondônia,RO,1101559,teixeirense,-10.9460095,-62.2861215,4308,459.98,9.4
+3900,Theobroma,Rondônia,RO,1101609,theobromense,-10.1576141,-62.3565156,10444,2197.41,4.8
+3901,Urupá,Rondônia,RO,1101708,urupaense,-11.1242915,-62.3635277,11467,831.86,13.8
+3902,Vale do Anari,Rondônia,RO,1101757,anariense,-9.8574383,-62.1757236,11204,3135.11,3.6
+3903,Vale do Paraíso,Rondônia,RO,1101807,vale-paraisense,-10.5015572,-62.1219725,6825,965.68,7.1
+3904,Vilhena,Rondônia,RO,1100304,vilhenense,-12.7414031,-60.1304566,99854,11699.15,8.5
+3905,Alto Alegre,Roraima,RR,1400050,alto-alegrense,3.2028147,-63.3918347,15510,25753.49,0.6
+3906,Amajari,Roraima,RR,1400027,amajariense,3.7483614,-62.2626627,12796,28472.31,0.4
+3907,Boa Vista,Roraima,RR,1400100,boa-vistense,2.8235098,-60.6758331,399213,5687.04,70.2
+3908,Bonfim,Roraima,RR,1400159,bonfinense,2.7561804,-60.1184797,12409,8095.42,1.5
+3909,Cantá,Roraima,RR,1400175,cantaense,2.210474,-60.4892292,18335,7664.83,2.4
+3910,Caracaraí,Roraima,RR,1400209,caracaraiense,1.8248075,-61.1283967,21926,47380.38,0.5
+3911,Caroebe,Roraima,RR,1400233,caroebense,0.910165,-59.2879977,10169,12065.9,0.8
+3912,Iracema,Roraima,RR,1400282,iracemense,1.9734214,-62.5443612,11950,14351.13,0.8
+3913,Mucajaí,Roraima,RR,1400308,mucajaiense,2.6005122,-62.2626627,17853,12351.34,1.4
+3914,Normandia,Roraima,RR,1400407,normandiense,3.9543083,-60.0259466,11290,6966.81,1.6
+3915,Pacaraima,Roraima,RR,1400456,pacaraimense,4.2041087,-60.8609358,17401,8028.48,2.2
+3916,Rorainópolis,Roraima,RR,1400472,rorainopolitano,0.9396163,-60.4394192,30163,33579.74,0.9
+3917,São João da Baliza,Roraima,RR,1400506,baliziense,0.5861763,-59.9334764,8201,4284.51,1.9
+3918,São Luiz,Roraima,RR,1400605,são-luizense,0.8187674,-60.1647697,7986,1526.9,5.2
+3919,Uiramutã,Roraima,RR,1400704,uiramutansense,4.5474757,-60.3964505,10559,8065.56,1.3
+5432,Abreulândia,Tocantins,TO,1700251,abreulandense,-9.4608593,-49.3247147,2579,1895.21,1.4
+5433,Aguiarnópolis,Tocantins,TO,1700301,aguiarnopolense,-6.4899326,-47.5079055,6733,235.39,28.6
+5434,Aliança do Tocantins,Tocantins,TO,1700350,aliancense,-11.3352326,-48.9202828,5390,1579.75,3.4
+5435,Almas,Tocantins,TO,1700400,almense,-11.3624032,-47.2142417,7055,4013.24,1.8
+5436,Alvorada,Tocantins,TO,1700707,alvoradense,-12.4788946,-49.1253648,8412,1212.17,6.9
+5437,Ananás,Tocantins,TO,1701002,ananaense,-6.27541,-48.1597946,9549,1576.97,6.1
+5438,Angico,Tocantins,TO,1701051,angicoense,-6.4128276,-47.8822604,3433,451.73,7.6
+5439,Aparecida do Rio Negro,Tocantins,TO,1701101,aparecidense,-9.938143,-48.0010282,4795,1160.37,4.1
+5440,Aragominas,Tocantins,TO,1701309,aragominense,-6.8940313,-48.6790007,5758,1173.04,4.9
+5441,Araguacema,Tocantins,TO,1701903,araguacemense,-9.0393109,-49.609512,7086,2778.45,2.6
+5442,Araguaçu,Tocantins,TO,1702000,araguaçuense,-12.9257017,-49.8300464,8517,5167.65,1.6
+5443,Araguaína,Tocantins,TO,1702109,araguainense,-7.1927733,-48.204827,180470,4000.42,45.1
+5444,Araguanã,Tocantins,TO,1702158,araguanaense,-6.8101697,-48.5187229,5729,836.03,6.9
+5445,Araguatins,Tocantins,TO,1702208,araguatinense,-5.6484113,-48.1193893,35761,2625.29,13.6
+5446,Arapoema,Tocantins,TO,1702307,arapoemense,-7.6550372,-49.0641313,6643,1552.22,4.3
+5447,Arraias,Tocantins,TO,1702406,arraiano,-12.6770601,-46.9805103,10567,5786.87,1.8
+5448,Augustinópolis,Tocantins,TO,1702554,augustinopolino,-5.4694327,-47.8871121,18412,394.98,46.6
+5449,Aurora do Tocantins,Tocantins,TO,1702703,aurorense,-12.6677069,-46.400872,3757,752.83,5.0
+5450,Axixá do Tocantins,Tocantins,TO,1702901,axixaense,-5.6359054,-47.7834888,9756,150.21,64.9
+5451,Babaçulândia,Tocantins,TO,1703008,babaçulense,-7.2032092,-47.759016,10664,1788.46,6.0
+5452,Bandeirantes do Tocantins,Tocantins,TO,1703057,bandeirantense,-7.8051031,-48.6388879,3553,1541.85,2.3
+5453,Barra do Ouro,Tocantins,TO,1703073,barraourense,-7.719939,-47.6455169,4591,1106.35,4.1
+5454,Barrolândia,Tocantins,TO,1703107,barrolandense,-9.8168593,-48.8397403,5632,713.3,7.9
+5455,Bernardo Sayão,Tocantins,TO,1703206,bernardense,-7.8817598,-48.8944347,4459,926.89,4.8
+5456,Bom Jesus do Tocantins,Tocantins,TO,1703305,bonjesuense,-9.0488682,-47.8822604,4894,1332.67,3.7
+5457,Brasilândia do Tocantins,Tocantins,TO,1703602,brasilandense,-8.3895878,-48.4826413,2201,641.47,3.4
+5458,Brejinho de Nazaré,Tocantins,TO,1703701,brejinense,-11.0355349,-48.6388879,5497,1724.45,3.2
+5459,Buriti do Tocantins,Tocantins,TO,1703800,buritinense,-5.3430841,-48.1399232,11348,251.92,45.0
+5460,Cachoeirinha,Tocantins,TO,1703826,cachoeirense,-6.0768719,-47.8032284,2275,352.35,6.5
+5461,Campos Lindos,Tocantins,TO,1703842,campolindense,-8.1677815,-46.670534,10116,3240.18,3.1
+5462,Cariri do Tocantins,Tocantins,TO,1703867,caririense,-11.9598899,-49.1625989,4382,1128.6,3.9
+5463,Carmolândia,Tocantins,TO,1703883,carmolandense,-7.0615623,-48.3589086,2580,339.41,7.6
+5464,Carrasco Bonito,Tocantins,TO,1703891,carrascoense,-5.3331808,-48.0208484,4095,192.94,21.2
+5465,Caseara,Tocantins,TO,1703909,casearense,-9.3860087,-49.8137871,5369,1691.64,3.2
+5466,Centenário,Tocantins,TO,1704105,centenarense,-9.0109993,-47.3706554,2905,1954.7,1.5
+5467,Chapada da Natividade,Tocantins,TO,1705102,chapadense,-11.4740475,-47.8427298,3333,1646.47,2.0
+5468,Chapada de Areia,Tocantins,TO,1704600,chapadareiense,-10.1704902,-49.1828385,1406,659.25,2.1
+5469,Colinas do Tocantins,Tocantins,TO,1705508,colinense,-8.0988707,-48.5187229,35424,843.85,42.0
+5470,Colméia,Tocantins,TO,1716703,colmeiense,-8.8214214,-48.7593128,8205,990.72,8.3
+5471,Combinado,Tocantins,TO,1705557,combinadense,-12.8484623,-46.4970116,4852,209.57,23.2
+5472,Conceição do Tocantins,Tocantins,TO,1705607,conceicionense,-12.2236815,-47.2943843,4105,2500.74,1.6
+5473,Couto Magalhães,Tocantins,TO,1706001,coutense,-8.4157026,-49.1221414,5588,1585.79,3.5
+5474,Cristalândia,Tocantins,TO,1706100,cristalandense,-10.5880461,-49.4466005,7289,1848.24,3.9
+5475,Crixás do Tocantins,Tocantins,TO,1706258,crixaense,-11.2037661,-49.0009403,1722,986.69,1.7
+5476,Darcinópolis,Tocantins,TO,1706506,darcinopolino,-6.7930471,-47.7243139,6097,1639.16,3.7
+5477,Dianópolis,Tocantins,TO,1707009,dianopolino,-11.7319273,-46.9028375,22139,3217.31,6.9
+5478,Divinópolis do Tocantins,Tocantins,TO,1707108,divinopolino,-9.8461679,-49.284143,6900,2347.43,2.9
+5479,Dois Irmãos do Tocantins,Tocantins,TO,1707207,doisirmanense,-9.2560494,-49.1221414,7198,3757.04,1.9
+5480,Dueré,Tocantins,TO,1707306,duerense,-11.4596773,-49.4466005,4686,3424.85,1.4
+5481,Esperantina,Tocantins,TO,1707405,esperantinense,-5.3669497,-48.5400136,10996,504.02,21.8
+5482,Fátima,Tocantins,TO,1707553,fatimense,-10.8018046,-48.8598651,3835,382.91,10.0
+5483,Figueirópolis,Tocantins,TO,1707652,figueiropolense,-12.3411806,-49.4466005,5263,1930.07,2.7
+5484,Filadélfia,Tocantins,TO,1707702,filadelfiense,-7.5750645,-47.8427298,8856,1988.08,4.5
+5485,Formoso do Araguaia,Tocantins,TO,1708205,formosense do araguaia,-11.8031151,-50.1832516,18440,13423.38,1.4
+5486,Fortaleza do Tabocão,Tocantins,TO,1708254,tabocoense,-9.0788654,-48.598804,2589,621.56,4.2
+5487,Goianorte,Tocantins,TO,1708304,goianortense,-8.8344186,-49.1221414,5123,1800.98,2.8
+5488,Goiatins,Tocantins,TO,1709005,goiatinense,-8.0769353,-47.5275422,13019,6408.6,2.0
+5489,Guaraí,Tocantins,TO,1709302,guaraiense,-8.8358375,-48.511861,25923,2268.16,11.4
+5490,Gurupi,Tocantins,TO,1709500,gurupiense,-11.7283752,-49.0686083,86647,1836.09,47.2
+5491,Ipueiras,Tocantins,TO,1709807,ipueirense,-11.1100709,-48.4387577,2015,815.25,2.5
+5492,Itacajá,Tocantins,TO,1710508,itacajaense,-8.6214999,-47.5275422,7433,3051.36,2.4
+5493,Itaguatins,Tocantins,TO,1710706,itaguatinense,-5.7944344,-47.5668376,5864,739.86,7.9
+5494,Itapiratins,Tocantins,TO,1710904,itapiratinense,-8.3128929,-48.0406759,3777,1243.96,3.0
+5495,Itaporã do Tocantins,Tocantins,TO,1711100,itaporanense,-8.5721287,-48.689911,2427,972.98,2.5
+5496,Jaú do Tocantins,Tocantins,TO,1711506,jauense,-12.7819055,-48.6388879,3849,2173.05,1.8
+5497,Juarina,Tocantins,TO,1711803,juarinense,-8.1678982,-49.0817124,2193,481.05,4.6
+5498,Lagoa da Confusão,Tocantins,TO,1711902,lagoense,-10.9201482,-50.1832516,13357,10564.68,1.3
+5499,Lagoa do Tocantins,Tocantins,TO,1711951,lagoense do tocantins,-10.3141923,-47.4882762,4316,911.34,4.7
+5500,Lajeado,Tocantins,TO,1712009,lajeadense,-9.8602022,-48.299098,3134,322.49,9.7
+5501,Lavandeira,Tocantins,TO,1712157,lavandeirense,-12.8247013,-46.3816665,1923,519.61,3.7
+5502,Lizarda,Tocantins,TO,1712405,lizardense,-9.4922653,-46.9028375,3740,5723.23,0.7
+5503,Luzinópolis,Tocantins,TO,1712454,luzinopolino,-6.1899641,-47.8605304,3108,279.56,11.1
+5504,Marianópolis do Tocantins,Tocantins,TO,1712504,marianopolino,-9.7732484,-49.7728757,5175,2091.37,2.5
+5505,Mateiros,Tocantins,TO,1712702,mateirense,-10.6334285,-46.670534,2684,9681.66,0.3
+5506,Maurilândia do Tocantins,Tocantins,TO,1712801,maurilandense,-5.9531545,-47.508384,3426,738.11,4.6
+5507,Miracema do Tocantins,Tocantins,TO,1713205,miracemense,-9.5659692,-48.393409,18248,2656.09,6.9
+5508,Miranorte,Tocantins,TO,1713304,miranortense,-9.4405706,-48.6790007,13434,1031.62,13.0
+5509,Monte do Carmo,Tocantins,TO,1713601,carmelito,-10.7868625,-48.0010282,7947,3616.67,2.2
+5510,Monte Santo do Tocantins,Tocantins,TO,1713700,montesantense,-10.0660388,-49.0817124,2279,1091.55,2.1
+5511,Muricilândia,Tocantins,TO,1713957,muricilandense,-6.978297,-48.8397403,3551,1186.67,3.0
+5512,Natividade,Tocantins,TO,1714203,nativitano,-11.8764686,-47.6849007,9244,3240.72,2.9
+5513,Nazaré,Tocantins,TO,1714302,nazareno,-6.3207152,-47.7834888,3898,395.91,9.8
+5514,Nova Olinda,Tocantins,TO,1714880,novalindense,-7.632112,-48.4256587,11819,1566.18,7.5
+5515,Nova Rosalândia,Tocantins,TO,1715002,rosalandense,-10.5682633,-48.9115375,4260,516.31,8.3
+5516,Novo Acordo,Tocantins,TO,1715101,novoacordino,-10.2348587,-47.2142417,4342,2674.68,1.6
+5517,Novo Alegre,Tocantins,TO,1715150,novoalegrense,-12.9002047,-46.574058,2332,200.1,11.7
+5518,Novo Jardim,Tocantins,TO,1715259,novojardinense,-11.7022346,-46.5547852,2722,1309.67,2.1
+5519,Oliveira de Fátima,Tocantins,TO,1715507,oliverense,-10.6581088,-48.8598651,1112,205.85,5.4
+5520,Palmas,Tocantins,TO,1721000,palmense,-10.249091,-48.3242858,299127,2218.94,134.8
+5521,Palmeirante,Tocantins,TO,1715705,palmeirantense,-7.8624636,-47.936023,6026,2640.82,2.3
+5522,Palmeiras do Tocantins,Tocantins,TO,1713809,palmeirense,-6.5864212,-47.6455169,6658,747.9,8.9
+5523,Palmeirópolis,Tocantins,TO,1715754,palmeiropolitano,-13.0424273,-48.4073422,7659,1703.94,4.5
+5524,Paraíso do Tocantins,Tocantins,TO,1716109,paraisense,-10.1754102,-48.8826983,51252,1268.06,40.4
+5525,Paranã,Tocantins,TO,1716208,paranãense,-12.616294,-47.8758808,10449,11260.22,0.9
+5526,Pau d'Arco,Tocantins,TO,1716307,pau d’arquense,-7.5393444,-49.0009403,4849,1377.41,3.5
+5527,Pedro Afonso,Tocantins,TO,1716505,pedro afonsino,-9.2390843,-48.0010282,13578,2010.9,6.8
+5528,Peixe,Tocantins,TO,1716604,peixense,-12.0258541,-48.5399411,11749,5291.21,2.2
+5529,Pequizeiro,Tocantins,TO,1716653,pequizeirense,-8.3556964,-48.9202828,5477,1209.8,4.5
+5530,Pindorama do Tocantins,Tocantins,TO,1717008,pindoramense,-11.1333561,-47.5275422,4447,1559.09,2.9
+5531,Piraquê,Tocantins,TO,1717206,piraquêense,-6.7184598,-48.2791757,3028,1367.61,2.2
+5532,Pium,Tocantins,TO,1717503,piuense,-10.4427779,-49.1798964,7654,10013.77,0.8
+5533,Ponte Alta do Bom Jesus,Tocantins,TO,1717800,pontealtense,-12.0568102,-46.5547852,4596,1806.14,2.5
+5534,Ponte Alta do Tocantins,Tocantins,TO,1717909,pontealtense do tocantins,-10.7391631,-47.2923893,8039,6491.13,1.2
+5535,Porto Alegre do Tocantins,Tocantins,TO,1718006,porto-alegrense,-11.4905499,-47.0388429,3139,501.86,6.3
+5536,Porto Nacional,Tocantins,TO,1718204,portuense,-10.703164,-48.4084858,53010,4449.92,11.9
+5537,Praia Norte,Tocantins,TO,1718303,praianortense,-5.4921824,-47.8032284,8432,289.05,29.2
+5538,Presidente Kennedy,Tocantins,TO,1718402,kenediense,-8.5018332,-48.4387577,3684,770.42,4.8
+5539,Pugmil,Tocantins,TO,1718451,pugmilense,-10.3988154,-48.9202828,2688,401.83,6.7
+5540,Recursolândia,Tocantins,TO,1718501,recursolandense,-8.6935034,-47.058302,4293,2216.66,1.9
+5541,Riachinho,Tocantins,TO,1718550,riachiense,-6.4882713,-48.1399232,4645,517.48,9.0
+5542,Rio da Conceição,Tocantins,TO,1718659,conceiçãoense,-11.3209095,-46.7865516,2130,787.12,2.7
+5543,Rio dos Bois,Tocantins,TO,1718709,rioboiense,-9.266288,-48.4387577,2834,845.07,3.4
+5544,Rio Sono,Tocantins,TO,1718758,riosonense,-9.3452152,-47.8953385,6478,6354.37,1.0
+5545,Sampaio,Tocantins,TO,1718808,sampaiense,-5.3554841,-47.9020367,4711,222.29,21.2
+5546,Sandolândia,Tocantins,TO,1718840,sandolandense,-12.428274,-49.9366899,3375,3528.63,1.0
+5547,Santa Fé do Araguaia,Tocantins,TO,1718865,santaféense,-7.1603438,-48.9605972,7512,1678.09,4.5
+5548,Santa Maria do Tocantins,Tocantins,TO,1718881,santamarinense,-8.8416191,-47.8822604,3434,1410.46,2.4
+5549,Santa Rita do Tocantins,Tocantins,TO,1718899,santa ritense,-10.9964535,-49.284143,2365,3274.95,0.7
+5550,Santa Rosa do Tocantins,Tocantins,TO,1718907,santa rosense,-11.4149727,-48.1200592,4829,1796.26,2.7
+5551,Santa Tereza do Tocantins,Tocantins,TO,1719004,santa terezense,-10.2817773,-47.7243139,2866,539.91,5.3
+5552,Santa Terezinha do Tocantins,Tocantins,TO,1720002,terezinense do tocantins,-6.4812179,-47.7440315,2529,269.68,9.4
+5553,São Bento do Tocantins,Tocantins,TO,1720101,são bentense,-6.0279176,-47.9225383,5324,1105.9,4.8
+5554,São Félix do Tocantins,Tocantins,TO,1720150,são felense,-9.9954161,-46.5933382,1585,1908.68,0.8
+5555,São Miguel do Tocantins,Tocantins,TO,1720200,são miguelense,-5.5216977,-47.5864964,12139,398.82,30.4
+5556,São Salvador do Tocantins,Tocantins,TO,1720259,são salvadorense,-12.5456313,-48.3589086,3082,1422.03,2.2
+5557,São Sebastião do Tocantins,Tocantins,TO,1720309,sansebastianense,-5.2301219,-48.3389644,4805,287.27,16.7
+5558,São Valério,Tocantins,TO,1720499,são valeriano,-11.633333,-48.233333,3960,2519.59,1.6
+5559,Silvanópolis,Tocantins,TO,1720655,silvanopolino,-11.1996616,-48.1200592,5403,1258.83,4.3
+5560,Sítio Novo do Tocantins,Tocantins,TO,1720804,sítionovense,-5.6254052,-47.6652051,9029,324.1,27.9
+5561,Sucupira,Tocantins,TO,1720853,sucupirense,-12.1222563,-48.8397403,1966,1025.52,1.9
+5562,Taguatinga,Tocantins,TO,1720903,taguatinense,-12.4060068,-46.4340888,16683,2437.4,6.8
+5563,Taipas do Tocantins,Tocantins,TO,1720937,taipense,-12.1462854,-47.0193913,2148,1116.2,1.9
+5564,Talismã,Tocantins,TO,1720978,talismãense,-12.6952034,-48.9605972,2793,2156.89,1.3
+5565,Tocantínia,Tocantins,TO,1721109,tocantiniense,-9.5636129,-48.3745372,7545,2601.6,2.9
+5566,Tocantinópolis,Tocantins,TO,1721208,tocantinopolino,-6.2135168,-47.5275422,22870,1077.07,21.2
+5567,Tupirama,Tocantins,TO,1721257,tupiramense,-8.9653186,-48.2791757,1891,712.21,2.7
+5568,Tupiratins,Tocantins,TO,1721307,tupiratinense,-8.3332971,-48.1995591,2671,895.31,3.0
+5569,Wanderlândia,Tocantins,TO,1722081,wanderlandiense,-6.9224595,-48.0010282,11683,1373.06,8.5
+5570,Xambioá,Tocantins,TO,1722107,xambioaense,-6.5348814,-48.4387577,11540,1186.43,9.7

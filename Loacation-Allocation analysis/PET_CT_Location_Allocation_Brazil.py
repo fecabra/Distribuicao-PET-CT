@@ -335,14 +335,14 @@ print(item)
 
 
 #save the excel with allocated facilities results
-result1.output_facilities.sdf.to_excel(r"C:\Users\Carol\Desktop\TCC Distr. PET CT_100\output_facilities_SP.xlsx")
+result1.output_facilities.sdf.to_excel(r"~\output_facilities_SP.xlsx")
 ##result1.output_facilities.sdf.to_excel(r"~\output_facilities_Centro_Norte.xlsx")
 ##result1.output_facilities.sdf.to_excel(r"~\output_facilities_Sudeste.xlsx")
 ##result1.output_facilities.sdf.to_excel(r"~\output_facilities_Nordeste.xlsx")
 ##result1.output_facilities.sdf.to_excel(r"~\output_facilities_Sul.xlsx")
 
 #save the excel with not allocated facilities results
-result1.output_demand_points.sdf.to_excel(r"C:\Users\Carol\Desktop\TCC Distr. PET CT_100\output_not_allocated_SP.xlsx")
+result1.output_demand_points.sdf.to_excel(r"~\output_not_allocated_SP.xlsx")
 ##result1.output_demand_points.sdf.to_excel(r"~\output_not_allocated_Centro_Norte.xlsx")
 ##result1.output_demand_points.sdf.to_excel(r"~\output_not_allocated_Sudeste.xlsx")
 ##result1.output_demand_points.sdf.to_excel(r"~\output_not_allocated_Nordeste.xlsx")
